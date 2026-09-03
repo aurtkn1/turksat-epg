@@ -6,10 +6,13 @@ from xml.etree.ElementTree import Element, SubElement, ElementTree
 
 
 # ============================================================
-# TÜRKSAT KABLOTV EPG
+# TÜRKSAT KABLOTV - 7 GÜNLÜK EPG
 # ============================================================
 
-BASE_URL = "https://www.turksatkablo.com.tr/userUpload/EPG/{}.json"
+BASE_URL = (
+    "https://www.turksatkablo.com.tr/"
+    "userUpload/EPG/{}.json"
+)
 
 OUTPUT_FILE = "epg.xml"
 
@@ -24,6 +27,9 @@ USER_AGENT = (
 # SSL
 # ============================================================
 
+# Türksat sunucusunun SSL sertifikası GitHub Actions
+# ortamında doğrulanamadığı için sertifika kontrolünü
+# devre dışı bırakıyoruz.
 SSL_CONTEXT = ssl._create_unverified_context()
 
 
@@ -33,8 +39,6 @@ SSL_CONTEXT = ssl._create_unverified_context()
 
 def download_json(day):
 
-    # ÖNEMLİ:
-    # Türksat şu anda 03.json yerine 3.json kullanıyor.
     url = BASE_URL.format(day)
 
     request = urllib.request.Request(
@@ -60,7 +64,7 @@ def download_json(day):
 
 
 # ============================================================
-# XMLTV TARİH FORMATINA ÇEVİR
+# XMLTV ZAMAN FORMATINA ÇEVİR
 # ============================================================
 
 def xmltv_time(dt):
@@ -71,7 +75,10 @@ def xmltv_time(dt):
 
 
 # ============================================================
-# TÜRKSAT SAATİNİ UTC'YE ÇEVİR
+# TÜRKSAT YEREL SAATİNİ UTC'YE ÇEVİR
+#
+# Türksat saatleri Türkiye saati olarak geliyor.
+# Türkiye UTC+3 olduğu için 3 saat çıkarıyoruz.
 # ============================================================
 
 def parse_time(base_date, time_string):
@@ -90,7 +97,6 @@ def parse_time(base_date, time_string):
         0,
     )
 
-    # Türkiye UTC+3
     return local_time - timedelta(
         hours=3
     )
@@ -139,30 +145,79 @@ def create_program(
 
 def main():
 
-    today = datetime.now()
+    # --------------------------------------------------------
+    # BUGÜN
+    # --------------------------------------------------------
+
+    today = datetime.now().replace(
+        hour=0,
+        minute=0,
+        second=0,
+        microsecond=0,
+    )
+
+
+    # --------------------------------------------------------
+    # 7 GÜN OLUŞTUR
+    #
+    # 0 = bugün
+    # 1 = yarın
+    # 2 = +2 gün
+    # 3 = +3 gün
+    # 4 = +4 gün
+    # 5 = +5 gün
+    # 6 = +6 gün
+    # --------------------------------------------------------
 
     dates = [
-        today,
-        today + timedelta(days=1),
+        today + timedelta(days=i)
+        for i in range(7)
     ]
+
 
     all_data = []
 
 
     # ========================================================
-    # JSON DOSYALARINI İNDİR
+    # 7 GÜNLÜK TÜRSAT JSON DOSYALARINI İNDİR
     # ========================================================
 
     for date in dates:
 
         # ÖNEMLİ:
-        # 03 değil 3
-        # 04 değil 4
+        #
+        # Türksat şu anda:
+        #
+        # 3.json
+        # 4.json
+        # 5.json
+        #
+        # şeklinde kullanıyor.
+        #
+        # 03.json şeklinde kullanmıyoruz.
+
         day = str(date.day)
+
 
         try:
 
-            data = download_json(day)
+            data = download_json(
+                day
+            )
+
+
+            if not isinstance(
+                data,
+                dict
+            ):
+
+                print(
+                    day,
+                    ".json geçersiz veri döndürdü."
+                )
+
+                continue
+
 
             all_data.append(
                 (
@@ -171,10 +226,12 @@ def main():
                 )
             )
 
+
             print(
                 day,
                 ".json başarıyla alındı."
             )
+
 
         except Exception as error:
 
@@ -186,7 +243,7 @@ def main():
 
 
     # ========================================================
-    # HİÇ VERİ ALINAMADIYSA DUR
+    # HİÇBİR VERİ ALINAMADIYSA DUR
     # ========================================================
 
     if not all_data:
@@ -204,7 +261,7 @@ def main():
         "tv",
         {
             "generator-info-name":
-                "Türksat KabloTV GitHub EPG",
+                "Türksat KabloTV 7 Günlük EPG",
 
             "generator-info-url":
                 "https://www.turksatkablo.com.tr/",
@@ -220,26 +277,22 @@ def main():
 
 
     # ========================================================
-    # KANALLARI OLUŞTUR
+    # TÜM KANALLARI OLUŞTUR
     # ========================================================
 
     for base_date, data in all_data:
-
-        if not isinstance(
-            data,
-            dict
-        ):
-            continue
 
         items = data.get(
             "k",
             []
         )
 
+
         if not isinstance(
             items,
             list
         ):
+
             continue
 
 
@@ -249,7 +302,9 @@ def main():
                 item,
                 dict
             ):
+
                 continue
+
 
             internal_id = item.get(
                 "i"
@@ -262,9 +317,12 @@ def main():
 
 
             if internal_id is None:
+
                 continue
 
+
             if not name:
+
                 continue
 
 
@@ -273,10 +331,17 @@ def main():
             )
 
 
-            # Aynı kanal ikinci kez oluşturulmasın.
+            # Aynı kanal farklı günlerde
+            # tekrar oluşturulmasın.
+
             if internal_id in channels:
+
                 continue
 
+
+            # ------------------------------------------------
+            # KANAL ID
+            # ------------------------------------------------
 
             channel_id = (
                 "turksatkablo-"
@@ -319,17 +384,13 @@ def main():
 
 
     # ========================================================
-    # PROGRAMLAR
+    # PROGRAMLARI OLUŞTUR
     # ========================================================
 
+    program_count = 0
+
+
     for base_date, data in all_data:
-
-        if not isinstance(
-            data,
-            dict
-        ):
-            continue
-
 
         items = data.get(
             "k",
@@ -341,6 +402,7 @@ def main():
             items,
             list
         ):
+
             continue
 
 
@@ -350,6 +412,7 @@ def main():
                 item,
                 dict
             ):
+
                 continue
 
 
@@ -359,6 +422,7 @@ def main():
 
 
             if internal_id is None:
+
                 continue
 
 
@@ -368,6 +432,7 @@ def main():
 
 
             if internal_id not in channels:
+
                 continue
 
 
@@ -381,15 +446,16 @@ def main():
                 programs,
                 list
             ):
+
                 continue
 
 
             previous_start = None
 
 
-            # ------------------------------------------------
-            # PROGRAMLAR
-            # ------------------------------------------------
+            # =================================================
+            # KANAL PROGRAMLARI
+            # =================================================
 
             for program in programs:
 
@@ -397,6 +463,7 @@ def main():
                     program,
                     dict
                 ):
+
                     continue
 
 
@@ -405,9 +472,11 @@ def main():
                     "-"
                 )
 
+
                 start_text = program.get(
                     "c"
                 )
+
 
                 stop_text = program.get(
                     "d"
@@ -415,15 +484,18 @@ def main():
 
 
                 if not start_text:
+
                     continue
+
 
                 if not stop_text:
+
                     continue
 
 
-                # --------------------------------------------
-                # SAATLERİ PARSE ET
-                # --------------------------------------------
+                # ------------------------------------------------
+                # BAŞLANGIÇ VE BİTİŞ
+                # ------------------------------------------------
 
                 try:
 
@@ -432,19 +504,26 @@ def main():
                         start_text
                     )
 
+
                     stop = parse_time(
                         base_date,
                         stop_text
                     )
+
 
                 except Exception:
 
                     continue
 
 
-                # --------------------------------------------
+                # ------------------------------------------------
                 # GECE YARISINI GEÇEN PROGRAM
-                # --------------------------------------------
+                #
+                # Örneğin:
+                #
+                # 23:30 - 01:15
+                #
+                # ------------------------------------------------
 
                 if stop <= start:
 
@@ -453,9 +532,9 @@ def main():
                     )
 
 
-                # --------------------------------------------
+                # ------------------------------------------------
                 # SAAT SIRASI KONTROLÜ
-                # --------------------------------------------
+                # ------------------------------------------------
 
                 if (
                     previous_start is not None
@@ -477,9 +556,9 @@ def main():
                 previous_start = start
 
 
-                # --------------------------------------------
+                # ------------------------------------------------
                 # PROGRAM XML
-                # --------------------------------------------
+                # ------------------------------------------------
 
                 programme = create_program(
                     channels[internal_id]["id"],
@@ -494,6 +573,9 @@ def main():
                 )
 
 
+                program_count += 1
+
+
     # ========================================================
     # XML DOSYASINI KAYDET
     # ========================================================
@@ -503,7 +585,10 @@ def main():
     )
 
 
-    # XML'i okunabilir hale getir.
+    # --------------------------------------------------------
+    # XML'İ OKUNABİLİR HALE GETİR
+    # --------------------------------------------------------
+
     try:
 
         import xml.etree.ElementTree as ET
@@ -518,6 +603,10 @@ def main():
         pass
 
 
+    # --------------------------------------------------------
+    # DOSYAYI YAZ
+    # --------------------------------------------------------
+
     tree.write(
         OUTPUT_FILE,
         encoding="utf-8",
@@ -530,13 +619,12 @@ def main():
     # ========================================================
 
     print()
-
     print(
         "========================================"
     )
 
     print(
-        "EPG başarıyla oluşturuldu."
+        "7 GÜNLÜK EPG BAŞARIYLA OLUŞTURULDU"
     )
 
     print(
@@ -547,6 +635,16 @@ def main():
     print(
         "Kanal sayısı:",
         len(channels)
+    )
+
+    print(
+        "Program sayısı:",
+        program_count
+    )
+
+    print(
+        "Gün sayısı:",
+        len(all_data)
     )
 
     print(
