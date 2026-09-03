@@ -24,12 +24,6 @@ USER_AGENT = (
 # SSL
 # ============================================================
 
-# GitHub Actions ortamında Türksat sunucusunun sertifika zinciri
-# doğrulanamadığı için HTTPS bağlantısında sertifika doğrulamasını
-# devre dışı bırakıyoruz.
-#
-# Bu bağlantı yalnızca Türksat'ın herkese açık EPG JSON dosyasını
-# indirmek için kullanılıyor.
 SSL_CONTEXT = ssl._create_unverified_context()
 
 
@@ -39,6 +33,8 @@ SSL_CONTEXT = ssl._create_unverified_context()
 
 def download_json(day):
 
+    # ÖNEMLİ:
+    # Türksat şu anda 03.json yerine 3.json kullanıyor.
     url = BASE_URL.format(day)
 
     request = urllib.request.Request(
@@ -76,7 +72,6 @@ def xmltv_time(dt):
 
 # ============================================================
 # TÜRKSAT SAATİNİ UTC'YE ÇEVİR
-# Türkiye UTC+3
 # ============================================================
 
 def parse_time(base_date, time_string):
@@ -95,6 +90,7 @@ def parse_time(base_date, time_string):
         0,
     )
 
+    # Türkiye UTC+3
     return local_time - timedelta(
         hours=3
     )
@@ -159,7 +155,10 @@ def main():
 
     for date in dates:
 
-        day = date.strftime("%d")
+        # ÖNEMLİ:
+        # 03 değil 3
+        # 04 değil 4
+        day = str(date.day)
 
         try:
 
@@ -504,7 +503,7 @@ def main():
     )
 
 
-    # XML'i okunabilir şekilde biçimlendir.
+    # XML'i okunabilir hale getir.
     try:
 
         import xml.etree.ElementTree as ET
