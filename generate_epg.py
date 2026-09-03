@@ -1,9 +1,13 @@
 import json
+import ssl
 import urllib.request
-import urllib.error
 from datetime import datetime, timedelta
 from xml.etree.ElementTree import Element, SubElement, ElementTree
-from xml.sax.saxutils import escape
+
+
+# ============================================================
+# TÜRKSAT KABLOTV EPG
+# ============================================================
 
 BASE_URL = "https://www.turksatkablo.com.tr/userUpload/EPG/{}.json"
 
@@ -16,7 +20,25 @@ USER_AGENT = (
 )
 
 
+# ============================================================
+# SSL
+# ============================================================
+
+# GitHub Actions ortamında Türksat sunucusunun sertifika zinciri
+# doğrulanamadığı için HTTPS bağlantısında sertifika doğrulamasını
+# devre dışı bırakıyoruz.
+#
+# Bu bağlantı yalnızca Türksat'ın herkese açık EPG JSON dosyasını
+# indirmek için kullanılıyor.
+SSL_CONTEXT = ssl._create_unverified_context()
+
+
+# ============================================================
+# TÜRKSAT JSON DOSYASINI İNDİR
+# ============================================================
+
 def download_json(day):
+
     url = BASE_URL.format(day)
 
     request = urllib.request.Request(
@@ -30,37 +52,40 @@ def download_json(day):
 
     print("İndiriliyor:", url)
 
-    with urllib.request.urlopen(request, timeout=60) as response:
-        data = response.read().decode("utf-8")
+    with urllib.request.urlopen(
+        request,
+        timeout=60,
+        context=SSL_CONTEXT,
+    ) as response:
 
-    return json.loads(data)
+        content = response.read().decode("utf-8")
 
+    return json.loads(content)
+
+
+# ============================================================
+# XMLTV TARİH FORMATINA ÇEVİR
+# ============================================================
 
 def xmltv_time(dt):
-    # XMLTV standardı UTC zamanı +0000 şeklinde ister.
-    return dt.strftime("%Y%m%d%H%M%S +0000")
 
-
-def create_program(channel_id, title, start, stop):
-    programme = Element(
-        "programme",
-        {
-            "start": xmltv_time(start),
-            "stop": xmltv_time(stop),
-            "channel": channel_id,
-        },
+    return dt.strftime(
+        "%Y%m%d%H%M%S +0000"
     )
 
-    title_element = SubElement(programme, "title", {"lang": "tr"})
-    title_element.text = title if title else "-"
 
-    return programme
-
+# ============================================================
+# TÜRKSAT SAATİNİ UTC'YE ÇEVİR
+# Türkiye UTC+3
+# ============================================================
 
 def parse_time(base_date, time_string):
-    hour, minute = map(int, time_string.split(":"))
 
-    # Türksat saatleri Türkiye yerel saati olarak kabul edilir.
+    hour, minute = map(
+        int,
+        time_string.split(":")
+    )
+
     local_time = datetime(
         base_date.year,
         base_date.month,
@@ -70,11 +95,54 @@ def parse_time(base_date, time_string):
         0,
     )
 
-    # Türkiye UTC+3.
-    return local_time - timedelta(hours=3)
+    return local_time - timedelta(
+        hours=3
+    )
 
+
+# ============================================================
+# PROGRAM XML'İ OLUŞTUR
+# ============================================================
+
+def create_program(
+    channel_id,
+    title,
+    start,
+    stop,
+):
+
+    programme = Element(
+        "programme",
+        {
+            "start": xmltv_time(start),
+            "stop": xmltv_time(stop),
+            "channel": channel_id,
+        },
+    )
+
+    title_element = SubElement(
+        programme,
+        "title",
+        {
+            "lang": "tr"
+        },
+    )
+
+    title_element.text = (
+        title
+        if title
+        else "-"
+    )
+
+    return programme
+
+
+# ============================================================
+# ANA İŞLEM
+# ============================================================
 
 def main():
+
     today = datetime.now()
 
     dates = [
@@ -84,136 +152,335 @@ def main():
 
     all_data = []
 
+
+    # ========================================================
+    # JSON DOSYALARINI İNDİR
+    # ========================================================
+
     for date in dates:
+
         day = date.strftime("%d")
 
         try:
+
             data = download_json(day)
-            all_data.append((date, data))
-        except Exception as e:
-            print(f"{day}.json alınamadı:", e)
+
+            all_data.append(
+                (
+                    date,
+                    data
+                )
+            )
+
+            print(
+                day,
+                ".json başarıyla alındı."
+            )
+
+        except Exception as error:
+
+            print(
+                day,
+                ".json alınamadı:",
+                error
+            )
+
+
+    # ========================================================
+    # HİÇ VERİ ALINAMADIYSA DUR
+    # ========================================================
 
     if not all_data:
-        raise RuntimeError("Hiçbir Türksat EPG dosyası alınamadı.")
+
+        raise RuntimeError(
+            "Türksat EPG verisi alınamadı."
+        )
+
+
+    # ========================================================
+    # XMLTV ANA ETİKETİ
+    # ========================================================
 
     tv = Element(
         "tv",
         {
-            "generator-info-name": "Türksat KabloTV GitHub EPG",
-            "generator-info-url": "https://www.turksatkablo.com.tr/",
+            "generator-info-name":
+                "Türksat KabloTV GitHub EPG",
+
+            "generator-info-url":
+                "https://www.turksatkablo.com.tr/",
         },
     )
 
+
+    # ========================================================
+    # KANALLAR
+    # ========================================================
+
     channels = {}
 
-    # Önce bütün kanalları oluşturuyoruz.
+
+    # ========================================================
+    # KANALLARI OLUŞTUR
+    # ========================================================
+
     for base_date, data in all_data:
-        if not isinstance(data, dict):
+
+        if not isinstance(
+            data,
+            dict
+        ):
             continue
 
-        items = data.get("k", [])
+        items = data.get(
+            "k",
+            []
+        )
 
-        if not isinstance(items, list):
+        if not isinstance(
+            items,
+            list
+        ):
             continue
+
 
         for item in items:
-            if not isinstance(item, dict):
+
+            if not isinstance(
+                item,
+                dict
+            ):
                 continue
 
-            internal_id = item.get("i")
-            name = item.get("n", "")
+            internal_id = item.get(
+                "i"
+            )
 
-            if internal_id is None or not name:
-                continue
+            name = item.get(
+                "n",
+                ""
+            )
 
-            internal_id = str(internal_id)
-
-            # Aynı kanal farklı günlerde tekrar gelirse
-            # yalnızca bir kez oluştur.
-            if internal_id not in channels:
-                channel_id = f"turksatkablo-{internal_id}"
-
-                channels[internal_id] = {
-                    "id": channel_id,
-                    "name": name,
-                }
-
-                channel = SubElement(
-                    tv,
-                    "channel",
-                    {"id": channel_id},
-                )
-
-                display_name = SubElement(
-                    channel,
-                    "display-name",
-                    {"lang": "tr"},
-                )
-
-                display_name.text = name
-
-    # Programları oluştur.
-    for base_date, data in all_data:
-        if not isinstance(data, dict):
-            continue
-
-        items = data.get("k", [])
-
-        if not isinstance(items, list):
-            continue
-
-        for item in items:
-            if not isinstance(item, dict):
-                continue
-
-            internal_id = item.get("i")
 
             if internal_id is None:
                 continue
 
-            internal_id = str(internal_id)
+            if not name:
+                continue
+
+
+            internal_id = str(
+                internal_id
+            )
+
+
+            # Aynı kanal ikinci kez oluşturulmasın.
+            if internal_id in channels:
+                continue
+
+
+            channel_id = (
+                "turksatkablo-"
+                + internal_id
+            )
+
+
+            channels[internal_id] = {
+                "id": channel_id,
+                "name": name,
+            }
+
+
+            # ------------------------------------------------
+            # CHANNEL
+            # ------------------------------------------------
+
+            channel = SubElement(
+                tv,
+                "channel",
+                {
+                    "id": channel_id
+                },
+            )
+
+
+            # ------------------------------------------------
+            # DISPLAY NAME
+            # ------------------------------------------------
+
+            display_name = SubElement(
+                channel,
+                "display-name",
+                {
+                    "lang": "tr"
+                },
+            )
+
+            display_name.text = name
+
+
+    # ========================================================
+    # PROGRAMLAR
+    # ========================================================
+
+    for base_date, data in all_data:
+
+        if not isinstance(
+            data,
+            dict
+        ):
+            continue
+
+
+        items = data.get(
+            "k",
+            []
+        )
+
+
+        if not isinstance(
+            items,
+            list
+        ):
+            continue
+
+
+        for item in items:
+
+            if not isinstance(
+                item,
+                dict
+            ):
+                continue
+
+
+            internal_id = item.get(
+                "i"
+            )
+
+
+            if internal_id is None:
+                continue
+
+
+            internal_id = str(
+                internal_id
+            )
+
 
             if internal_id not in channels:
                 continue
 
-            programs = item.get("p", [])
 
-            if not isinstance(programs, list):
+            programs = item.get(
+                "p",
+                []
+            )
+
+
+            if not isinstance(
+                programs,
+                list
+            ):
                 continue
+
 
             previous_start = None
 
+
+            # ------------------------------------------------
+            # PROGRAMLAR
+            # ------------------------------------------------
+
             for program in programs:
-                if not isinstance(program, dict):
+
+                if not isinstance(
+                    program,
+                    dict
+                ):
                     continue
 
-                title = program.get("b", "-")
-                start_text = program.get("c")
-                stop_text = program.get("d")
 
-                if not start_text or not stop_text:
+                title = program.get(
+                    "b",
+                    "-"
+                )
+
+                start_text = program.get(
+                    "c"
+                )
+
+                stop_text = program.get(
+                    "d"
+                )
+
+
+                if not start_text:
                     continue
+
+                if not stop_text:
+                    continue
+
+
+                # --------------------------------------------
+                # SAATLERİ PARSE ET
+                # --------------------------------------------
 
                 try:
-                    start = parse_time(base_date, start_text)
-                    stop = parse_time(base_date, stop_text)
+
+                    start = parse_time(
+                        base_date,
+                        start_text
+                    )
+
+                    stop = parse_time(
+                        base_date,
+                        stop_text
+                    )
+
                 except Exception:
+
                     continue
 
-                # Türksat'ta örneğin 22:00 → 06:00 gibi
-                # gece yarısını geçen yayınlar var.
-                if stop <= start:
-                    stop += timedelta(days=1)
 
-                # Bazı kanallarda gün içindeki saatler tekrar
-                # başladığında tarihi bir gün ileri taşı.
-                if previous_start is not None and start < previous_start:
-                    start += timedelta(days=1)
+                # --------------------------------------------
+                # GECE YARISINI GEÇEN PROGRAM
+                # --------------------------------------------
+
+                if stop <= start:
+
+                    stop += timedelta(
+                        days=1
+                    )
+
+
+                # --------------------------------------------
+                # SAAT SIRASI KONTROLÜ
+                # --------------------------------------------
+
+                if (
+                    previous_start is not None
+                    and start < previous_start
+                ):
+
+                    start += timedelta(
+                        days=1
+                    )
+
 
                     if stop <= start:
-                        stop += timedelta(days=1)
+
+                        stop += timedelta(
+                            days=1
+                        )
+
 
                 previous_start = start
+
+
+                # --------------------------------------------
+                # PROGRAM XML
+                # --------------------------------------------
 
                 programme = create_program(
                     channels[internal_id]["id"],
@@ -222,16 +489,35 @@ def main():
                     stop,
                 )
 
-                tv.append(programme)
 
-    tree = ElementTree(tv)
+                tv.append(
+                    programme
+                )
 
+
+    # ========================================================
+    # XML DOSYASINI KAYDET
+    # ========================================================
+
+    tree = ElementTree(
+        tv
+    )
+
+
+    # XML'i okunabilir şekilde biçimlendir.
     try:
+
         import xml.etree.ElementTree as ET
 
-        ET.indent(tree, space="  ")
+        ET.indent(
+            tree,
+            space="  "
+        )
+
     except Exception:
+
         pass
+
 
     tree.write(
         OUTPUT_FILE,
@@ -239,13 +525,40 @@ def main():
         xml_declaration=True,
     )
 
-    print()
-    print("========================================")
-    print("EPG başarıyla oluşturuldu.")
-    print("Dosya:", OUTPUT_FILE)
-    print("Kanal sayısı:", len(channels))
-    print("========================================")
 
+    # ========================================================
+    # SONUÇ
+    # ========================================================
+
+    print()
+
+    print(
+        "========================================"
+    )
+
+    print(
+        "EPG başarıyla oluşturuldu."
+    )
+
+    print(
+        "Dosya:",
+        OUTPUT_FILE
+    )
+
+    print(
+        "Kanal sayısı:",
+        len(channels)
+    )
+
+    print(
+        "========================================"
+    )
+
+
+# ============================================================
+# ÇALIŞTIR
+# ============================================================
 
 if __name__ == "__main__":
+
     main()
