@@ -1023,8 +1023,11 @@
   <programme start="20260926224500 +0000" stop="20260927004000 +0000" channel="turksatkablo-22">
     <title lang="tr">Mehmed: Fetihler Sultanı</title>
   </programme>
-  <programme start="20260927004000 +0000" stop="20260927030000 +0000" channel="turksatkablo-22">
+  <programme start="20260927004000 +0000" stop="20260927025800 +0000" channel="turksatkablo-22">
     <title lang="tr">Gönül Dağı</title>
+  </programme>
+  <programme start="20260927025800 +0000" stop="20260927030000 +0000" channel="turksatkablo-22">
+    <title lang="tr">İstiklal Marşı</title>
   </programme>
   <programme start="20260927030000 +0000" stop="20260927052500 +0000" channel="turksatkablo-22">
     <title lang="tr">Kalk Gidelim</title>
@@ -1170,11 +1173,11 @@
   <programme start="20260927110000 +0000" stop="20260927123000 +0000" channel="turksatkablo-26">
     <title lang="tr">Bir Şansım Olsa</title>
   </programme>
-  <programme start="20260927123000 +0000" stop="20260927124500 +0000" channel="turksatkablo-26">
+  <programme start="20260927123000 +0000" stop="20260927125000 +0000" channel="turksatkablo-26">
     <title lang="tr">En Güzel Bölüm</title>
   </programme>
-  <programme start="20260927124500 +0000" stop="20260927160000 +0000" channel="turksatkablo-26">
-    <title lang="tr">Yerli Dizi / Sinema</title>
+  <programme start="20260927125000 +0000" stop="20260927160000 +0000" channel="turksatkablo-26">
+    <title lang="tr">Başkalarının Hayatı</title>
   </programme>
   <programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="turksatkablo-26">
     <title lang="tr">Star Haber</title>
@@ -12261,11 +12264,8 @@
   <programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="turksatkablo-246">
     <title lang="tr">Kanaryalar Soruyor</title>
   </programme>
-  <programme start="20260927053000 +0000" stop="20260927063000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Stüdyoda Futbol</title>
-  </programme>
-  <programme start="20260927063000 +0000" stop="20260927073000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Kafa Kafaya</title>
+  <programme start="20260927053000 +0000" stop="20260927073000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Gündem Özel</title>
   </programme>
   <programme start="20260927073000 +0000" stop="20260927130000 +0000" channel="turksatkablo-246">
     <title lang="tr">Olağan Genel Kurul Toplantısı</title>
@@ -20580,8 +20580,11 @@
   <programme start="20260926224500 +0000" stop="20260927004000 +0000" channel="turksatkablo-900">
     <title lang="tr">Mehmed: Fetihler Sultanı</title>
   </programme>
-  <programme start="20260927004000 +0000" stop="20260927030000 +0000" channel="turksatkablo-900">
+  <programme start="20260927004000 +0000" stop="20260927025800 +0000" channel="turksatkablo-900">
     <title lang="tr">Gönül Dağı</title>
+  </programme>
+  <programme start="20260927025800 +0000" stop="20260927030000 +0000" channel="turksatkablo-900">
+    <title lang="tr">İstiklal Marşı</title>
   </programme>
   <programme start="20260927030000 +0000" stop="20260927052500 +0000" channel="turksatkablo-900">
     <title lang="tr">Kalk Gidelim</title>
@@ -20688,11 +20691,11 @@
   <programme start="20260927110000 +0000" stop="20260927123000 +0000" channel="turksatkablo-905">
     <title lang="tr">Bir Şansım Olsa</title>
   </programme>
-  <programme start="20260927123000 +0000" stop="20260927124500 +0000" channel="turksatkablo-905">
+  <programme start="20260927123000 +0000" stop="20260927125000 +0000" channel="turksatkablo-905">
     <title lang="tr">En Güzel Bölüm</title>
   </programme>
-  <programme start="20260927124500 +0000" stop="20260927160000 +0000" channel="turksatkablo-905">
-    <title lang="tr">Yerli Dizi / Sinema</title>
+  <programme start="20260927125000 +0000" stop="20260927160000 +0000" channel="turksatkablo-905">
+    <title lang="tr">Başkalarının Hayatı</title>
   </programme>
   <programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="turksatkablo-905">
     <title lang="tr">Star Haber</title>
@@ -22930,7 +22933,7 @@
     <title lang="tr">-</title>
   </programme>
   <programme start="20260927211500 +0000" stop="20260927233000 +0000" channel="turksatkablo-26">
-    <title lang="tr">Yerli Dizi / Sinema</title>
+    <title lang="tr">Başkalarının Hayatı</title>
   </programme>
   <programme start="20260927233000 +0000" stop="20260928010000 +0000" channel="turksatkablo-26">
     <title lang="tr">Fazilet Hanım Ve Kızları</title>
@@ -30624,14 +30627,8 @@
   <programme start="20260927222300 +0000" stop="20260927223600 +0000" channel="turksatkablo-109">
     <title lang="tr">A day in history</title>
   </programme>
-  <programme start="20260927223600 +0000" stop="20260927230000 +0000" channel="turksatkablo-109">
+  <programme start="20260927223600 +0000" stop="20260928060000 +0000" channel="turksatkablo-109">
     <title lang="tr">Mobile reporter</title>
-  </programme>
-  <programme start="20260927230000 +0000" stop="20260928030000 +0000" channel="turksatkablo-109">
-    <title lang="tr">Pause</title>
-  </programme>
-  <programme start="20260928030000 +0000" stop="20260928060000 +0000" channel="turksatkablo-109">
-    <title lang="tr">Pause</title>
   </programme>
   <programme start="20260928060000 +0000" stop="20260928063000 +0000" channel="turksatkablo-109">
     <title lang="tr">News at 9</title>
@@ -34129,7 +34126,7 @@
     <title lang="tr">Türkiye Sigorta Basketbol Süper Ligi</title>
   </programme>
   <programme start="20260928020000 +0000" stop="20260928030000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Stüdyoda Futbol</title>
+    <title lang="tr">Stüdyo Futbol</title>
   </programme>
   <programme start="20260928030000 +0000" stop="20260928040000 +0000" channel="turksatkablo-246">
     <title lang="tr">Fenerium On Air</title>
@@ -42517,7 +42514,7 @@
     <title lang="tr">-</title>
   </programme>
   <programme start="20260927211500 +0000" stop="20260927233000 +0000" channel="turksatkablo-905">
-    <title lang="tr">Yerli Dizi / Sinema</title>
+    <title lang="tr">Başkalarının Hayatı</title>
   </programme>
   <programme start="20260927233000 +0000" stop="20260928010000 +0000" channel="turksatkablo-905">
     <title lang="tr">Fazilet Hanım Ve Kızları</title>
