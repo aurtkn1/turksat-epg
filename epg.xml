@@ -1707,14 +1707,23 @@
   <programme start="20261024203000 +0000" stop="20261024213000 +0000" channel="turksatkablo-35">
     <title lang="tr">Altın Peşinde: Alaska</title>
   </programme>
-  <programme start="20261023210000 +0000" stop="20261024050000 +0000" channel="turksatkablo-36">
+  <programme start="20261023210000 +0000" stop="20261024030000 +0000" channel="turksatkablo-36">
     <title lang="tr">-</title>
+  </programme>
+  <programme start="20261024030000 +0000" stop="20261024040000 +0000" channel="turksatkablo-36">
+    <title lang="tr">Sahib-i Ata Sohbetleri</title>
+  </programme>
+  <programme start="20261024040000 +0000" stop="20261024043000 +0000" channel="turksatkablo-36">
+    <title lang="tr">Peygamber İklimden</title>
+  </programme>
+  <programme start="20261024043000 +0000" stop="20261024050000 +0000" channel="turksatkablo-36">
+    <title lang="tr">Afrika Hikayesi</title>
   </programme>
   <programme start="20261024050000 +0000" stop="20261024063000 +0000" channel="turksatkablo-36">
     <title lang="tr">Sabah Gündemi</title>
   </programme>
   <programme start="20261024063000 +0000" stop="20261024070000 +0000" channel="turksatkablo-36">
-    <title lang="tr">Belgesel</title>
+    <title lang="tr">Şehirlerin Ruhu</title>
   </programme>
   <programme start="20261024070000 +0000" stop="20261024080000 +0000" channel="turksatkablo-36">
     <title lang="tr">Çizgi Film</title>
@@ -1920,131 +1929,164 @@
   <programme start="20261024193000 +0000" stop="20261024210000 +0000" channel="turksatkablo-39">
     <title lang="tr">Stratejik Akıl</title>
   </programme>
-  <programme start="20261023210000 +0000" stop="20261023212100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Evcins Home</title>
-  </programme>
-  <programme start="20261023212100 +0000" stop="20261023220000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Sweet Village</title>
-  </programme>
-  <programme start="20261023220000 +0000" stop="20261023222800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hisseden Adam</title>
-  </programme>
-  <programme start="20261023222800 +0000" stop="20261023230800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Faraway Village</title>
-  </programme>
-  <programme start="20261023230800 +0000" stop="20261023235200 +0000" channel="turksatkablo-40">
+  <programme start="20261023210000 +0000" stop="20261023211900 +0000" channel="turksatkablo-40">
     <title lang="tr">Kend Hayatı</title>
   </programme>
-  <programme start="20261023235200 +0000" stop="20261024002400 +0000" channel="turksatkablo-40">
+  <programme start="20261023211900 +0000" stop="20261023214400 +0000" channel="turksatkablo-40">
     <title lang="tr">Kend Hayatı</title>
   </programme>
-  <programme start="20261024002400 +0000" stop="20261024010500 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hasan Ada</title>
+  <programme start="20261023214400 +0000" stop="20261023220300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Vahşi Doğanın Koruyucuları</title>
   </programme>
-  <programme start="20261024010500 +0000" stop="20261024015100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Doğanın Takvimi</title>
+  <programme start="20261023220300 +0000" stop="20261023222400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Crazy Bushcraft</title>
   </programme>
-  <programme start="20261024015100 +0000" stop="20261024023300 +0000" channel="turksatkablo-40">
-    <title lang="tr">Çin'in Vahşi Sırları</title>
-  </programme>
-  <programme start="20261024023300 +0000" stop="20261024025600 +0000" channel="turksatkablo-40">
-    <title lang="tr">Master Truck Driver</title>
-  </programme>
-  <programme start="20261024025600 +0000" stop="20261024030700 +0000" channel="turksatkablo-40">
-    <title lang="tr">Master Truck Driver</title>
-  </programme>
-  <programme start="20261024030700 +0000" stop="20261024034600 +0000" channel="turksatkablo-40">
+  <programme start="20261023222400 +0000" stop="20261023224400 +0000" channel="turksatkablo-40">
     <title lang="tr">Polissya Bushcraft</title>
   </programme>
-  <programme start="20261024034600 +0000" stop="20261024040000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wilderness Grill</title>
+  <programme start="20261023224400 +0000" stop="20261023231100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Polissya Bushcraft</title>
   </programme>
-  <programme start="20261024040000 +0000" stop="20261024050000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Outdoor Builder</title>
+  <programme start="20261023231100 +0000" stop="20261023234600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Polissya Bushcraft</title>
   </programme>
-  <programme start="20261024050000 +0000" stop="20261024052200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Outdoor Builder</title>
+  <programme start="20261023234600 +0000" stop="20261024001300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hk Outdoors</title>
   </programme>
-  <programme start="20261024052200 +0000" stop="20261024060900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Rota Hazır</title>
+  <programme start="20261024001300 +0000" stop="20261024004400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hk Outdoors</title>
   </programme>
-  <programme start="20261024060900 +0000" stop="20261024062300 +0000" channel="turksatkablo-40">
-    <title lang="tr">İndigo Traveller</title>
+  <programme start="20261024004400 +0000" stop="20261024005900 +0000" channel="turksatkablo-40">
+    <title lang="tr">The Ulengovs</title>
   </programme>
-  <programme start="20261024062300 +0000" stop="20261024064400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Visual Walk UK</title>
+  <programme start="20261024005900 +0000" stop="20261024012200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Lesnoy-Craft</title>
   </programme>
-  <programme start="20261024064400 +0000" stop="20261024071100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Visual Walk UK</title>
-  </programme>
-  <programme start="20261024071100 +0000" stop="20261024075000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Sweet Village</title>
-  </programme>
-  <programme start="20261024075000 +0000" stop="20261024082400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Sweet Village</title>
-  </programme>
-  <programme start="20261024082400 +0000" stop="20261024084200 +0000" channel="turksatkablo-40">
+  <programme start="20261024012200 +0000" stop="20261024013500 +0000" channel="turksatkablo-40">
     <title lang="tr">Meaty Cheesy</title>
   </programme>
-  <programme start="20261024084200 +0000" stop="20261024090800 +0000" channel="turksatkablo-40">
+  <programme start="20261024013500 +0000" stop="20261024015200 +0000" channel="turksatkablo-40">
     <title lang="tr">Meaty Cheesy</title>
   </programme>
-  <programme start="20261024090800 +0000" stop="20261024092900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
+  <programme start="20261024015200 +0000" stop="20261024020800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Never Too Small</title>
   </programme>
-  <programme start="20261024092900 +0000" stop="20261024101000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hisseden Adam</title>
-  </programme>
-  <programme start="20261024101000 +0000" stop="20261024105100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hisseden Adam</title>
-  </programme>
-  <programme start="20261024105100 +0000" stop="20261024114400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Evcins Home</title>
-  </programme>
-  <programme start="20261024114400 +0000" stop="20261024120500 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
-  </programme>
-  <programme start="20261024120500 +0000" stop="20261024123800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Amerika Depo Savaşları</title>
-  </programme>
-  <programme start="20261024123800 +0000" stop="20261024131800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Amerika Depo Savaşları</title>
-  </programme>
-  <programme start="20261024131800 +0000" stop="20261024133900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
-  </programme>
-  <programme start="20261024133900 +0000" stop="20261024142800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Alfa</title>
-  </programme>
-  <programme start="20261024142800 +0000" stop="20261024151800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Seyyarhane</title>
-  </programme>
-  <programme start="20261024151800 +0000" stop="20261024153900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
-  </programme>
-  <programme start="20261024153900 +0000" stop="20261024162000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Antik Seyyah</title>
-  </programme>
-  <programme start="20261024162000 +0000" stop="20261024170000 +0000" channel="turksatkablo-40">
+  <programme start="20261024020800 +0000" stop="20261024023700 +0000" channel="turksatkablo-40">
     <title lang="tr">Kend Hayatı</title>
   </programme>
-  <programme start="20261024170000 +0000" stop="20261024180400 +0000" channel="turksatkablo-40">
+  <programme start="20261024023700 +0000" stop="20261024025700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Farm Tales</title>
+  </programme>
+  <programme start="20261024025700 +0000" stop="20261024031700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Farm Tales</title>
+  </programme>
+  <programme start="20261024031700 +0000" stop="20261024034200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Serkan Bilgin</title>
+  </programme>
+  <programme start="20261024034200 +0000" stop="20261024040000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hasan Ada</title>
+  </programme>
+  <programme start="20261024040000 +0000" stop="20261024044100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Lesnoy-Craft</title>
+  </programme>
+  <programme start="20261024044100 +0000" stop="20261024045600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Rusty Shades Restoration</title>
+  </programme>
+  <programme start="20261024045600 +0000" stop="20261024052000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Rusty Shades Restoration</title>
+  </programme>
+  <programme start="20261024052000 +0000" stop="20261024055800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Omg Scaleworks</title>
+  </programme>
+  <programme start="20261024055800 +0000" stop="20261024061400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Asbjorn Olsen Berg Bushcraft</title>
+  </programme>
+  <programme start="20261024061400 +0000" stop="20261024064300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Wood Wolf</title>
+  </programme>
+  <programme start="20261024064300 +0000" stop="20261024071200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Wood Wolf</title>
+  </programme>
+  <programme start="20261024071200 +0000" stop="20261024073300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Seyyarhane</title>
+  </programme>
+  <programme start="20261024073300 +0000" stop="20261024080400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Seyyarhane</title>
+  </programme>
+  <programme start="20261024080400 +0000" stop="20261024083200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Explomo</title>
+  </programme>
+  <programme start="20261024083200 +0000" stop="20261024085300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Explomo</title>
+  </programme>
+  <programme start="20261024085300 +0000" stop="20261024091800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kanan Badalov</title>
+  </programme>
+  <programme start="20261024091800 +0000" stop="20261024093200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kanan Badalov</title>
+  </programme>
+  <programme start="20261024093200 +0000" stop="20261024095000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kanan Badalov</title>
+  </programme>
+  <programme start="20261024095000 +0000" stop="20261024102200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Lesnoy-Craft</title>
+  </programme>
+  <programme start="20261024102200 +0000" stop="20261024104500 +0000" channel="turksatkablo-40">
+    <title lang="tr">Meaty Cheesy</title>
+  </programme>
+  <programme start="20261024104500 +0000" stop="20261024111200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Meaty Cheesy</title>
+  </programme>
+  <programme start="20261024111200 +0000" stop="20261024113500 +0000" channel="turksatkablo-40">
+    <title lang="tr">Visual Walk UK</title>
+  </programme>
+  <programme start="20261024113500 +0000" stop="20261024121800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Crazy Bushcraft</title>
+  </programme>
+  <programme start="20261024121800 +0000" stop="20261024125600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Crazy Bushcraft</title>
+  </programme>
+  <programme start="20261024125600 +0000" stop="20261024133500 +0000" channel="turksatkablo-40">
+    <title lang="tr">Sweet Village</title>
+  </programme>
+  <programme start="20261024133500 +0000" stop="20261024140900 +0000" channel="turksatkablo-40">
+    <title lang="tr">Sweet Village</title>
+  </programme>
+  <programme start="20261024140900 +0000" stop="20261024144800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Evcins Home</title>
+  </programme>
+  <programme start="20261024144800 +0000" stop="20261024153300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
+  <programme start="20261024153300 +0000" stop="20261024160000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024163700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Amerika Depo Savaşları</title>
+  </programme>
+  <programme start="20261024163700 +0000" stop="20261024170000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Amerika Depo Savaşları</title>
+  </programme>
+  <programme start="20261024170000 +0000" stop="20261024174800 +0000" channel="turksatkablo-40">
     <title lang="tr">Girişim Yolculuğu</title>
   </programme>
-  <programme start="20261024180400 +0000" stop="20261024190400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Faraway Village</title>
+  <programme start="20261024174800 +0000" stop="20261024180700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Wilderness Grill</title>
   </programme>
-  <programme start="20261024190400 +0000" stop="20261024193200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Sıra Dışı Evler</title>
+  <programme start="20261024180700 +0000" stop="20261024183600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Mr Wild Nature</title>
   </programme>
-  <programme start="20261024193200 +0000" stop="20261024195200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
+  <programme start="20261024183600 +0000" stop="20261024191000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Mr Wild Nature</title>
   </programme>
-  <programme start="20261024195200 +0000" stop="20261024204200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Muratca</title>
+  <programme start="20261024191000 +0000" stop="20261024193800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Visual Walk UK</title>
   </programme>
-  <programme start="20261024204200 +0000" stop="20261024210000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hasan Ada</title>
+  <programme start="20261024193800 +0000" stop="20261024202300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Crazy Bushcraft</title>
+  </programme>
+  <programme start="20261024202300 +0000" stop="20261024210000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Crazy Bushcraft</title>
   </programme>
   <programme start="20261023210000 +0000" stop="20261023211500 +0000" channel="turksatkablo-41">
     <title lang="tr">-</title>
@@ -6808,7 +6850,7 @@
     <title lang="tr">Emeğin Öyküsü</title>
   </programme>
   <programme start="20261024070000 +0000" stop="20261024080000 +0000" channel="turksatkablo-82">
-    <title lang="tr">İş'te Sağlık</title>
+    <title lang="tr">Yağmur Zamanı</title>
   </programme>
   <programme start="20261024080000 +0000" stop="20261024090000 +0000" channel="turksatkablo-82">
     <title lang="tr">Yağmur Zamanı</title>
@@ -12531,73 +12573,46 @@
   <programme start="20261024050000 +0000" stop="20261024063000 +0000" channel="turksatkablo-246">
     <title lang="tr">Basketbol: Euroleague</title>
   </programme>
-  <programme start="20261024063000 +0000" stop="20261024070000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Rakamlarla Rakipler</title>
-  </programme>
-  <programme start="20261024070000 +0000" stop="20261024073000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarih Ve Fenerbahçe</title>
-  </programme>
-  <programme start="20261024073000 +0000" stop="20261024080000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Spor Okulları</title>
-  </programme>
-  <programme start="20261024080000 +0000" stop="20261024090000 +0000" channel="turksatkablo-246">
-    <title lang="tr">4 Nisan Özel Belgeseli</title>
-  </programme>
-  <programme start="20261024090000 +0000" stop="20261024091500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Haber</title>
-  </programme>
-  <programme start="20261024091500 +0000" stop="20261024101500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Numaralı Tribün</title>
-  </programme>
-  <programme start="20261024101500 +0000" stop="20261024103000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Analiz Fenerbahçe</title>
-  </programme>
-  <programme start="20261024103000 +0000" stop="20261024110000 +0000" channel="turksatkablo-246">
-    <title lang="tr">4 Nisan Özel</title>
-  </programme>
-  <programme start="20261024110000 +0000" stop="20261024111500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Haber</title>
-  </programme>
-  <programme start="20261024111500 +0000" stop="20261024113000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Söz Taraftarda</title>
-  </programme>
-  <programme start="20261024113000 +0000" stop="20261024123000 +0000" channel="turksatkablo-246">
-    <title lang="tr">4 Nisan Özel Belgeseli</title>
-  </programme>
-  <programme start="20261024123000 +0000" stop="20261024130000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maç Başlıyor</title>
-  </programme>
-  <programme start="20261024130000 +0000" stop="20261024144500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Euroleague Maç Havası</title>
-  </programme>
-  <programme start="20261024144500 +0000" stop="20261024153000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maçın Ardından</title>
-  </programme>
-  <programme start="20261024153000 +0000" stop="20261024170000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
-  </programme>
-  <programme start="20261024170000 +0000" stop="20261024173000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maçın Ardından</title>
-  </programme>
-  <programme start="20261024173000 +0000" stop="20261024174500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Analiz Fenerbahçe</title>
-  </programme>
-  <programme start="20261024174500 +0000" stop="20261024180000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Söz Taraftarda</title>
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024190000 +0000" channel="turksatkablo-246">
-    <title lang="tr">4 Nisan Özel Belgeseli</title>
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024200000 +0000" channel="turksatkablo-246">
+  <programme start="20261024063000 +0000" stop="20261024073000 +0000" channel="turksatkablo-246">
     <title lang="tr">Head To Head</title>
   </programme>
-  <programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="turksatkablo-246">
-    <title lang="tr">4 Nisan Özel</title>
+  <programme start="20261024073000 +0000" stop="20261024120000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Yüksek Divan Kurulu Toplantısı</title>
   </programme>
-  <programme start="20261024203000 +0000" stop="20261024204500 +0000" channel="turksatkablo-246">
+  <programme start="20261024120000 +0000" stop="20261024130000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Yüksek Divan Kurulu Toplantısı</title>
+  </programme>
+  <programme start="20261024130000 +0000" stop="20261024133000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Haber</title>
+  </programme>
+  <programme start="20261024133000 +0000" stop="20261024134500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20261024134500 +0000" stop="20261024140000 +0000" channel="turksatkablo-246">
     <title lang="tr">Fenerium Saati</title>
   </programme>
-  <programme start="20261024204500 +0000" stop="20261024210000 +0000" channel="turksatkablo-246">
+  <programme start="20261024140000 +0000" stop="20261024141500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Top Ten</title>
+  </programme>
+  <programme start="20261024141500 +0000" stop="20261024143000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Analiz Fenerbahçe</title>
+  </programme>
+  <programme start="20261024143000 +0000" stop="20261024160000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Basketbol: Euroleague</title>
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024163000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20261024163000 +0000" stop="20261024180000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024190000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Yüksek Divan Kurulu Toplantısı</title>
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024204500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Kadın Futbol Süper Ligi</title>
+  </programme>
+  <programme start="20261024204500 +0000" stop="20261024211500 +0000" channel="turksatkablo-246">
     <title lang="tr">Gece Haberi</title>
   </programme>
   <programme start="20261023210000 +0000" stop="20261023214500 +0000" channel="turksatkablo-333">
@@ -22923,26 +22938,20 @@
   <programme start="20261024224500 +0000" stop="20261025011500 +0000" channel="turksatkablo-22">
     <title lang="tr">Gönül Dağı</title>
   </programme>
-  <programme start="20261025011500 +0000" stop="20261025020500 +0000" channel="turksatkablo-22">
+  <programme start="20261025011500 +0000" stop="20261025020000 +0000" channel="turksatkablo-22">
     <title lang="tr">Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20261025020500 +0000" stop="20261025024800 +0000" channel="turksatkablo-22">
+  <programme start="20261025020000 +0000" stop="20261025020500 +0000" channel="turksatkablo-22">
     <title lang="tr">Turgay Başyayla İle Lezzetli Tavsiye</title>
   </programme>
-  <programme start="20261025024800 +0000" stop="20261025025000 +0000" channel="turksatkablo-22">
-    <title lang="tr">İstiklal Marşı</title>
-  </programme>
-  <programme start="20261025025000 +0000" stop="20261025055000 +0000" channel="turksatkablo-22">
-    <title lang="tr">Kalk Gidelim</title>
+  <programme start="20261025020500 +0000" stop="20261025055000 +0000" channel="turksatkablo-22">
+    <title lang="tr">Turgay Başyayla İle Lezzetli Tavsiye</title>
   </programme>
   <programme start="20261025055000 +0000" stop="20261025084500 +0000" channel="turksatkablo-22">
     <title lang="tr">Diriliş Ertuğrul</title>
   </programme>
-  <programme start="20261025084500 +0000" stop="20261025100000 +0000" channel="turksatkablo-22">
+  <programme start="20261025084500 +0000" stop="20261025110500 +0000" channel="turksatkablo-22">
     <title lang="tr">Enine Boyuna</title>
-  </programme>
-  <programme start="20261025100000 +0000" stop="20261025110500 +0000" channel="turksatkablo-22">
-    <title lang="tr">Turgay Başyayla İle Lezzetli Tavsiye</title>
   </programme>
   <programme start="20261025110500 +0000" stop="20261025143000 +0000" channel="turksatkablo-22">
     <title lang="tr">Taşacak Bu Deniz</title>
@@ -22953,10 +22962,10 @@
   <programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="turksatkablo-22">
     <title lang="tr">Ana Haber</title>
   </programme>
-  <programme start="20261025170000 +0000" stop="20261025205000 +0000" channel="turksatkablo-22">
+  <programme start="20261025170000 +0000" stop="20261025205500 +0000" channel="turksatkablo-22">
     <title lang="tr">Teşkilat</title>
   </programme>
-  <programme start="20261025205000 +0000" stop="20261025220500 +0000" channel="turksatkablo-22">
+  <programme start="20261025205500 +0000" stop="20261025221000 +0000" channel="turksatkablo-22">
     <title lang="tr">3'te 3</title>
   </programme>
   <programme start="20261024210000 +0000" stop="20261024215000 +0000" channel="turksatkablo-23">
@@ -23862,143 +23871,152 @@
   <programme start="20261025200000 +0000" stop="20261025210000 +0000" channel="turksatkablo-39">
     <title lang="tr">Haber Turu</title>
   </programme>
-  <programme start="20261024210000 +0000" stop="20261024213100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hasan Ada</title>
+  <programme start="20261024210000 +0000" stop="20261024212200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Gezegenin Geleceği</title>
   </programme>
-  <programme start="20261024213100 +0000" stop="20261024215200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Visual Walk UK</title>
+  <programme start="20261024212200 +0000" stop="20261024214800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Lesnoy-Craft</title>
   </programme>
-  <programme start="20261024215200 +0000" stop="20261024221300 +0000" channel="turksatkablo-40">
-    <title lang="tr">Visual Walk UK</title>
-  </programme>
-  <programme start="20261024221300 +0000" stop="20261024225200 +0000" channel="turksatkablo-40">
+  <programme start="20261024214800 +0000" stop="20261024222200 +0000" channel="turksatkablo-40">
     <title lang="tr">Sweet Village</title>
   </programme>
-  <programme start="20261024225200 +0000" stop="20261024232200 +0000" channel="turksatkablo-40">
+  <programme start="20261024222200 +0000" stop="20261024225100 +0000" channel="turksatkablo-40">
     <title lang="tr">Sweet Village</title>
   </programme>
-  <programme start="20261024232200 +0000" stop="20261024234000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Meaty Cheesy</title>
-  </programme>
-  <programme start="20261024234000 +0000" stop="20261025000100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Meaty Cheesy</title>
-  </programme>
-  <programme start="20261025000100 +0000" stop="20261025004200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hisseden Adam</title>
-  </programme>
-  <programme start="20261025004200 +0000" stop="20261025011800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hisseden Adam</title>
-  </programme>
-  <programme start="20261025011800 +0000" stop="20261025020500 +0000" channel="turksatkablo-40">
+  <programme start="20261024225100 +0000" stop="20261024233000 +0000" channel="turksatkablo-40">
     <title lang="tr">Evcins Home</title>
   </programme>
-  <programme start="20261025020500 +0000" stop="20261025023800 +0000" channel="turksatkablo-40">
+  <programme start="20261024233000 +0000" stop="20261025001000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
+  <programme start="20261025001000 +0000" stop="20261025003800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
+  <programme start="20261025003800 +0000" stop="20261025010300 +0000" channel="turksatkablo-40">
     <title lang="tr">Amerika Depo Savaşları</title>
   </programme>
-  <programme start="20261025023800 +0000" stop="20261025031100 +0000" channel="turksatkablo-40">
+  <programme start="20261025010300 +0000" stop="20261025012500 +0000" channel="turksatkablo-40">
     <title lang="tr">Amerika Depo Savaşları</title>
   </programme>
-  <programme start="20261025031100 +0000" stop="20261025040000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hasan Ada</title>
+  <programme start="20261025012500 +0000" stop="20261025013800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Wilderness Grill</title>
   </programme>
-  <programme start="20261025040000 +0000" stop="20261025043400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hasan Ada</title>
+  <programme start="20261025013800 +0000" stop="20261025020000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Mr Wild Nature</title>
   </programme>
-  <programme start="20261025043400 +0000" stop="20261025050700 +0000" channel="turksatkablo-40">
-    <title lang="tr">Serkan Bilgin</title>
+  <programme start="20261025020000 +0000" stop="20261025022800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Mr Wild Nature</title>
   </programme>
-  <programme start="20261025050700 +0000" stop="20261025055100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Faraway Village</title>
+  <programme start="20261025022800 +0000" stop="20261025025100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Visual Walk UK</title>
   </programme>
-  <programme start="20261025055100 +0000" stop="20261025063800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Solo Dağcı</title>
+  <programme start="20261025025100 +0000" stop="20261025031400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Meaty Cheesy</title>
   </programme>
-  <programme start="20261025063800 +0000" stop="20261025065000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Mei Time</title>
+  <programme start="20261025031400 +0000" stop="20261025033600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Meaty Cheesy</title>
   </programme>
-  <programme start="20261025065000 +0000" stop="20261025065900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Mei Time</title>
-  </programme>
-  <programme start="20261025065900 +0000" stop="20261025074900 +0000" channel="turksatkablo-40">
+  <programme start="20261025033600 +0000" stop="20261025040000 +0000" channel="turksatkablo-40">
     <title lang="tr">Wood Wolf</title>
   </programme>
-  <programme start="20261025074900 +0000" stop="20261025083500 +0000" channel="turksatkablo-40">
-    <title lang="tr">Omg Scaleworks</title>
+  <programme start="20261025040000 +0000" stop="20261025043300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hasan Ada</title>
   </programme>
-  <programme start="20261025083500 +0000" stop="20261025085800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Antik Seyyah</title>
+  <programme start="20261025043300 +0000" stop="20261025045000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hasan Ada</title>
   </programme>
-  <programme start="20261025085800 +0000" stop="20261025093400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Antik Seyyah</title>
+  <programme start="20261025045000 +0000" stop="20261025051800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Sweet Village</title>
   </programme>
-  <programme start="20261025093400 +0000" stop="20261025095500 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
+  <programme start="20261025051800 +0000" stop="20261025054300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Sweet Village</title>
   </programme>
-  <programme start="20261025095500 +0000" stop="20261025103700 +0000" channel="turksatkablo-40">
+  <programme start="20261025054300 +0000" stop="20261025061100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Serkan Bilgin</title>
+  </programme>
+  <programme start="20261025061100 +0000" stop="20261025063300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Visual Walk UK</title>
+  </programme>
+  <programme start="20261025063300 +0000" stop="20261025065400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Crazy Bushcraft</title>
+  </programme>
+  <programme start="20261025065400 +0000" stop="20261025072000 +0000" channel="turksatkablo-40">
     <title lang="tr">Polissya Bushcraft</title>
   </programme>
-  <programme start="20261025103700 +0000" stop="20261025105500 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kanan Badalov</title>
+  <programme start="20261025072000 +0000" stop="20261025074700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Polissya Bushcraft</title>
   </programme>
-  <programme start="20261025105500 +0000" stop="20261025111300 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kanan Badalov</title>
+  <programme start="20261025074700 +0000" stop="20261025081900 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hk Outdoors</title>
   </programme>
-  <programme start="20261025111300 +0000" stop="20261025113600 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kanan Badalov</title>
+  <programme start="20261025081900 +0000" stop="20261025085000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hk Outdoors</title>
   </programme>
-  <programme start="20261025113600 +0000" stop="20261025115800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
+  <programme start="20261025085000 +0000" stop="20261025091000 +0000" channel="turksatkablo-40">
+    <title lang="tr">The Ulengovs</title>
   </programme>
-  <programme start="20261025115800 +0000" stop="20261025121400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Meaty Cheesy</title>
+  <programme start="20261025091000 +0000" stop="20261025093300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Lesnoy-Craft</title>
   </programme>
-  <programme start="20261025121400 +0000" stop="20261025124100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Meaty Cheesy</title>
+  <programme start="20261025093300 +0000" stop="20261025095500 +0000" channel="turksatkablo-40">
+    <title lang="tr">Wilderness Cooking</title>
   </programme>
-  <programme start="20261025124100 +0000" stop="20261025132700 +0000" channel="turksatkablo-40">
-    <title lang="tr">Sweet Village</title>
+  <programme start="20261025095500 +0000" stop="20261025102300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Wilderness Cooking</title>
   </programme>
-  <programme start="20261025132700 +0000" stop="20261025140500 +0000" channel="turksatkablo-40">
-    <title lang="tr">Sweet Village</title>
+  <programme start="20261025102300 +0000" stop="20261025112400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Outdoor Builder</title>
   </programme>
-  <programme start="20261025140500 +0000" stop="20261025142700 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
+  <programme start="20261025112400 +0000" stop="20261025114400 +0000" channel="turksatkablo-40">
+    <title lang="tr">The Survival</title>
   </programme>
-  <programme start="20261025142700 +0000" stop="20261025145000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hisseden Adam</title>
+  <programme start="20261025114400 +0000" stop="20261025120900 +0000" channel="turksatkablo-40">
+    <title lang="tr">The Survival</title>
   </programme>
-  <programme start="20261025145000 +0000" stop="20261025152400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Hisseden Adam</title>
+  <programme start="20261025120900 +0000" stop="20261025123400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Antik Seyyah</title>
   </programme>
-  <programme start="20261025152400 +0000" stop="20261025161600 +0000" channel="turksatkablo-40">
+  <programme start="20261025123400 +0000" stop="20261025130000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Farm Tales</title>
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025134400 +0000" channel="turksatkablo-40">
     <title lang="tr">Muratca</title>
   </programme>
-  <programme start="20261025161600 +0000" stop="20261025164500 +0000" channel="turksatkablo-40">
-    <title lang="tr">Seyyarhane</title>
+  <programme start="20261025134400 +0000" stop="20261025143800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Faraway Village</title>
   </programme>
-  <programme start="20261025164500 +0000" stop="20261025170400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Farm Tales</title>
+  <programme start="20261025143800 +0000" stop="20261025152200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Faraway Village</title>
   </programme>
-  <programme start="20261025170400 +0000" stop="20261025173000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Farm Tales</title>
-  </programme>
-  <programme start="20261025173000 +0000" stop="20261025175200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
-  </programme>
-  <programme start="20261025175200 +0000" stop="20261025182900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kend Hayatı</title>
-  </programme>
-  <programme start="20261025182900 +0000" stop="20261025190000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kend Hayatı</title>
-  </programme>
-  <programme start="20261025190000 +0000" stop="20261025195600 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kızıldeniz'in Gizemleri</title>
-  </programme>
-  <programme start="20261025195600 +0000" stop="20261025203900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
-  </programme>
-  <programme start="20261025203900 +0000" stop="20261025210000 +0000" channel="turksatkablo-40">
+  <programme start="20261025152200 +0000" stop="20261025160000 +0000" channel="turksatkablo-40">
     <title lang="tr">Sweet Village</title>
+  </programme>
+  <programme start="20261025160000 +0000" stop="20261025164200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hakan Karahan</title>
+  </programme>
+  <programme start="20261025164200 +0000" stop="20261025171200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hk Outdoors</title>
+  </programme>
+  <programme start="20261025171200 +0000" stop="20261025180000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Farm Tales</title>
+  </programme>
+  <programme start="20261025180000 +0000" stop="20261025184300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
+  <programme start="20261025184300 +0000" stop="20261025192200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
+  <programme start="20261025192200 +0000" stop="20261025193900 +0000" channel="turksatkablo-40">
+    <title lang="tr">Bizim Paramız</title>
+  </programme>
+  <programme start="20261025193900 +0000" stop="20261025200200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Wilderness Cooking</title>
+  </programme>
+  <programme start="20261025200200 +0000" stop="20261025203100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Wilderness Cooking</title>
+  </programme>
+  <programme start="20261025203100 +0000" stop="20261025210900 +0000" channel="turksatkablo-40">
+    <title lang="tr">Muratca</title>
   </programme>
   <programme start="20261024210000 +0000" stop="20261024213000 +0000" channel="turksatkablo-41">
     <title lang="tr">-</title>
@@ -34179,91 +34197,100 @@
   <programme start="20261025200000 +0000" stop="20261025210000 +0000" channel="turksatkablo-245">
     <title lang="tr">Euroformula Open</title>
   </programme>
-  <programme start="20261024210000 +0000" stop="20261024223000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+  <programme start="20261024210000 +0000" stop="20261024211500 +0000" channel="turksatkablo-246">
+    <title lang="tr">-</title>
   </programme>
-  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maçın Ardından</title>
+  <programme start="20261024211500 +0000" stop="20261024220000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Yüksek Divan Kurulu Toplantısı</title>
   </programme>
-  <programme start="20261024230000 +0000" stop="20261024231500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Analiz Fenerbahçe</title>
-  </programme>
-  <programme start="20261024231500 +0000" stop="20261024234500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Rakamlarla Rakipler</title>
-  </programme>
-  <programme start="20261024234500 +0000" stop="20261025000000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Gece Haberi</title>
-  </programme>
-  <programme start="20261025000000 +0000" stop="20261025001500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Söz Taraftarda</title>
-  </programme>
-  <programme start="20261025001500 +0000" stop="20261025020000 +0000" channel="turksatkablo-246">
+  <programme start="20261024220000 +0000" stop="20261024234500 +0000" channel="turksatkablo-246">
     <title lang="tr">Futbol: Süper Lig</title>
   </programme>
-  <programme start="20261025020000 +0000" stop="20261025033000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
-  </programme>
-  <programme start="20261025033000 +0000" stop="20261025040000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Voleybol: Efeler Ligi</title>
-  </programme>
-  <programme start="20261025040000 +0000" stop="20261025050000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Head To Head</title>
-  </programme>
-  <programme start="20261025050000 +0000" stop="20261025051500 +0000" channel="turksatkablo-246">
+  <programme start="20261024234500 +0000" stop="20261025000000 +0000" channel="turksatkablo-246">
     <title lang="tr">Analiz Fenerbahçe</title>
   </programme>
-  <programme start="20261025051500 +0000" stop="20261025054500 +0000" channel="turksatkablo-246">
+  <programme start="20261025000000 +0000" stop="20261025003000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Gece Haberi</title>
+  </programme>
+  <programme start="20261025003000 +0000" stop="20261025013000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Head To Head</title>
+  </programme>
+  <programme start="20261025013000 +0000" stop="20261025023000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Fener Panorama</title>
+  </programme>
+  <programme start="20261025023000 +0000" stop="20261025030000 +0000" channel="turksatkablo-246">
     <title lang="tr">Rakamlarla Rakipler</title>
   </programme>
-  <programme start="20261025054500 +0000" stop="20261025063000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Top 50</title>
+  <programme start="20261025030000 +0000" stop="20261025043000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+  </programme>
+  <programme start="20261025043000 +0000" stop="20261025044500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Top Ten</title>
+  </programme>
+  <programme start="20261025044500 +0000" stop="20261025063000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Kadın Futbol Süper Ligi</title>
   </programme>
   <programme start="20261025063000 +0000" stop="20261025064500 +0000" channel="turksatkablo-246">
     <title lang="tr">Tarihte Bugün</title>
   </programme>
   <programme start="20261025064500 +0000" stop="20261025070000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Analiz Fenerbahçe</title>
+    <title lang="tr">Onun 10 Golü</title>
   </programme>
-  <programme start="20261025070000 +0000" stop="20261025071500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Söz Taraftarda</title>
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Tarih Ve Fenerbahçe</title>
   </programme>
-  <programme start="20261025071500 +0000" stop="20261025090000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Futbol: Süper Lig</title>
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Yüksek Divan Kurulu Toplantısı</title>
   </programme>
-  <programme start="20261025090000 +0000" stop="20261025092500 +0000" channel="turksatkablo-246">
+  <programme start="20261025090000 +0000" stop="20261025093000 +0000" channel="turksatkablo-246">
     <title lang="tr">Haber</title>
   </programme>
-  <programme start="20261025092500 +0000" stop="20261025100000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Rakamlarla Rakipler</title>
+  <programme start="20261025093000 +0000" stop="20261025110000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
   </programme>
-  <programme start="20261025100000 +0000" stop="20261025120000 +0000" channel="turksatkablo-246">
-    <title lang="tr">U19 Paf Ligi</title>
-  </programme>
-  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Head To Head</title>
-  </programme>
-  <programme start="20261025130000 +0000" stop="20261025133000 +0000" channel="turksatkablo-246">
+  <programme start="20261025110000 +0000" stop="20261025111500 +0000" channel="turksatkablo-246">
     <title lang="tr">Haber</title>
   </programme>
-  <programme start="20261025133000 +0000" stop="20261025134500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Analiz Fenerbahçe</title>
+  <programme start="20261025111500 +0000" stop="20261025121500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Fener Panorama</title>
   </programme>
-  <programme start="20261025134500 +0000" stop="20261025140000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Söz Taraftarda</title>
+  <programme start="20261025121500 +0000" stop="20261025130000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Top 50</title>
   </programme>
-  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Fenerin Maçı Var</title>
+  <programme start="20261025130000 +0000" stop="20261025131500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Haber</title>
   </programme>
-  <programme start="20261025150000 +0000" stop="20261025170000 +0000" channel="turksatkablo-246">
+  <programme start="20261025131500 +0000" stop="20261025133000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20261025133000 +0000" stop="20261025140000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Spor Okulları</title>
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025154500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Kadın Futbol Süper Ligi</title>
+  </programme>
+  <programme start="20261025154500 +0000" stop="20261025160700 +0000" channel="turksatkablo-246">
     <title lang="tr">Maç Başlıyor</title>
   </programme>
-  <programme start="20261025170000 +0000" stop="20261025190000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Euroleague Maç Havası</title>
+  <programme start="20261025160700 +0000" stop="20261025163000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Ana Haber</title>
   </programme>
-  <programme start="20261025190000 +0000" stop="20261025203000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maçın Ardından</title>
+  <programme start="20261025163000 +0000" stop="20261025183000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Futbol: Süper Lig</title>
   </programme>
-  <programme start="20261025203000 +0000" stop="20261025210000 +0000" channel="turksatkablo-246">
+  <programme start="20261025183000 +0000" stop="20261025191500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Rakamlarla Rakipler</title>
+  </programme>
+  <programme start="20261025191500 +0000" stop="20261025193000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Analiz Fenerbahçe</title>
+  </programme>
+  <programme start="20261025193000 +0000" stop="20261025203500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Head To Head</title>
+  </programme>
+  <programme start="20261025203500 +0000" stop="20261025204500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20261025204500 +0000" stop="20261025210000 +0000" channel="turksatkablo-246">
     <title lang="tr">Gece Haberi</title>
   </programme>
   <programme start="20261024210000 +0000" stop="20261024214500 +0000" channel="turksatkablo-333">
@@ -42456,26 +42483,20 @@
   <programme start="20261024224500 +0000" stop="20261025011500 +0000" channel="turksatkablo-900">
     <title lang="tr">Gönül Dağı</title>
   </programme>
-  <programme start="20261025011500 +0000" stop="20261025020500 +0000" channel="turksatkablo-900">
+  <programme start="20261025011500 +0000" stop="20261025020000 +0000" channel="turksatkablo-900">
     <title lang="tr">Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20261025020500 +0000" stop="20261025024800 +0000" channel="turksatkablo-900">
+  <programme start="20261025020000 +0000" stop="20261025020500 +0000" channel="turksatkablo-900">
     <title lang="tr">Turgay Başyayla İle Lezzetli Tavsiye</title>
   </programme>
-  <programme start="20261025024800 +0000" stop="20261025025000 +0000" channel="turksatkablo-900">
-    <title lang="tr">İstiklal Marşı</title>
-  </programme>
-  <programme start="20261025025000 +0000" stop="20261025055000 +0000" channel="turksatkablo-900">
-    <title lang="tr">Kalk Gidelim</title>
+  <programme start="20261025020500 +0000" stop="20261025055000 +0000" channel="turksatkablo-900">
+    <title lang="tr">Turgay Başyayla İle Lezzetli Tavsiye</title>
   </programme>
   <programme start="20261025055000 +0000" stop="20261025084500 +0000" channel="turksatkablo-900">
     <title lang="tr">Diriliş Ertuğrul</title>
   </programme>
-  <programme start="20261025084500 +0000" stop="20261025100000 +0000" channel="turksatkablo-900">
+  <programme start="20261025084500 +0000" stop="20261025110500 +0000" channel="turksatkablo-900">
     <title lang="tr">Enine Boyuna</title>
-  </programme>
-  <programme start="20261025100000 +0000" stop="20261025110500 +0000" channel="turksatkablo-900">
-    <title lang="tr">Turgay Başyayla İle Lezzetli Tavsiye</title>
   </programme>
   <programme start="20261025110500 +0000" stop="20261025143000 +0000" channel="turksatkablo-900">
     <title lang="tr">Taşacak Bu Deniz</title>
@@ -42486,10 +42507,10 @@
   <programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="turksatkablo-900">
     <title lang="tr">Ana Haber</title>
   </programme>
-  <programme start="20261025170000 +0000" stop="20261025205000 +0000" channel="turksatkablo-900">
+  <programme start="20261025170000 +0000" stop="20261025205500 +0000" channel="turksatkablo-900">
     <title lang="tr">Teşkilat</title>
   </programme>
-  <programme start="20261025205000 +0000" stop="20261025220500 +0000" channel="turksatkablo-900">
+  <programme start="20261025205500 +0000" stop="20261025221000 +0000" channel="turksatkablo-900">
     <title lang="tr">3'te 3</title>
   </programme>
   <programme start="20261024210000 +0000" stop="20261024224500 +0000" channel="turksatkablo-901">
@@ -44754,13 +44775,13 @@
   <programme start="20261026201500 +0000" stop="20261026221500 +0000" channel="turksatkablo-13">
     <title lang="tr">Ödül Peşinde</title>
   </programme>
-  <programme start="20261025210000 +0000" stop="20261025220500 +0000" channel="turksatkablo-22">
+  <programme start="20261025210000 +0000" stop="20261025221000 +0000" channel="turksatkablo-22">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261025220500 +0000" stop="20261026004500 +0000" channel="turksatkablo-22">
+  <programme start="20261025221000 +0000" stop="20261026005000 +0000" channel="turksatkablo-22">
     <title lang="tr">Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20261026004500 +0000" stop="20261026024800 +0000" channel="turksatkablo-22">
+  <programme start="20261026005000 +0000" stop="20261026024800 +0000" channel="turksatkablo-22">
     <title lang="tr">Diriliş Ertuğrul</title>
   </programme>
   <programme start="20261026024800 +0000" stop="20261026025000 +0000" channel="turksatkablo-22">
@@ -45630,146 +45651,149 @@
   <programme start="20261026200000 +0000" stop="20261026213000 +0000" channel="turksatkablo-39">
     <title lang="tr">Gün Sonu</title>
   </programme>
-  <programme start="20261025210000 +0000" stop="20261025212100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kend Hayatı</title>
+  <programme start="20261025210000 +0000" stop="20261025210900 +0000" channel="turksatkablo-40">
+    <title lang="tr">-</title>
   </programme>
-  <programme start="20261025212100 +0000" stop="20261025220400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kend Hayatı</title>
+  <programme start="20261025210900 +0000" stop="20261025212700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Ev Taşıyan Tırlar</title>
   </programme>
-  <programme start="20261025220400 +0000" stop="20261025222400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Sıra Dışı Evler</title>
-  </programme>
-  <programme start="20261025222400 +0000" stop="20261025231100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Faraway Village</title>
-  </programme>
-  <programme start="20261025231100 +0000" stop="20261025235800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Faraway Village</title>
-  </programme>
-  <programme start="20261025235800 +0000" stop="20261026001300 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wilderness Cooking</title>
-  </programme>
-  <programme start="20261026001300 +0000" stop="20261026002700 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wilderness Grill</title>
-  </programme>
-  <programme start="20261026002700 +0000" stop="20261026004000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Never Too Small</title>
-  </programme>
-  <programme start="20261026004000 +0000" stop="20261026005800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Never Too Small</title>
-  </programme>
-  <programme start="20261026005800 +0000" stop="20261026010800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Never Too Small</title>
-  </programme>
-  <programme start="20261026010800 +0000" stop="20261026012000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wilderness Cooking</title>
-  </programme>
-  <programme start="20261026012000 +0000" stop="20261026013900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wilderness Cooking</title>
-  </programme>
-  <programme start="20261026013900 +0000" stop="20261026015700 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wilderness Cooking</title>
-  </programme>
-  <programme start="20261026015700 +0000" stop="20261026024700 +0000" channel="turksatkablo-40">
-    <title lang="tr">Muratca</title>
-  </programme>
-  <programme start="20261026024700 +0000" stop="20261026030400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Master Truck Driver</title>
-  </programme>
-  <programme start="20261026030400 +0000" stop="20261026034200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Polissya Bushcraft</title>
-  </programme>
-  <programme start="20261026034200 +0000" stop="20261026043800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Balık Günlükleri</title>
-  </programme>
-  <programme start="20261026043800 +0000" stop="20261026050800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Red Dead Restoration</title>
-  </programme>
-  <programme start="20261026050800 +0000" stop="20261026053100 +0000" channel="turksatkablo-40">
-    <title lang="tr">Pottery To The People</title>
-  </programme>
-  <programme start="20261026053100 +0000" stop="20261026055600 +0000" channel="turksatkablo-40">
-    <title lang="tr">Pottery To The People</title>
-  </programme>
-  <programme start="20261026055600 +0000" stop="20261026062800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Pottery To The People</title>
-  </programme>
-  <programme start="20261026062800 +0000" stop="20261026070300 +0000" channel="turksatkablo-40">
-    <title lang="tr">Survival Liar</title>
-  </programme>
-  <programme start="20261026070300 +0000" stop="20261026072400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Survival Liar</title>
-  </programme>
-  <programme start="20261026072400 +0000" stop="20261026080700 +0000" channel="turksatkablo-40">
-    <title lang="tr">Serkan Bilgin</title>
-  </programme>
-  <programme start="20261026080700 +0000" stop="20261026085600 +0000" channel="turksatkablo-40">
-    <title lang="tr">Serkan Bilgin</title>
-  </programme>
-  <programme start="20261026085600 +0000" stop="20261026092400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Alfa</title>
-  </programme>
-  <programme start="20261026092400 +0000" stop="20261026094400 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
-  </programme>
-  <programme start="20261026094400 +0000" stop="20261026103500 +0000" channel="turksatkablo-40">
-    <title lang="tr">Doğanın Takvimi</title>
-  </programme>
-  <programme start="20261026103500 +0000" stop="20261026114800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Dünyanın En İkonik Spor Arenaları</title>
-  </programme>
-  <programme start="20261026114800 +0000" stop="20261026121500 +0000" channel="turksatkablo-40">
-    <title lang="tr">Antique Vintage Restorations</title>
-  </programme>
-  <programme start="20261026121500 +0000" stop="20261026125900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wood Wolf</title>
-  </programme>
-  <programme start="20261026125900 +0000" stop="20261026131300 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wilderness Grill</title>
-  </programme>
-  <programme start="20261026131300 +0000" stop="20261026133200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wilderness Grill</title>
-  </programme>
-  <programme start="20261026133200 +0000" stop="20261026135200 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
-  </programme>
-  <programme start="20261026135200 +0000" stop="20261026145400 +0000" channel="turksatkablo-40">
+  <programme start="20261025212700 +0000" stop="20261025222300 +0000" channel="turksatkablo-40">
     <title lang="tr">Outdoor Builder</title>
   </programme>
-  <programme start="20261026145400 +0000" stop="20261026154800 +0000" channel="turksatkablo-40">
+  <programme start="20261025222300 +0000" stop="20261025224800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Antik Seyyah</title>
+  </programme>
+  <programme start="20261025224800 +0000" stop="20261025231400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Farm Tales</title>
+  </programme>
+  <programme start="20261025231400 +0000" stop="20261025235200 +0000" channel="turksatkablo-40">
     <title lang="tr">Muratca</title>
   </programme>
-  <programme start="20261026154800 +0000" stop="20261026160800 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
-  </programme>
-  <programme start="20261026160800 +0000" stop="20261026164400 +0000" channel="turksatkablo-40">
+  <programme start="20261025235200 +0000" stop="20261026004100 +0000" channel="turksatkablo-40">
     <title lang="tr">Faraway Village</title>
   </programme>
-  <programme start="20261026164400 +0000" stop="20261026171300 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kend Hayatı</title>
+  <programme start="20261026004100 +0000" stop="20261026011900 +0000" channel="turksatkablo-40">
+    <title lang="tr">Faraway Village</title>
   </programme>
-  <programme start="20261026171300 +0000" stop="20261026173900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Kend Hayatı</title>
-  </programme>
-  <programme start="20261026173900 +0000" stop="20261026175900 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
-  </programme>
-  <programme start="20261026175900 +0000" stop="20261026183900 +0000" channel="turksatkablo-40">
+  <programme start="20261026011900 +0000" stop="20261026015800 +0000" channel="turksatkablo-40">
     <title lang="tr">Sweet Village</title>
   </programme>
-  <programme start="20261026183900 +0000" stop="20261026190000 +0000" channel="turksatkablo-40">
+  <programme start="20261026015800 +0000" stop="20261026022700 +0000" channel="turksatkablo-40">
     <title lang="tr">Sweet Village</title>
   </programme>
-  <programme start="20261026190000 +0000" stop="20261026195300 +0000" channel="turksatkablo-40">
-    <title lang="tr">Doğanın Takvimi</title>
+  <programme start="20261026022700 +0000" stop="20261026025600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hakan Karahan</title>
   </programme>
-  <programme start="20261026195300 +0000" stop="20261026201300 +0000" channel="turksatkablo-40">
-    <title lang="tr">Short Akışı</title>
+  <programme start="20261026025600 +0000" stop="20261026032000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hk Outdoors</title>
   </programme>
-  <programme start="20261026201300 +0000" stop="20261026205700 +0000" channel="turksatkablo-40">
+  <programme start="20261026032000 +0000" stop="20261026040000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Farm Tales</title>
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026042700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Explomo</title>
+  </programme>
+  <programme start="20261026042700 +0000" stop="20261026044800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Explomo</title>
+  </programme>
+  <programme start="20261026044800 +0000" stop="20261026051500 +0000" channel="turksatkablo-40">
+    <title lang="tr">Lesnoy-Craft</title>
+  </programme>
+  <programme start="20261026051500 +0000" stop="20261026055400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Evcins Home</title>
+  </programme>
+  <programme start="20261026055400 +0000" stop="20261026063700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
+  <programme start="20261026063700 +0000" stop="20261026065900 +0000" channel="turksatkablo-40">
+    <title lang="tr">Visual Walk UK</title>
+  </programme>
+  <programme start="20261026065900 +0000" stop="20261026074300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Crazy Bushcraft</title>
+  </programme>
+  <programme start="20261026074300 +0000" stop="20261026082600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Crazy Bushcraft</title>
+  </programme>
+  <programme start="20261026082600 +0000" stop="20261026085900 +0000" channel="turksatkablo-40">
+    <title lang="tr">Sweet Village</title>
+  </programme>
+  <programme start="20261026085900 +0000" stop="20261026093300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Sweet Village</title>
+  </programme>
+  <programme start="20261026093300 +0000" stop="20261026095800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Amerika Depo Savaşları</title>
+  </programme>
+  <programme start="20261026095800 +0000" stop="20261026102600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Amerika Depo Savaşları</title>
+  </programme>
+  <programme start="20261026102600 +0000" stop="20261026104800 +0000" channel="turksatkablo-40">
+    <title lang="tr">Mr Wild Nature</title>
+  </programme>
+  <programme start="20261026104800 +0000" stop="20261026112100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Mr Wild Nature</title>
+  </programme>
+  <programme start="20261026112100 +0000" stop="20261026112600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Natur Cenk</title>
+  </programme>
+  <programme start="20261026112600 +0000" stop="20261026113100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Natur Cenk</title>
+  </programme>
+  <programme start="20261026113100 +0000" stop="20261026113600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Bizim Paramız</title>
+  </programme>
+  <programme start="20261026113600 +0000" stop="20261026114100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Bizim Paramız</title>
+  </programme>
+  <programme start="20261026114100 +0000" stop="20261026120500 +0000" channel="turksatkablo-40">
+    <title lang="tr">Meaty Cheesy</title>
+  </programme>
+  <programme start="20261026120500 +0000" stop="20261026123200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Meaty Cheesy</title>
+  </programme>
+  <programme start="20261026123200 +0000" stop="20261026130100 +0000" channel="turksatkablo-40">
     <title lang="tr">Wood Wolf</title>
   </programme>
-  <programme start="20261026205700 +0000" stop="20261026210000 +0000" channel="turksatkablo-40">
-    <title lang="tr">Wilderness Grill</title>
+  <programme start="20261026130100 +0000" stop="20261026133000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Wood Wolf</title>
+  </programme>
+  <programme start="20261026133000 +0000" stop="20261026141300 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
+  <programme start="20261026141300 +0000" stop="20261026144100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
+  <programme start="20261026144100 +0000" stop="20261026152600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Faraway Village</title>
+  </programme>
+  <programme start="20261026152600 +0000" stop="20261026160700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Faraway Village</title>
+  </programme>
+  <programme start="20261026160700 +0000" stop="20261026163600 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hisseden Adam</title>
+  </programme>
+  <programme start="20261026163600 +0000" stop="20261026170700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hisseden Adam</title>
+  </programme>
+  <programme start="20261026170700 +0000" stop="20261026174700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Sweet Village</title>
+  </programme>
+  <programme start="20261026174700 +0000" stop="20261026182200 +0000" channel="turksatkablo-40">
+    <title lang="tr">Sweet Village</title>
+  </programme>
+  <programme start="20261026182200 +0000" stop="20261026185700 +0000" channel="turksatkablo-40">
+    <title lang="tr">Serkan Bilgin</title>
+  </programme>
+  <programme start="20261026185700 +0000" stop="20261026192400 +0000" channel="turksatkablo-40">
+    <title lang="tr">Survival Liar</title>
+  </programme>
+  <programme start="20261026192400 +0000" stop="20261026200100 +0000" channel="turksatkablo-40">
+    <title lang="tr">Survival Liar</title>
+  </programme>
+  <programme start="20261026200100 +0000" stop="20261026203000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Hisseden Adam</title>
+  </programme>
+  <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="turksatkablo-40">
+    <title lang="tr">Kend Hayatı</title>
   </programme>
   <programme start="20261025210000 +0000" stop="20261025211500 +0000" channel="turksatkablo-41">
     <title lang="tr">-</title>
@@ -48232,16 +48256,13 @@
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20261026110000 +0000" stop="20261026115000 +0000" channel="turksatkablo-56">
-    <title lang="tr">Ajans</title>
-  </programme>
-  <programme start="20261026115000 +0000" stop="20261026125500 +0000" channel="turksatkablo-56">
     <title lang="tr">Ajans Gün Içi</title>
   </programme>
-  <programme start="20261026125500 +0000" stop="20261026130000 +0000" channel="turksatkablo-56">
-    <title lang="tr">Hava Durumu</title>
+  <programme start="20261026115000 +0000" stop="20261026130000 +0000" channel="turksatkablo-56">
+    <title lang="tr">Ajans Gün Içi</title>
   </programme>
   <programme start="20261026130000 +0000" stop="20261026135000 +0000" channel="turksatkablo-56">
-    <title lang="tr">Ajans Gün Içi</title>
+    <title lang="tr">Ajans Gün Ortası</title>
   </programme>
   <programme start="20261026135000 +0000" stop="20261026150000 +0000" channel="turksatkablo-56">
     <title lang="tr">Ajans Akşama Doğru</title>
@@ -56200,46 +56221,52 @@
     <title lang="tr">İtalya Kadınlar Voleybol Ligi</title>
   </programme>
   <programme start="20261025210000 +0000" stop="20261025223000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maçın Ardından</title>
-  </programme>
-  <programme start="20261025223000 +0000" stop="20261026000000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
-  </programme>
-  <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Gece Haberi</title>
-  </programme>
-  <programme start="20261026003000 +0000" stop="20261026021500 +0000" channel="turksatkablo-246">
-    <title lang="tr">U19 Paf Ligi</title>
-  </programme>
-  <programme start="20261026021500 +0000" stop="20261026034500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maçın Ardından</title>
-  </programme>
-  <programme start="20261026034500 +0000" stop="20261026053000 +0000" channel="turksatkablo-246">
     <title lang="tr">Voleybol: Türkiye Kadınlar Ligi</title>
   </programme>
-  <programme start="20261026053000 +0000" stop="20261026060000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Sarı Kanaryalar</title>
+  <programme start="20261025223000 +0000" stop="20261025224500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Analiz Fenerbahçe</title>
   </programme>
-  <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Spor Okulları</title>
+  <programme start="20261025224500 +0000" stop="20261025231500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Rakamlarla Rakipler</title>
   </programme>
-  <programme start="20261026063000 +0000" stop="20261026080000 +0000" channel="turksatkablo-246">
+  <programme start="20261025231500 +0000" stop="20261025233000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Gece Haberi</title>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026003000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Fener Panorama</title>
+  </programme>
+  <programme start="20261026003000 +0000" stop="20261026013000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Head To Head</title>
+  </programme>
+  <programme start="20261026013000 +0000" stop="20261026030000 +0000" channel="turksatkablo-246">
     <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
   </programme>
-  <programme start="20261026080000 +0000" stop="20261026090000 +0000" channel="turksatkablo-246">
-    <title lang="tr">EuroLeague Analiz</title>
+  <programme start="20261026030000 +0000" stop="20261026034500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Top 50</title>
   </programme>
-  <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Futbol Dosyası</title>
+  <programme start="20261026034500 +0000" stop="20261026053000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Kadın Futbol Süper Ligi</title>
   </programme>
-  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="turksatkablo-246">
-    <title lang="tr">EuroLeague Analiz</title>
+  <programme start="20261026053000 +0000" stop="20261026063000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Futbol: Süper Lig</title>
   </programme>
-  <programme start="20261026100000 +0000" stop="20261026101500 +0000" channel="turksatkablo-246">
+  <programme start="20261026063000 +0000" stop="20261026064500 +0000" channel="turksatkablo-246">
     <title lang="tr">Tarihte Bugün</title>
   </programme>
+  <programme start="20261026064500 +0000" stop="20261026071500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Rakamlarla Rakipler</title>
+  </programme>
+  <programme start="20261026071500 +0000" stop="20261026090000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Futbol: Süper Lig</title>
+  </programme>
+  <programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Fenerbahçe Günlüğü</title>
+  </programme>
+  <programme start="20261026100000 +0000" stop="20261026101500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Analiz Fenerbahçe</title>
+  </programme>
   <programme start="20261026101500 +0000" stop="20261026110000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Euroleague'de Bu Hafta</title>
+    <title lang="tr">Top 50</title>
   </programme>
   <programme start="20261026110000 +0000" stop="20261026111500 +0000" channel="turksatkablo-246">
     <title lang="tr">Haber</title>
@@ -56247,8 +56274,14 @@
   <programme start="20261026111500 +0000" stop="20261026113000 +0000" channel="turksatkablo-246">
     <title lang="tr">Tarihte Bugün</title>
   </programme>
-  <programme start="20261026113000 +0000" stop="20261026130000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+  <programme start="20261026113000 +0000" stop="20261026114500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Top Ten</title>
+  </programme>
+  <programme start="20261026114500 +0000" stop="20261026120000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Fenerium Saati</title>
+  </programme>
+  <programme start="20261026120000 +0000" stop="20261026130000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Head To Head</title>
   </programme>
   <programme start="20261026130000 +0000" stop="20261026131500 +0000" channel="turksatkablo-246">
     <title lang="tr">Haber</title>
@@ -56256,35 +56289,26 @@
   <programme start="20261026131500 +0000" stop="20261026133000 +0000" channel="turksatkablo-246">
     <title lang="tr">Tarihte Bugün</title>
   </programme>
-  <programme start="20261026133000 +0000" stop="20261026150000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Euroleague</title>
+  <programme start="20261026133000 +0000" stop="20261026141500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Rakamlarla Rakipler</title>
   </programme>
-  <programme start="20261026150000 +0000" stop="20261026154500 +0000" channel="turksatkablo-246">
-    <title lang="tr">EuroLeague Analiz</title>
+  <programme start="20261026141500 +0000" stop="20261026143000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Analiz Fenerbahçe</title>
   </programme>
-  <programme start="20261026154500 +0000" stop="20261026160700 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarihte Bugün</title>
+  <programme start="20261026143000 +0000" stop="20261026153000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Fenerin Maçı Var</title>
   </programme>
-  <programme start="20261026160700 +0000" stop="20261026163000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Ana Haber</title>
+  <programme start="20261026153000 +0000" stop="20261026163000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Head To Head</title>
   </programme>
-  <programme start="20261026163000 +0000" stop="20261026170000 +0000" channel="turksatkablo-246">
-    <title lang="tr">EuroLeague Analiz</title>
+  <programme start="20261026163000 +0000" stop="20261026183000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Maç Başlıyor</title>
   </programme>
-  <programme start="20261026170000 +0000" stop="20261026183000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+  <programme start="20261026183000 +0000" stop="20261026203000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Basketbol: Euroleague Maç Havası</title>
   </programme>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Euroleague Özel</title>
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Futbol Dosyası</title>
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026204500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Euroleague'de Bu Hafta</title>
-  </programme>
-  <programme start="20261026204500 +0000" stop="20261026210000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Gece Haberi</title>
+  <programme start="20261026203000 +0000" stop="20261026220000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Maçın Ardından</title>
   </programme>
   <programme start="20261025210000 +0000" stop="20261025215500 +0000" channel="turksatkablo-333">
     <title lang="tr">Criminal Minds</title>
@@ -64407,13 +64431,13 @@
   <programme start="20261026190000 +0000" stop="20261027030000 +0000" channel="turksatkablo-892">
     <title lang="tr">OlayTürk</title>
   </programme>
-  <programme start="20261025210000 +0000" stop="20261025220500 +0000" channel="turksatkablo-900">
+  <programme start="20261025210000 +0000" stop="20261025221000 +0000" channel="turksatkablo-900">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261025220500 +0000" stop="20261026004500 +0000" channel="turksatkablo-900">
+  <programme start="20261025221000 +0000" stop="20261026005000 +0000" channel="turksatkablo-900">
     <title lang="tr">Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20261026004500 +0000" stop="20261026024800 +0000" channel="turksatkablo-900">
+  <programme start="20261026005000 +0000" stop="20261026024800 +0000" channel="turksatkablo-900">
     <title lang="tr">Diriliş Ertuğrul</title>
   </programme>
   <programme start="20261026024800 +0000" stop="20261026025000 +0000" channel="turksatkablo-900">
@@ -65308,16 +65332,13 @@
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20261026110000 +0000" stop="20261026115000 +0000" channel="turksatkablo-919">
-    <title lang="tr">Ajans</title>
-  </programme>
-  <programme start="20261026115000 +0000" stop="20261026125500 +0000" channel="turksatkablo-919">
     <title lang="tr">Ajans Gün Içi</title>
   </programme>
-  <programme start="20261026125500 +0000" stop="20261026130000 +0000" channel="turksatkablo-919">
-    <title lang="tr">Hava Durumu</title>
+  <programme start="20261026115000 +0000" stop="20261026130000 +0000" channel="turksatkablo-919">
+    <title lang="tr">Ajans Gün Içi</title>
   </programme>
   <programme start="20261026130000 +0000" stop="20261026135000 +0000" channel="turksatkablo-919">
-    <title lang="tr">Ajans Gün Içi</title>
+    <title lang="tr">Ajans Gün Ortası</title>
   </programme>
   <programme start="20261026135000 +0000" stop="20261026150000 +0000" channel="turksatkablo-919">
     <title lang="tr">Ajans Akşama Doğru</title>
