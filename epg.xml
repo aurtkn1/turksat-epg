@@ -2392,15 +2392,15 @@
     <title lang="tr">Reklam</title>
   </programme>
   <programme start="20261108050000 +0000" stop="20261108055000 +0000" channel="turksatkablo-44">
-    <title lang="tr">Sinema</title>
+    <title lang="tr">Çizgi Film</title>
   </programme>
   <programme start="20261108055000 +0000" stop="20261108070000 +0000" channel="turksatkablo-44">
     <title lang="tr">Reklam</title>
   </programme>
-  <programme start="20261108070000 +0000" stop="20261108075000 +0000" channel="turksatkablo-44">
+  <programme start="20261108070000 +0000" stop="20261108073800 +0000" channel="turksatkablo-44">
     <title lang="tr">Yaşamdan Yansımalar</title>
   </programme>
-  <programme start="20261108075000 +0000" stop="20261108080000 +0000" channel="turksatkablo-44">
+  <programme start="20261108073800 +0000" stop="20261108080000 +0000" channel="turksatkablo-44">
     <title lang="tr">Reklam</title>
   </programme>
   <programme start="20261108080000 +0000" stop="20261108085000 +0000" channel="turksatkablo-44">
@@ -2706,8 +2706,11 @@
   <programme start="20261107210000 +0000" stop="20261107214000 +0000" channel="turksatkablo-49">
     <title lang="tr">Gece Haberleri</title>
   </programme>
-  <programme start="20261107214000 +0000" stop="20261108070000 +0000" channel="turksatkablo-49">
+  <programme start="20261107214000 +0000" stop="20261108060000 +0000" channel="turksatkablo-49">
     <title lang="tr">Spor Haberleri</title>
+  </programme>
+  <programme start="20261108060000 +0000" stop="20261108070000 +0000" channel="turksatkablo-49">
+    <title lang="tr">Adalet Terazisi</title>
   </programme>
   <programme start="20261108070000 +0000" stop="20261108074000 +0000" channel="turksatkablo-49">
     <title lang="tr">Hafta Sonu Yeni Gün</title>
@@ -5293,7 +5296,7 @@
     <title lang="tr">Güne Özel</title>
   </programme>
   <programme start="20261108050000 +0000" stop="20261108055500 +0000" channel="turksatkablo-66">
-    <title lang="tr">Sabah Haber</title>
+    <title lang="tr">Yaşamdan Konuklar</title>
   </programme>
   <programme start="20261108055500 +0000" stop="20261108060000 +0000" channel="turksatkablo-66">
     <title lang="tr">Hava Durumu</title>
@@ -12357,62 +12360,59 @@
   <programme start="20261108030000 +0000" stop="20261108044500 +0000" channel="turksatkablo-246">
     <title lang="tr">Futbol: U17 Ligi</title>
   </programme>
-  <programme start="20261108044500 +0000" stop="20261108063000 +0000" channel="turksatkablo-246">
+  <programme start="20261108044500 +0000" stop="20261108050000 +0000" channel="turksatkablo-246">
     <title lang="tr">Söz Taraftarda</title>
   </programme>
-  <programme start="20261108063000 +0000" stop="20261108064500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarihte Bugün</title>
+  <programme start="20261108050000 +0000" stop="20261108064500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Futbol: UEFA Şampiyonlar Ligi</title>
   </programme>
   <programme start="20261108064500 +0000" stop="20261108070000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Fenerium Saati</title>
+    <title lang="tr">Analiz Fenerbahçe</title>
   </programme>
-  <programme start="20261108070000 +0000" stop="20261108080000 +0000" channel="turksatkablo-246">
+  <programme start="20261108070000 +0000" stop="20261108074500 +0000" channel="turksatkablo-246">
     <title lang="tr">Tarih Ve Fenerbahçe</title>
   </programme>
-  <programme start="20261108080000 +0000" stop="20261108083000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Spor Okulları</title>
+  <programme start="20261108074500 +0000" stop="20261108080000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Söz Taraftarda</title>
   </programme>
-  <programme start="20261108083000 +0000" stop="20261108084500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarihte Bugün</title>
+  <programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Fenerium On Air</title>
   </programme>
-  <programme start="20261108084500 +0000" stop="20261108090000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maç Başlıyor</title>
-  </programme>
-  <programme start="20261108090000 +0000" stop="20261108104500 +0000" channel="turksatkablo-246">
+  <programme start="20261108090000 +0000" stop="20261108094500 +0000" channel="turksatkablo-246">
     <title lang="tr">Basketbol: Tekerlekli Sandalye Süper Ligi</title>
   </programme>
-  <programme start="20261108104500 +0000" stop="20261108110000 +0000" channel="turksatkablo-246">
+  <programme start="20261108094500 +0000" stop="20261108100000 +0000" channel="turksatkablo-246">
     <title lang="tr">Haber</title>
   </programme>
-  <programme start="20261108110000 +0000" stop="20261108130000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Kadın Futbol Süper Ligi</title>
-  </programme>
-  <programme start="20261108130000 +0000" stop="20261108131500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Haber</title>
-  </programme>
-  <programme start="20261108131500 +0000" stop="20261108141500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarih Ve Fenerbahçe</title>
-  </programme>
-  <programme start="20261108141500 +0000" stop="20261108154500 +0000" channel="turksatkablo-246">
+  <programme start="20261108100000 +0000" stop="20261108110000 +0000" channel="turksatkablo-246">
     <title lang="tr">Basketbol: Tekerlekli Sandalye Süper Ligi</title>
   </programme>
-  <programme start="20261108154500 +0000" stop="20261108160000 +0000" channel="turksatkablo-246">
+  <programme start="20261108110000 +0000" stop="20261108114500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Fenerin Maçı Var</title>
+  </programme>
+  <programme start="20261108114500 +0000" stop="20261108120000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Analiz Fenerbahçe</title>
+  </programme>
+  <programme start="20261108120000 +0000" stop="20261108130000 +0000" channel="turksatkablo-246">
     <title lang="tr">Maç Başlıyor</title>
   </programme>
-  <programme start="20261108160000 +0000" stop="20261108180000 +0000" channel="turksatkablo-246">
+  <programme start="20261108130000 +0000" stop="20261108150000 +0000" channel="turksatkablo-246">
     <title lang="tr">Basketbol: Euroleague Maç Havası</title>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261108181500 +0000" channel="turksatkablo-246">
+  <programme start="20261108150000 +0000" stop="20261108163000 +0000" channel="turksatkablo-246">
     <title lang="tr">Maçın Ardından</title>
   </programme>
-  <programme start="20261108181500 +0000" stop="20261108183000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Fenerium Saati</title>
+  <programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Ana Haber</title>
   </programme>
-  <programme start="20261108183000 +0000" stop="20261108203000 +0000" channel="turksatkablo-246">
+  <programme start="20261108170000 +0000" stop="20261108183000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Maçın Ardından</title>
+  </programme>
+  <programme start="20261108183000 +0000" stop="20261108201500 +0000" channel="turksatkablo-246">
     <title lang="tr">Kadın Futbol Süper Ligi</title>
   </programme>
-  <programme start="20261108203000 +0000" stop="20261108204500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarihte Bugün</title>
+  <programme start="20261108201500 +0000" stop="20261108204500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Kanaryalar Soruyor</title>
   </programme>
   <programme start="20261108204500 +0000" stop="20261108210000 +0000" channel="turksatkablo-246">
     <title lang="tr">Gece Haberi</title>
@@ -20208,8 +20208,11 @@
   <programme start="20261108020000 +0000" stop="20261108030000 +0000" channel="turksatkablo-558">
     <title lang="tr">Delailü'l Hayrat</title>
   </programme>
-  <programme start="20261108030000 +0000" stop="20261108070000 +0000" channel="turksatkablo-558">
+  <programme start="20261108030000 +0000" stop="20261108050000 +0000" channel="turksatkablo-558">
     <title lang="tr">Hatm-i Şerif</title>
+  </programme>
+  <programme start="20261108050000 +0000" stop="20261108070000 +0000" channel="turksatkablo-558">
+    <title lang="tr">İtikad Dersleri</title>
   </programme>
   <programme start="20261108070000 +0000" stop="20261108080000 +0000" channel="turksatkablo-558">
     <title lang="tr">Yesevi Yolu</title>
@@ -34251,26 +34254,26 @@
   <programme start="20261109190000 +0000" stop="20261109210000 +0000" channel="turksatkablo-245">
     <title lang="tr">Euroformula Open</title>
   </programme>
-  <programme start="20261108210000 +0000" stop="20261108230000 +0000" channel="turksatkablo-246">
+  <programme start="20261108210000 +0000" stop="20261108223000 +0000" channel="turksatkablo-246">
     <title lang="tr">Voleybol: Türkiye Kadınlar Ligi</title>
   </programme>
-  <programme start="20261108230000 +0000" stop="20261109004500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Kadın Futbol Süper Ligi</title>
+  <programme start="20261108223000 +0000" stop="20261109000000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Maçın Ardından</title>
   </programme>
-  <programme start="20261109004500 +0000" stop="20261109010000 +0000" channel="turksatkablo-246">
+  <programme start="20261109000000 +0000" stop="20261109001500 +0000" channel="turksatkablo-246">
     <title lang="tr">Gece Haberi</title>
+  </programme>
+  <programme start="20261109001500 +0000" stop="20261109010000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Kafa Kafaya</title>
   </programme>
   <programme start="20261109010000 +0000" stop="20261109023000 +0000" channel="turksatkablo-246">
     <title lang="tr">Basketbol: Tekerlekli Sandalye Süper Ligi</title>
   </programme>
-  <programme start="20261109023000 +0000" stop="20261109033000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarih Ve Fenerbahçe</title>
+  <programme start="20261109023000 +0000" stop="20261109040000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Basketbol: Euroleague</title>
   </programme>
-  <programme start="20261109033000 +0000" stop="20261109044500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: FİBA Kadınlar Avrupa Ligi</title>
-  </programme>
-  <programme start="20261109044500 +0000" stop="20261109063000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Kadın Futbol Süper Ligi</title>
+  <programme start="20261109040000 +0000" stop="20261109063000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Futbol: UEFA Şampiyonlar Ligi</title>
   </programme>
   <programme start="20261109063000 +0000" stop="20261109064500 +0000" channel="turksatkablo-246">
     <title lang="tr">Tarihte Bugün</title>
