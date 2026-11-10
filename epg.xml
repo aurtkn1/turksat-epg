@@ -1104,10 +1104,10 @@
   <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="turksatkablo-23">
     <title lang="tr">ATV Ana Haber Bülteni</title>
   </programme>
-  <programme start="20261110170000 +0000" stop="20261110204000 +0000" channel="turksatkablo-23">
+  <programme start="20261110170000 +0000" stop="20261110202000 +0000" channel="turksatkablo-23">
     <title lang="tr">Var Mısın Yok Musun</title>
   </programme>
-  <programme start="20261110204000 +0000" stop="20261110234000 +0000" channel="turksatkablo-23">
+  <programme start="20261110202000 +0000" stop="20261110230000 +0000" channel="turksatkablo-23">
     <title lang="tr">Altı Üstü Istanbul</title>
   </programme>
   <programme start="20261109210000 +0000" stop="20261109211500 +0000" channel="turksatkablo-24">
@@ -1260,8 +1260,11 @@
   <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="turksatkablo-28">
     <title lang="tr">Yasak Elma</title>
   </programme>
-  <programme start="20261110030000 +0000" stop="20261110041500 +0000" channel="turksatkablo-28">
+  <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="turksatkablo-28">
     <title lang="tr">Karagül</title>
+  </programme>
+  <programme start="20261110040000 +0000" stop="20261110041500 +0000" channel="turksatkablo-28">
+    <title lang="tr">Ali İhsan Varol İle Kumbara</title>
   </programme>
   <programme start="20261110041500 +0000" stop="20261110050000 +0000" channel="turksatkablo-28">
     <title lang="tr">İlk Bakış</title>
@@ -1285,7 +1288,7 @@
     <title lang="tr">Ozan Gündoğdu İle Now Ana Haber</title>
   </programme>
   <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="turksatkablo-28">
-    <title lang="tr">Anne Yarısı - Özet</title>
+    <title lang="tr">ANNE YARISI - Özet</title>
   </programme>
   <programme start="20261110180000 +0000" stop="20261110204500 +0000" channel="turksatkablo-28">
     <title lang="tr">Anne Yarısı</title>
@@ -2748,8 +2751,11 @@
   <programme start="20261110060000 +0000" stop="20261110063000 +0000" channel="turksatkablo-50">
     <title lang="tr">Tarihin Ruhu</title>
   </programme>
-  <programme start="20261110063000 +0000" stop="20261110073000 +0000" channel="turksatkablo-50">
-    <title lang="tr">İpek'çe Sohbetler</title>
+  <programme start="20261110063000 +0000" stop="20261110071500 +0000" channel="turksatkablo-50">
+    <title lang="tr">Başyapıtın İzinde</title>
+  </programme>
+  <programme start="20261110071500 +0000" stop="20261110073000 +0000" channel="turksatkablo-50">
+    <title lang="tr">Geri Dönüşen Sanat</title>
   </programme>
   <programme start="20261110073000 +0000" stop="20261110080000 +0000" channel="turksatkablo-50">
     <title lang="tr">Müstesna</title>
@@ -5451,58 +5457,58 @@
   <programme start="20261110054500 +0000" stop="20261110061500 +0000" channel="turksatkablo-67">
     <title lang="tr">Anıtkabir'den Naklen Yayın</title>
   </programme>
-  <programme start="20261110061500 +0000" stop="20261110071500 +0000" channel="turksatkablo-67">
-    <title lang="tr">Anneler</title>
+  <programme start="20261110061500 +0000" stop="20261110070000 +0000" channel="turksatkablo-67">
+    <title lang="tr">Misafir Kapıda</title>
   </programme>
-  <programme start="20261110071500 +0000" stop="20261110074500 +0000" channel="turksatkablo-67">
+  <programme start="20261110070000 +0000" stop="20261110073000 +0000" channel="turksatkablo-67">
     <title lang="tr">Haberdar</title>
   </programme>
-  <programme start="20261110074500 +0000" stop="20261110081500 +0000" channel="turksatkablo-67">
+  <programme start="20261110073000 +0000" stop="20261110080000 +0000" channel="turksatkablo-67">
     <title lang="tr">Asırlık Tarifler</title>
   </programme>
-  <programme start="20261110081500 +0000" stop="20261110092500 +0000" channel="turksatkablo-67">
+  <programme start="20261110080000 +0000" stop="20261110091000 +0000" channel="turksatkablo-67">
     <title lang="tr">Evde Konuşuruz</title>
   </programme>
-  <programme start="20261110092500 +0000" stop="20261110101500 +0000" channel="turksatkablo-67">
+  <programme start="20261110091000 +0000" stop="20261110100000 +0000" channel="turksatkablo-67">
     <title lang="tr">Gönlümdeki Köln</title>
   </programme>
-  <programme start="20261110101500 +0000" stop="20261110111500 +0000" channel="turksatkablo-67">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="turksatkablo-67">
     <title lang="tr">İyi Bak Kendine</title>
   </programme>
-  <programme start="20261110111500 +0000" stop="20261110120500 +0000" channel="turksatkablo-67">
+  <programme start="20261110110000 +0000" stop="20261110115000 +0000" channel="turksatkablo-67">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20261110120500 +0000" stop="20261110121500 +0000" channel="turksatkablo-67">
+  <programme start="20261110115000 +0000" stop="20261110120000 +0000" channel="turksatkablo-67">
     <title lang="tr">10 Kasım Belgeseli</title>
   </programme>
-  <programme start="20261110121500 +0000" stop="20261110124500 +0000" channel="turksatkablo-67">
+  <programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="turksatkablo-67">
     <title lang="tr">Bize Kalan</title>
   </programme>
-  <programme start="20261110124500 +0000" stop="20261110134500 +0000" channel="turksatkablo-67">
+  <programme start="20261110123000 +0000" stop="20261110133000 +0000" channel="turksatkablo-67">
     <title lang="tr">Radyo Sanatçıları Konseri</title>
   </programme>
-  <programme start="20261110134500 +0000" stop="20261110141500 +0000" channel="turksatkablo-67">
-    <title lang="tr">Temizlik Kulübü</title>
+  <programme start="20261110133000 +0000" stop="20261110140000 +0000" channel="turksatkablo-67">
+    <title lang="tr">Gönül Verenler</title>
   </programme>
-  <programme start="20261110141500 +0000" stop="20261110151500 +0000" channel="turksatkablo-67">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="turksatkablo-67">
     <title lang="tr">Benim Güzel Ailem</title>
   </programme>
-  <programme start="20261110151500 +0000" stop="20261110160000 +0000" channel="turksatkablo-67">
+  <programme start="20261110150000 +0000" stop="20261110154500 +0000" channel="turksatkablo-67">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20261110160000 +0000" stop="20261110161500 +0000" channel="turksatkablo-67">
+  <programme start="20261110154500 +0000" stop="20261110160000 +0000" channel="turksatkablo-67">
     <title lang="tr">Mikrofon Senin</title>
   </programme>
-  <programme start="20261110161500 +0000" stop="20261110174500 +0000" channel="turksatkablo-67">
+  <programme start="20261110160000 +0000" stop="20261110173000 +0000" channel="turksatkablo-67">
     <title lang="tr">Yalnız Minare</title>
   </programme>
-  <programme start="20261110174500 +0000" stop="20261110191500 +0000" channel="turksatkablo-67">
+  <programme start="20261110173000 +0000" stop="20261110190000 +0000" channel="turksatkablo-67">
     <title lang="tr">Seksenler</title>
   </programme>
-  <programme start="20261110191500 +0000" stop="20261110204500 +0000" channel="turksatkablo-67">
+  <programme start="20261110190000 +0000" stop="20261110203000 +0000" channel="turksatkablo-67">
     <title lang="tr">Beni Böyle Sev</title>
   </programme>
-  <programme start="20261110204500 +0000" stop="20261110223000 +0000" channel="turksatkablo-67">
+  <programme start="20261110203000 +0000" stop="20261110221500 +0000" channel="turksatkablo-67">
     <title lang="tr">Yalnız Minare</title>
   </programme>
   <programme start="20261109210000 +0000" stop="20261109213000 +0000" channel="turksatkablo-68">
@@ -5776,7 +5782,7 @@
     <title lang="tr">Ana Haber (Nûçeyên Sereke)</title>
   </programme>
   <programme start="20261110170000 +0000" stop="20261110190000 +0000" channel="turksatkablo-70">
-    <title lang="tr">Alkış (Çepik)</title>
+    <title lang="tr">Flaşbellek</title>
   </programme>
   <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="turksatkablo-70">
     <title lang="tr">Gece Gezgini (Beşa Nü Şevger)</title>
@@ -6885,11 +6891,8 @@
   <programme start="20261110040000 +0000" stop="20261110042500 +0000" channel="turksatkablo-85">
     <title lang="tr">Donanım Günlüğü</title>
   </programme>
-  <programme start="20261110042500 +0000" stop="20261110045500 +0000" channel="turksatkablo-85">
+  <programme start="20261110042500 +0000" stop="20261110050000 +0000" channel="turksatkablo-85">
     <title lang="tr">Yeşil Hat</title>
-  </programme>
-  <programme start="20261110045500 +0000" stop="20261110050000 +0000" channel="turksatkablo-85">
-    <title lang="tr">Kuş Bakışı</title>
   </programme>
   <programme start="20261110050000 +0000" stop="20261110051500 +0000" channel="turksatkablo-85">
     <title lang="tr">Oto Flash</title>
@@ -7105,7 +7108,7 @@
     <title lang="tr">News</title>
   </programme>
   <programme start="20261109221500 +0000" stop="20261109223000 +0000" channel="turksatkablo-88">
-    <title lang="tr">Newsfeed</title>
+    <title lang="tr">One on One</title>
   </programme>
   <programme start="20261109223000 +0000" stop="20261109230000 +0000" channel="turksatkablo-88">
     <title lang="tr">Roundtable</title>
@@ -7891,7 +7894,7 @@
     <title lang="tr">El Melab</title>
   </programme>
   <programme start="20261110030000 +0000" stop="20261110035000 +0000" channel="turksatkablo-99">
-    <title lang="tr">Yeni Sabah</title>
+    <title lang="tr">Ala Mewed</title>
   </programme>
   <programme start="20261110035000 +0000" stop="20261110040000 +0000" channel="turksatkablo-99">
     <title lang="tr">Müzelerin Yıldızları</title>
@@ -7920,11 +7923,11 @@
   <programme start="20261110075000 +0000" stop="20261110080000 +0000" channel="turksatkablo-99">
     <title lang="tr">Müzelerin Yıldızları</title>
   </programme>
-  <programme start="20261110080000 +0000" stop="20261110083000 +0000" channel="turksatkablo-99">
+  <programme start="20261110080000 +0000" stop="20261110085000 +0000" channel="turksatkablo-99">
     <title lang="tr">News</title>
   </programme>
-  <programme start="20261110083000 +0000" stop="20261110090000 +0000" channel="turksatkablo-99">
-    <title lang="tr">El Melab</title>
+  <programme start="20261110085000 +0000" stop="20261110090000 +0000" channel="turksatkablo-99">
+    <title lang="tr">Malafat</title>
   </programme>
   <programme start="20261110090000 +0000" stop="20261110093000 +0000" channel="turksatkablo-99">
     <title lang="tr">Wa Lana Waqfa</title>
@@ -7942,13 +7945,13 @@
     <title lang="tr">News</title>
   </programme>
   <programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="turksatkablo-99">
-    <title lang="tr">Ala Mewed</title>
+    <title lang="tr">Qissa Vema Fiha</title>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="turksatkablo-99">
+  <programme start="20261110120000 +0000" stop="20261110125000 +0000" channel="turksatkablo-99">
     <title lang="tr">News</title>
   </programme>
-  <programme start="20261110123000 +0000" stop="20261110130000 +0000" channel="turksatkablo-99">
-    <title lang="tr">Wa Lana Waqfa</title>
+  <programme start="20261110125000 +0000" stop="20261110130000 +0000" channel="turksatkablo-99">
+    <title lang="tr">Malafat</title>
   </programme>
   <programme start="20261110130000 +0000" stop="20261110133000 +0000" channel="turksatkablo-99">
     <title lang="tr">News</title>
@@ -7984,7 +7987,7 @@
     <title lang="tr">Stories Of Resilience</title>
   </programme>
   <programme start="20261110183000 +0000" stop="20261110190000 +0000" channel="turksatkablo-99">
-    <title lang="tr">Ala Mewed</title>
+    <title lang="tr">Tafaul</title>
   </programme>
   <programme start="20261110190000 +0000" stop="20261110193000 +0000" channel="turksatkablo-99">
     <title lang="tr">News</title>
@@ -9388,7 +9391,7 @@
     <title lang="tr">Hedef Sıfır Atık</title>
   </programme>
   <programme start="20261110094000 +0000" stop="20261110101500 +0000" channel="turksatkablo-111">
-    <title lang="tr">Yiyeceğin Serüveni</title>
+    <title lang="tr">Yeşil Güzergah</title>
   </programme>
   <programme start="20261110101500 +0000" stop="20261110110000 +0000" channel="turksatkablo-111">
     <title lang="tr">Gol Atan Cepheye</title>
@@ -11883,49 +11886,49 @@
   <programme start="20261110003000 +0000" stop="20261110030000 +0000" channel="turksatkablo-225">
     <title lang="tr">Snooker: Dünya Şampiyonası</title>
   </programme>
-  <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="turksatkablo-225">
+  <programme start="20261110030000 +0000" stop="20261110034800 +0000" channel="turksatkablo-225">
     <title lang="tr">Olimpiyat Oyunları: Hall of Fame</title>
   </programme>
-  <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="turksatkablo-225">
+  <programme start="20261110034800 +0000" stop="20261110044800 +0000" channel="turksatkablo-225">
     <title lang="tr">Alp Disiplini</title>
   </programme>
-  <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="turksatkablo-225">
+  <programme start="20261110044800 +0000" stop="20261110054800 +0000" channel="turksatkablo-225">
     <title lang="tr">Alp Disiplini</title>
   </programme>
-  <programme start="20261110060000 +0000" stop="20261110073000 +0000" channel="turksatkablo-225">
+  <programme start="20261110054800 +0000" stop="20261110073400 +0000" channel="turksatkablo-225">
     <title lang="tr">FIA Dünya Dayanıklılık Şampiyonası</title>
   </programme>
-  <programme start="20261110073000 +0000" stop="20261110100000 +0000" channel="turksatkablo-225">
+  <programme start="20261110073400 +0000" stop="20261110100200 +0000" channel="turksatkablo-225">
     <title lang="tr">Snooker: Dünya Şampiyonası</title>
   </programme>
-  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="turksatkablo-225">
+  <programme start="20261110100200 +0000" stop="20261110105800 +0000" channel="turksatkablo-225">
     <title lang="tr">Olimpiyat Oyunları: Hall of Fame</title>
   </programme>
-  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="turksatkablo-225">
+  <programme start="20261110105800 +0000" stop="20261110120100 +0000" channel="turksatkablo-225">
     <title lang="tr">Alp Disiplini</title>
   </programme>
-  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="turksatkablo-225">
+  <programme start="20261110120100 +0000" stop="20261110130100 +0000" channel="turksatkablo-225">
     <title lang="tr">Alp Disiplini</title>
   </programme>
-  <programme start="20261110130000 +0000" stop="20261110143000 +0000" channel="turksatkablo-225">
+  <programme start="20261110130100 +0000" stop="20261110143100 +0000" channel="turksatkablo-225">
     <title lang="tr">UCI World Tour Highlights</title>
   </programme>
-  <programme start="20261110143000 +0000" stop="20261110163000 +0000" channel="turksatkablo-225">
+  <programme start="20261110143100 +0000" stop="20261110163000 +0000" channel="turksatkablo-225">
     <title lang="tr">Snooker: Dünya Şampiyonası</title>
   </programme>
-  <programme start="20261110163000 +0000" stop="20261110173000 +0000" channel="turksatkablo-225">
+  <programme start="20261110163000 +0000" stop="20261110172800 +0000" channel="turksatkablo-225">
     <title lang="tr">Olimpiyat Oyunları: Hall of Fame</title>
   </programme>
-  <programme start="20261110173000 +0000" stop="20261110181500 +0000" channel="turksatkablo-225">
+  <programme start="20261110172800 +0000" stop="20261110181700 +0000" channel="turksatkablo-225">
     <title lang="tr">Alp Disiplini</title>
   </programme>
-  <programme start="20261110181500 +0000" stop="20261110190000 +0000" channel="turksatkablo-225">
+  <programme start="20261110181700 +0000" stop="20261110190000 +0000" channel="turksatkablo-225">
     <title lang="tr">Alp Disiplini</title>
   </programme>
   <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="turksatkablo-225">
     <title lang="tr">Snooker: Dünya Şampiyonası</title>
   </programme>
-  <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="turksatkablo-225">
+  <programme start="20261110200000 +0000" stop="20261110210100 +0000" channel="turksatkablo-225">
     <title lang="tr">Spot Otomobil: Porsche Süper Kupası, İtalya</title>
   </programme>
   <programme start="20261109210000 +0000" stop="20261109220000 +0000" channel="turksatkablo-226">
@@ -12750,67 +12753,73 @@
   <programme start="20261110033000 +0000" stop="20261110043000 +0000" channel="turksatkablo-246">
     <title lang="tr">Futbol Dosyası</title>
   </programme>
-  <programme start="20261110043000 +0000" stop="20261110063000 +0000" channel="turksatkablo-246">
+  <programme start="20261110043000 +0000" stop="20261110050000 +0000" channel="turksatkablo-246">
     <title lang="tr">Spor Okulları</title>
   </programme>
-  <programme start="20261110063000 +0000" stop="20261110064500 +0000" channel="turksatkablo-246">
+  <programme start="20261110050000 +0000" stop="20261110051500 +0000" channel="turksatkablo-246">
     <title lang="tr">Tarihte Bugün</title>
   </programme>
-  <programme start="20261110064500 +0000" stop="20261110081500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Türkiye Sigorta Basketbol Süper Ligi</title>
+  <programme start="20261110051500 +0000" stop="20261110070000 +0000" channel="turksatkablo-246">
+    <title lang="tr">10 Kasım Anma Atatürk'ü Anma Töreni</title>
   </programme>
-  <programme start="20261110081500 +0000" stop="20261110090000 +0000" channel="turksatkablo-246">
-    <title lang="tr">EuroLeague Analiz</title>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Tarih Ve Fenerbahçe</title>
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Gündem Özel</title>
   </programme>
   <programme start="20261110090000 +0000" stop="20261110091500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Haber</title>
+    <title lang="tr">10 Kasim Atatürk'ü Anma Töreni Kulüp</title>
   </programme>
-  <programme start="20261110091500 +0000" stop="20261110093000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarihte Bugün</title>
+  <programme start="20261110091500 +0000" stop="20261110100000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Fenerbahçe Günlüğü</title>
   </programme>
-  <programme start="20261110093000 +0000" stop="20261110110000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Futbol Dosyası</title>
   </programme>
   <programme start="20261110110000 +0000" stop="20261110111500 +0000" channel="turksatkablo-246">
     <title lang="tr">Haber</title>
   </programme>
-  <programme start="20261110111500 +0000" stop="20261110113000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarihte Bugün</title>
-  </programme>
-  <programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Spor Okulları</title>
-  </programme>
-  <programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="turksatkablo-246">
-    <title lang="tr">EuroLeague Analiz</title>
-  </programme>
-  <programme start="20261110123000 +0000" stop="20261110130000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Futbol Dosyası</title>
+  <programme start="20261110111500 +0000" stop="20261110130000 +0000" channel="turksatkablo-246">
+    <title lang="tr">10 Kasım Anma Atatürk'ü Anma Töreni</title>
   </programme>
   <programme start="20261110130000 +0000" stop="20261110131500 +0000" channel="turksatkablo-246">
     <title lang="tr">Haber</title>
   </programme>
-  <programme start="20261110131500 +0000" stop="20261110134500 +0000" channel="turksatkablo-246">
+  <programme start="20261110131500 +0000" stop="20261110133000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Tarihte Bugün</title>
+  </programme>
+  <programme start="20261110133000 +0000" stop="20261110140000 +0000" channel="turksatkablo-246">
     <title lang="tr">EuroLeague Analiz</title>
   </programme>
-  <programme start="20261110134500 +0000" stop="20261110151500 +0000" channel="turksatkablo-246">
-    <title lang="tr">Fenerbahçe Günlüğü</title>
+  <programme start="20261110140000 +0000" stop="20261110143000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Maçın Öyküsü</title>
   </programme>
-  <programme start="20261110151500 +0000" stop="20261110160700 +0000" channel="turksatkablo-246">
-    <title lang="tr">Head To Head</title>
+  <programme start="20261110143000 +0000" stop="20261110153000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Tarih Ve Fenerbahçe</title>
+  </programme>
+  <programme start="20261110153000 +0000" stop="20261110155500 +0000" channel="turksatkablo-246">
+    <title lang="tr">40+</title>
+  </programme>
+  <programme start="20261110155500 +0000" stop="20261110160700 +0000" channel="turksatkablo-246">
+    <title lang="tr">Sosyal Medya Günlüğü</title>
   </programme>
   <programme start="20261110160700 +0000" stop="20261110163000 +0000" channel="turksatkablo-246">
     <title lang="tr">Ana Haber</title>
   </programme>
   <programme start="20261110163000 +0000" stop="20261110173000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maç Başlıyor</title>
+    <title lang="tr">Futbol Zirvesi</title>
   </programme>
-  <programme start="20261110173000 +0000" stop="20261110193000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Euroleague Maç Havası</title>
+  <programme start="20261110173000 +0000" stop="20261110191500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Futbol: Süper Lig</title>
   </programme>
-  <programme start="20261110193000 +0000" stop="20261110203000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maçın Ardından</title>
+  <programme start="20261110191500 +0000" stop="20261110201500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Sonsuz Sadakat</title>
   </programme>
-  <programme start="20261110203000 +0000" stop="20261110210000 +0000" channel="turksatkablo-246">
+  <programme start="20261110201500 +0000" stop="20261110204500 +0000" channel="turksatkablo-246">
+    <title lang="tr">Maçın Öyküsü</title>
+  </programme>
+  <programme start="20261110204500 +0000" stop="20261110210000 +0000" channel="turksatkablo-246">
     <title lang="tr">Gece Haberi</title>
   </programme>
   <programme start="20261109210000 +0000" stop="20261109214500 +0000" channel="turksatkablo-333">
@@ -21090,10 +21099,10 @@
   <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="turksatkablo-902">
     <title lang="tr">ATV Ana Haber Bülteni</title>
   </programme>
-  <programme start="20261110170000 +0000" stop="20261110204000 +0000" channel="turksatkablo-902">
+  <programme start="20261110170000 +0000" stop="20261110202000 +0000" channel="turksatkablo-902">
     <title lang="tr">Var Mısın Yok Musun</title>
   </programme>
-  <programme start="20261110204000 +0000" stop="20261110234000 +0000" channel="turksatkablo-902">
+  <programme start="20261110202000 +0000" stop="20261110230000 +0000" channel="turksatkablo-902">
     <title lang="tr">Altı Üstü Istanbul</title>
   </programme>
   <programme start="20261109210000 +0000" stop="20261110000000 +0000" channel="turksatkablo-905">
@@ -21210,8 +21219,11 @@
   <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="turksatkablo-909">
     <title lang="tr">Yasak Elma</title>
   </programme>
-  <programme start="20261110030000 +0000" stop="20261110041500 +0000" channel="turksatkablo-909">
+  <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="turksatkablo-909">
     <title lang="tr">Karagül</title>
+  </programme>
+  <programme start="20261110040000 +0000" stop="20261110041500 +0000" channel="turksatkablo-909">
+    <title lang="tr">Ali İhsan Varol İle Kumbara</title>
   </programme>
   <programme start="20261110041500 +0000" stop="20261110050000 +0000" channel="turksatkablo-909">
     <title lang="tr">İlk Bakış</title>
@@ -21235,7 +21247,7 @@
     <title lang="tr">Ozan Gündoğdu İle Now Ana Haber</title>
   </programme>
   <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="turksatkablo-909">
-    <title lang="tr">Anne Yarısı - Özet</title>
+    <title lang="tr">ANNE YARISI - Özet</title>
   </programme>
   <programme start="20261110180000 +0000" stop="20261110204500 +0000" channel="turksatkablo-909">
     <title lang="tr">Anne Yarısı</title>
@@ -21748,7 +21760,7 @@
     <title lang="tr">Hedef Sıfır Atık</title>
   </programme>
   <programme start="20261110094000 +0000" stop="20261110101500 +0000" channel="turksatkablo-915">
-    <title lang="tr">Yiyeceğin Serüveni</title>
+    <title lang="tr">Yeşil Güzergah</title>
   </programme>
   <programme start="20261110101500 +0000" stop="20261110110000 +0000" channel="turksatkablo-915">
     <title lang="tr">Gol Atan Cepheye</title>
@@ -23256,10 +23268,10 @@
   <programme start="20261110210000 +0000" stop="20261110211500 +0000" channel="turksatkablo-22">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261110211500 +0000" stop="20261111000500 +0000" channel="turksatkablo-22">
+  <programme start="20261110211500 +0000" stop="20261110235500 +0000" channel="turksatkablo-22">
     <title lang="tr">Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20261111000500 +0000" stop="20261111024300 +0000" channel="turksatkablo-22">
+  <programme start="20261110235500 +0000" stop="20261111024300 +0000" channel="turksatkablo-22">
     <title lang="tr">Alparslan: Büyük Selçuklu</title>
   </programme>
   <programme start="20261111024300 +0000" stop="20261111024500 +0000" channel="turksatkablo-22">
@@ -23295,16 +23307,16 @@
   <programme start="20261111170000 +0000" stop="20261111193500 +0000" channel="turksatkablo-22">
     <title lang="tr">Pamuk Prenses ve Avcı</title>
   </programme>
-  <programme start="20261111193500 +0000" stop="20261111221500 +0000" channel="turksatkablo-22">
+  <programme start="20261111193500 +0000" stop="20261111220000 +0000" channel="turksatkablo-22">
     <title lang="tr">Genç Kadın ve Deniz</title>
   </programme>
-  <programme start="20261110210000 +0000" stop="20261110234000 +0000" channel="turksatkablo-23">
+  <programme start="20261110210000 +0000" stop="20261110230000 +0000" channel="turksatkablo-23">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261110234000 +0000" stop="20261111020000 +0000" channel="turksatkablo-23">
+  <programme start="20261110230000 +0000" stop="20261111014500 +0000" channel="turksatkablo-23">
     <title lang="tr">Bir Gece Masalı</title>
   </programme>
-  <programme start="20261111020000 +0000" stop="20261111050000 +0000" channel="turksatkablo-23">
+  <programme start="20261111014500 +0000" stop="20261111050000 +0000" channel="turksatkablo-23">
     <title lang="tr">Hercai</title>
   </programme>
   <programme start="20261111050000 +0000" stop="20261111070000 +0000" channel="turksatkablo-23">
@@ -23325,10 +23337,10 @@
   <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="turksatkablo-23">
     <title lang="tr">ATV Ana Haber Bülteni</title>
   </programme>
-  <programme start="20261111170000 +0000" stop="20261111204000 +0000" channel="turksatkablo-23">
+  <programme start="20261111170000 +0000" stop="20261111202000 +0000" channel="turksatkablo-23">
     <title lang="tr">Var Mısın Yok Musun</title>
   </programme>
-  <programme start="20261111204000 +0000" stop="20261111234000 +0000" channel="turksatkablo-23">
+  <programme start="20261111202000 +0000" stop="20261111231500 +0000" channel="turksatkablo-23">
     <title lang="tr">Güneşin Doğduğu Yer</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110233000 +0000" channel="turksatkablo-24">
@@ -23475,16 +23487,22 @@
   <programme start="20261110210000 +0000" stop="20261110233000 +0000" channel="turksatkablo-28">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261110233000 +0000" stop="20261111014500 +0000" channel="turksatkablo-28">
+  <programme start="20261110233000 +0000" stop="20261111003000 +0000" channel="turksatkablo-28">
     <title lang="tr">Ali İhsan Varol İle Kumbara</title>
   </programme>
-  <programme start="20261111014500 +0000" stop="20261111030000 +0000" channel="turksatkablo-28">
+  <programme start="20261111003000 +0000" stop="20261111013000 +0000" channel="turksatkablo-28">
+    <title lang="tr">Şevkat Yerimdar</title>
+  </programme>
+  <programme start="20261111013000 +0000" stop="20261111030000 +0000" channel="turksatkablo-28">
     <title lang="tr">Yasak Elma</title>
   </programme>
   <programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="turksatkablo-28">
     <title lang="tr">Karagül</title>
   </programme>
-  <programme start="20261111033000 +0000" stop="20261111041500 +0000" channel="turksatkablo-28">
+  <programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="turksatkablo-28">
+    <title lang="tr">Ali İhsan Varol İle Kumbara</title>
+  </programme>
+  <programme start="20261111040000 +0000" stop="20261111041500 +0000" channel="turksatkablo-28">
     <title lang="tr">Ali İhsan Varol İle Kumbara</title>
   </programme>
   <programme start="20261111041500 +0000" stop="20261111050000 +0000" channel="turksatkablo-28">
@@ -23919,23 +23937,17 @@
   <programme start="20261111203000 +0000" stop="20261111210000 +0000" channel="turksatkablo-35">
     <title lang="tr">Nakliye Savaşları</title>
   </programme>
-  <programme start="20261110210000 +0000" stop="20261110215000 +0000" channel="turksatkablo-36">
+  <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="turksatkablo-36">
     <title lang="tr">Gece Haber</title>
   </programme>
-  <programme start="20261110215000 +0000" stop="20261110215500 +0000" channel="turksatkablo-36">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20261110215500 +0000" stop="20261110220000 +0000" channel="turksatkablo-36">
-    <title lang="tr">Spor Haber</title>
-  </programme>
   <programme start="20261110220000 +0000" stop="20261110230000 +0000" channel="turksatkablo-36">
-    <title lang="tr">Sora Sora Yarışma</title>
+    <title lang="tr">Alın Teri</title>
   </programme>
   <programme start="20261110230000 +0000" stop="20261111003000 +0000" channel="turksatkablo-36">
     <title lang="tr">Tarihin Kadrajından</title>
   </programme>
   <programme start="20261111003000 +0000" stop="20261111010000 +0000" channel="turksatkablo-36">
-    <title lang="tr">Belgesel</title>
+    <title lang="tr">Afrika Hikayesi</title>
   </programme>
   <programme start="20261111010000 +0000" stop="20261111020000 +0000" channel="turksatkablo-36">
     <title lang="tr">İyilikle Sevindir</title>
@@ -23977,22 +23989,25 @@
     <title lang="tr">Velivizyon</title>
   </programme>
   <programme start="20261111130000 +0000" stop="20261111140000 +0000" channel="turksatkablo-36">
-    <title lang="tr">Dizi Kuşağı</title>
+    <title lang="tr">Sağlık Olsun</title>
   </programme>
   <programme start="20261111140000 +0000" stop="20261111150000 +0000" channel="turksatkablo-36">
-    <title lang="tr">Anadolu'da KNK Tarım</title>
+    <title lang="tr">Tasarım Evi</title>
   </programme>
   <programme start="20261111150000 +0000" stop="20261111163000 +0000" channel="turksatkablo-36">
     <title lang="tr">Düzlem</title>
   </programme>
-  <programme start="20261111163000 +0000" stop="20261111184000 +0000" channel="turksatkablo-36">
+  <programme start="20261111163000 +0000" stop="20261111174000 +0000" channel="turksatkablo-36">
     <title lang="tr">Ana Haber</title>
   </programme>
-  <programme start="20261111184000 +0000" stop="20261111200000 +0000" channel="turksatkablo-36">
+  <programme start="20261111174000 +0000" stop="20261111184000 +0000" channel="turksatkablo-36">
     <title lang="tr">Endüstri Konya</title>
   </programme>
+  <programme start="20261111184000 +0000" stop="20261111200000 +0000" channel="turksatkablo-36">
+    <title lang="tr">Tarım Akademisi</title>
+  </programme>
   <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="turksatkablo-36">
-    <title lang="tr">Spor Okulları Olimpiyatları</title>
+    <title lang="tr">Sora Sora Yarışma</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="turksatkablo-37">
     <title lang="tr">-</title>
@@ -24948,8 +24963,11 @@
   <programme start="20261110223000 +0000" stop="20261111003000 +0000" channel="turksatkablo-50">
     <title lang="tr">Bütün Bir Ömür</title>
   </programme>
-  <programme start="20261111003000 +0000" stop="20261111015800 +0000" channel="turksatkablo-50">
+  <programme start="20261111003000 +0000" stop="20261111011500 +0000" channel="turksatkablo-50">
     <title lang="tr">Gün Batıdan Doğmadan</title>
+  </programme>
+  <programme start="20261111011500 +0000" stop="20261111015800 +0000" channel="turksatkablo-50">
+    <title lang="tr">Başyapıtın İzinde</title>
   </programme>
   <programme start="20261111015800 +0000" stop="20261111020000 +0000" channel="turksatkablo-50">
     <title lang="tr">İstiklal Marşı</title>
@@ -25902,8 +25920,23 @@
   <programme start="20261111034000 +0000" stop="20261111035500 +0000" channel="turksatkablo-54">
     <title lang="tr">Tarihin Arayüzü</title>
   </programme>
-  <programme start="20261111035500 +0000" stop="20261111050000 +0000" channel="turksatkablo-54">
+  <programme start="20261111035500 +0000" stop="20261111040000 +0000" channel="turksatkablo-54">
     <title lang="tr">Doğada 1 Dakika</title>
+  </programme>
+  <programme start="20261111040000 +0000" stop="20261111040300 +0000" channel="turksatkablo-54">
+    <title lang="tr">İstiklal Marşı</title>
+  </programme>
+  <programme start="20261111040300 +0000" stop="20261111042500 +0000" channel="turksatkablo-54">
+    <title lang="tr">Sanat Ninjası "Art Ninja"</title>
+  </programme>
+  <programme start="20261111042500 +0000" stop="20261111043000 +0000" channel="turksatkablo-54">
+    <title lang="tr">Handico</title>
+  </programme>
+  <programme start="20261111043000 +0000" stop="20261111044500 +0000" channel="turksatkablo-54">
+    <title lang="tr">Yayınıma Hoş Geldiniz</title>
+  </programme>
+  <programme start="20261111044500 +0000" stop="20261111050000 +0000" channel="turksatkablo-54">
+    <title lang="tr">Bilim Avcıları</title>
   </programme>
   <programme start="20261111050000 +0000" stop="20261111053000 +0000" channel="turksatkablo-54">
     <title lang="tr">Olay Yeri İnsan Vücudu</title>
@@ -26844,35 +26877,32 @@
   <programme start="20261111050000 +0000" stop="20261111060000 +0000" channel="turksatkablo-64">
     <title lang="tr">Yeni Bir Gün</title>
   </programme>
-  <programme start="20261111060000 +0000" stop="20261111065000 +0000" channel="turksatkablo-64">
+  <programme start="20261111060000 +0000" stop="20261111063000 +0000" channel="turksatkablo-64">
     <title lang="tr">Yeni Bir Gün</title>
   </programme>
-  <programme start="20261111065000 +0000" stop="20261111070000 +0000" channel="turksatkablo-64">
-    <title lang="tr">Bilmeniz Gereken 7 Şey</title>
+  <programme start="20261111063000 +0000" stop="20261111070000 +0000" channel="turksatkablo-64">
+    <title lang="tr">Parapolitik</title>
   </programme>
-  <programme start="20261111070000 +0000" stop="20261111074500 +0000" channel="turksatkablo-64">
-    <title lang="tr">Haber</title>
+  <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="turksatkablo-64">
+    <title lang="tr">Parapolitik</title>
   </programme>
-  <programme start="20261111074500 +0000" stop="20261111080000 +0000" channel="turksatkablo-64">
+  <programme start="20261111080000 +0000" stop="20261111085300 +0000" channel="turksatkablo-64">
+    <title lang="tr">Parapolitik</title>
+  </programme>
+  <programme start="20261111085300 +0000" stop="20261111090000 +0000" channel="turksatkablo-64">
     <title lang="tr">Editör Anlatıyor</title>
   </programme>
-  <programme start="20261111080000 +0000" stop="20261111084500 +0000" channel="turksatkablo-64">
-    <title lang="tr">Haber</title>
-  </programme>
-  <programme start="20261111084500 +0000" stop="20261111090000 +0000" channel="turksatkablo-64">
-    <title lang="tr">Editör Anlatıyor</title>
-  </programme>
-  <programme start="20261111090000 +0000" stop="20261111093000 +0000" channel="turksatkablo-64">
+  <programme start="20261111090000 +0000" stop="20261111094000 +0000" channel="turksatkablo-64">
     <title lang="tr">Haber Merkezi</title>
   </programme>
-  <programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="turksatkablo-64">
+  <programme start="20261111094000 +0000" stop="20261111100000 +0000" channel="turksatkablo-64">
     <title lang="tr">Belgesel Kuşağı</title>
   </programme>
-  <programme start="20261111100000 +0000" stop="20261111104500 +0000" channel="turksatkablo-64">
+  <programme start="20261111100000 +0000" stop="20261111103000 +0000" channel="turksatkablo-64">
     <title lang="tr">Haber Merkezi</title>
   </programme>
-  <programme start="20261111104500 +0000" stop="20261111110000 +0000" channel="turksatkablo-64">
-    <title lang="tr">Editör Anlatıyor</title>
+  <programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="turksatkablo-64">
+    <title lang="tr">Kahve Arası</title>
   </programme>
   <programme start="20261111110000 +0000" stop="20261111114500 +0000" channel="turksatkablo-64">
     <title lang="tr">Haber Merkezi</title>
@@ -26905,22 +26935,22 @@
     <title lang="tr">Editör Anlatıyor</title>
   </programme>
   <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="turksatkablo-64">
-    <title lang="tr">Haber</title>
+    <title lang="tr">19. Saat</title>
   </programme>
   <programme start="20261111170000 +0000" stop="20261111173000 +0000" channel="turksatkablo-64">
-    <title lang="tr">Akşam Sporu</title>
+    <title lang="tr">19. Saat Spor</title>
   </programme>
-  <programme start="20261111173000 +0000" stop="20261111174500 +0000" channel="turksatkablo-64">
-    <title lang="tr">Editör Anlatıyor</title>
+  <programme start="20261111173000 +0000" stop="20261111180000 +0000" channel="turksatkablo-64">
+    <title lang="tr">Siyaseten</title>
   </programme>
-  <programme start="20261111174500 +0000" stop="20261111183000 +0000" channel="turksatkablo-64">
-    <title lang="tr">Gündem Özel</title>
+  <programme start="20261111180000 +0000" stop="20261111183000 +0000" channel="turksatkablo-64">
+    <title lang="tr">Siyaseten</title>
   </programme>
   <programme start="20261111183000 +0000" stop="20261111190000 +0000" channel="turksatkablo-64">
-    <title lang="tr">Gündem Özel</title>
+    <title lang="tr">Siyaseten</title>
   </programme>
   <programme start="20261111190000 +0000" stop="20261111193000 +0000" channel="turksatkablo-64">
-    <title lang="tr">Gündem Özel</title>
+    <title lang="tr">Siyaseten</title>
   </programme>
   <programme start="20261111193000 +0000" stop="20261111201500 +0000" channel="turksatkablo-64">
     <title lang="tr">Serdar Tuncer'le Başka Şeyler</title>
@@ -27054,32 +27084,38 @@
   <programme start="20261111200000 +0000" stop="20261112040000 +0000" channel="turksatkablo-66">
     <title lang="tr">Eğitime Dair Her Şey</title>
   </programme>
-  <programme start="20261110210000 +0000" stop="20261110223000 +0000" channel="turksatkablo-67">
+  <programme start="20261110210000 +0000" stop="20261110221500 +0000" channel="turksatkablo-67">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261110223000 +0000" stop="20261110225500 +0000" channel="turksatkablo-67">
+  <programme start="20261110221500 +0000" stop="20261110224000 +0000" channel="turksatkablo-67">
     <title lang="tr">Leyla ile Mecnun</title>
   </programme>
-  <programme start="20261110225500 +0000" stop="20261111000500 +0000" channel="turksatkablo-67">
+  <programme start="20261110224000 +0000" stop="20261110235000 +0000" channel="turksatkablo-67">
     <title lang="tr">Evde Konuşuruz</title>
   </programme>
-  <programme start="20261111000500 +0000" stop="20261111010500 +0000" channel="turksatkablo-67">
+  <programme start="20261110235000 +0000" stop="20261111005000 +0000" channel="turksatkablo-67">
     <title lang="tr">Benim Güzel Ailem</title>
   </programme>
-  <programme start="20261111010500 +0000" stop="20261111020500 +0000" channel="turksatkablo-67">
+  <programme start="20261111005000 +0000" stop="20261111015000 +0000" channel="turksatkablo-67">
     <title lang="tr">İyi Bak Kendine</title>
   </programme>
-  <programme start="20261111020500 +0000" stop="20261111023000 +0000" channel="turksatkablo-67">
+  <programme start="20261111015000 +0000" stop="20261111021500 +0000" channel="turksatkablo-67">
     <title lang="tr">Leyla ile Mecnun</title>
   </programme>
-  <programme start="20261111023000 +0000" stop="20261111035500 +0000" channel="turksatkablo-67">
+  <programme start="20261111021500 +0000" stop="20261111040000 +0000" channel="turksatkablo-67">
     <title lang="tr">Seksenler</title>
   </programme>
-  <programme start="20261111035500 +0000" stop="20261111040000 +0000" channel="turksatkablo-67">
-    <title lang="tr">İstiklal Marşı Çocuk</title>
+  <programme start="20261111040000 +0000" stop="20261111041000 +0000" channel="turksatkablo-67">
+    <title lang="tr">En Güzel</title>
   </programme>
-  <programme start="20261111040000 +0000" stop="20261111050000 +0000" channel="turksatkablo-67">
-    <title lang="tr">Zuhurat</title>
+  <programme start="20261111041000 +0000" stop="20261111043500 +0000" channel="turksatkablo-67">
+    <title lang="tr">Fransa'da Türk Camileri</title>
+  </programme>
+  <programme start="20261111043500 +0000" stop="20261111044500 +0000" channel="turksatkablo-67">
+    <title lang="tr">Yeni Hayatım Hakkında</title>
+  </programme>
+  <programme start="20261111044500 +0000" stop="20261111050000 +0000" channel="turksatkablo-67">
+    <title lang="tr">Canı Gönülden</title>
   </programme>
   <programme start="20261111050000 +0000" stop="20261111060000 +0000" channel="turksatkablo-67">
     <title lang="tr">İyi Bak Kendine</title>
@@ -27165,11 +27201,11 @@
   <programme start="20261111010000 +0000" stop="20261111013000 +0000" channel="turksatkablo-68">
     <title lang="tr">Türk Metinleri</title>
   </programme>
-  <programme start="20261111013000 +0000" stop="20261111020000 +0000" channel="turksatkablo-68">
+  <programme start="20261111013000 +0000" stop="20261111025800 +0000" channel="turksatkablo-68">
     <title lang="tr">Tanıdık Kalpler</title>
   </programme>
-  <programme start="20261111020000 +0000" stop="20261111030000 +0000" channel="turksatkablo-68">
-    <title lang="tr">Kıbrıs Mücahitleri "Yarın İçin Dünü Unutma"</title>
+  <programme start="20261111025800 +0000" stop="20261111030000 +0000" channel="turksatkablo-68">
+    <title lang="tr">İstiklal Marşı</title>
   </programme>
   <programme start="20261111030000 +0000" stop="20261111030500 +0000" channel="turksatkablo-68">
     <title lang="tr">Kazakistan Haber</title>
@@ -27321,11 +27357,8 @@
   <programme start="20261111170000 +0000" stop="20261111173000 +0000" channel="turksatkablo-68">
     <title lang="tr">Türk Dünyasının Kalbi Ankara</title>
   </programme>
-  <programme start="20261111173000 +0000" stop="20261111180000 +0000" channel="turksatkablo-68">
-    <title lang="tr">Özbekler Tekkesi</title>
-  </programme>
-  <programme start="20261111180000 +0000" stop="20261111183000 +0000" channel="turksatkablo-68">
-    <title lang="tr">Şehrimin Takımı</title>
+  <programme start="20261111173000 +0000" stop="20261111183000 +0000" channel="turksatkablo-68">
+    <title lang="tr">Karabağ</title>
   </programme>
   <programme start="20261111183000 +0000" stop="20261111190000 +0000" channel="turksatkablo-68">
     <title lang="tr">Gökyüzü Bilgeliği</title>
@@ -27349,7 +27382,7 @@
     <title lang="tr">-</title>
   </programme>
   <programme start="20261110220000 +0000" stop="20261111000000 +0000" channel="turksatkablo-70">
-    <title lang="tr">Alkış (Çepik)</title>
+    <title lang="tr">Flaşbellek</title>
   </programme>
   <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="turksatkablo-70">
     <title lang="tr">Gece Gezgini (Beşa Nü Şevger)</title>
@@ -29497,7 +29530,7 @@
     <title lang="tr">Wa Lana Waqfa</title>
   </programme>
   <programme start="20261111000000 +0000" stop="20261111005000 +0000" channel="turksatkablo-99">
-    <title lang="tr">El Alem El Yevm</title>
+    <title lang="tr">Ala Mewed</title>
   </programme>
   <programme start="20261111005000 +0000" stop="20261111010000 +0000" channel="turksatkablo-99">
     <title lang="tr">Malafat</title>
@@ -29544,11 +29577,11 @@
   <programme start="20261111075000 +0000" stop="20261111080000 +0000" channel="turksatkablo-99">
     <title lang="tr">Müzelerin Yıldızları</title>
   </programme>
-  <programme start="20261111080000 +0000" stop="20261111083000 +0000" channel="turksatkablo-99">
+  <programme start="20261111080000 +0000" stop="20261111085000 +0000" channel="turksatkablo-99">
     <title lang="tr">News</title>
   </programme>
-  <programme start="20261111083000 +0000" stop="20261111090000 +0000" channel="turksatkablo-99">
-    <title lang="tr">El Melab</title>
+  <programme start="20261111085000 +0000" stop="20261111090000 +0000" channel="turksatkablo-99">
+    <title lang="tr">Malafat</title>
   </programme>
   <programme start="20261111090000 +0000" stop="20261111093000 +0000" channel="turksatkablo-99">
     <title lang="tr">Wa Lana Waqfa</title>
@@ -29568,11 +29601,11 @@
   <programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="turksatkablo-99">
     <title lang="tr">Fil İqtisad (Biz)</title>
   </programme>
-  <programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="turksatkablo-99">
+  <programme start="20261111120000 +0000" stop="20261111125000 +0000" channel="turksatkablo-99">
     <title lang="tr">News</title>
   </programme>
-  <programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="turksatkablo-99">
-    <title lang="tr">Wa Lana Waqfa</title>
+  <programme start="20261111125000 +0000" stop="20261111130000 +0000" channel="turksatkablo-99">
+    <title lang="tr">Malafat</title>
   </programme>
   <programme start="20261111130000 +0000" stop="20261111133000 +0000" channel="turksatkablo-99">
     <title lang="tr">News</title>
@@ -33255,47 +33288,59 @@
   <programme start="20261111024500 +0000" stop="20261111030000 +0000" channel="turksatkablo-222">
     <title lang="tr">UEFA Şampiyonlar Ligi Goller</title>
   </programme>
-  <programme start="20261111030000 +0000" stop="20261111040000 +0000" channel="turksatkablo-222">
+  <programme start="20261111030000 +0000" stop="20261111043000 +0000" channel="turksatkablo-222">
     <title lang="tr">Futbol: UEFA Avrupa Ligi Özet</title>
   </programme>
-  <programme start="20261111040000 +0000" stop="20261111055500 +0000" channel="turksatkablo-222">
+  <programme start="20261111043000 +0000" stop="20261111050000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Hollanda Eredivisie Özetler</title>
+  </programme>
+  <programme start="20261111050000 +0000" stop="20261111070000 +0000" channel="turksatkablo-222">
     <title lang="tr">İlk Baskı</title>
   </programme>
-  <programme start="20261111055500 +0000" stop="20261111060000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Spor Takvimi</title>
-  </programme>
-  <programme start="20261111060000 +0000" stop="20261111070000 +0000" channel="turksatkablo-222">
+  <programme start="20261111070000 +0000" stop="20261111071500 +0000" channel="turksatkablo-222">
     <title lang="tr">İşitme Engelliler Spor Bülteni</title>
   </programme>
-  <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="turksatkablo-222">
+  <programme start="20261111071500 +0000" stop="20261111073000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Trendyol Süper Lig Goller</title>
+  </programme>
+  <programme start="20261111073000 +0000" stop="20261111080000 +0000" channel="turksatkablo-222">
     <title lang="tr">Spor Bülteni</title>
   </programme>
-  <programme start="20261111080000 +0000" stop="20261111100000 +0000" channel="turksatkablo-222">
+  <programme start="20261111080000 +0000" stop="20261111093000 +0000" channel="turksatkablo-222">
     <title lang="tr">Spor Manşet</title>
   </programme>
-  <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Muhabir Saati</title>
+  <programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Trendyol Süper Lig Özetler</title>
   </programme>
-  <programme start="20261111110000 +0000" stop="20261111130000 +0000" channel="turksatkablo-222">
+  <programme start="20261111100000 +0000" stop="20261111120000 +0000" channel="turksatkablo-222">
     <title lang="tr">Spor Stüdyosu</title>
+  </programme>
+  <programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Spor Merkezi</title>
+  </programme>
+  <programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Bundesliga Özetler</title>
   </programme>
   <programme start="20261111130000 +0000" stop="20261111143000 +0000" channel="turksatkablo-222">
     <title lang="tr">Gündem Futbol</title>
   </programme>
-  <programme start="20261111143000 +0000" stop="20261111145000 +0000" channel="turksatkablo-222">
+  <programme start="20261111143000 +0000" stop="20261111150000 +0000" channel="turksatkablo-222">
     <title lang="tr">Dünyadan Spor</title>
   </programme>
-  <programme start="20261111145000 +0000" stop="20261111150000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Bizim Ligler</title>
+  <programme start="20261111150000 +0000" stop="20261111163000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Ezgi Sütçü İle Ana Haber</title>
   </programme>
-  <programme start="20261111150000 +0000" stop="20261111190000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Aktüel Futbol</title>
+  <programme start="20261111163000 +0000" stop="20261111170000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Italya Serie A Özetler</title>
+  </programme>
+  <programme start="20261111170000 +0000" stop="20261111190000 +0000" channel="turksatkablo-222">
+    <title lang="tr">UEFA Kadınlar Avrupa Kupası</title>
   </programme>
   <programme start="20261111190000 +0000" stop="20261111203000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Stadyum</title>
+    <title lang="tr">Futbol Aklı</title>
   </programme>
   <programme start="20261111203000 +0000" stop="20261111220000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Teknik Analiz</title>
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261111040000 +0000" channel="turksatkablo-223">
     <title lang="tr">-</title>
@@ -33423,7 +33468,10 @@
   <programme start="20261111200000 +0000" stop="20261111230000 +0000" channel="turksatkablo-224">
     <title lang="tr">Son Sayfa</title>
   </programme>
-  <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="turksatkablo-225">
+  <programme start="20261110210000 +0000" stop="20261110210100 +0000" channel="turksatkablo-225">
+    <title lang="tr">-</title>
+  </programme>
+  <programme start="20261110210100 +0000" stop="20261110220000 +0000" channel="turksatkablo-225">
     <title lang="tr">Alp Disiplini</title>
   </programme>
   <programme start="20261110220000 +0000" stop="20261110230000 +0000" channel="turksatkablo-225">
@@ -33448,7 +33496,7 @@
     <title lang="tr">Dayanlılık Araba Yarışı</title>
   </programme>
   <programme start="20261111073000 +0000" stop="20261111100000 +0000" channel="turksatkablo-225">
-    <title lang="tr">Dünya Bilardo Turu</title>
+    <title lang="tr">Snooker: Şangay Masters</title>
   </programme>
   <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="turksatkablo-225">
     <title lang="tr">Olimpiyat Oyunları: Hall of Fame</title>
@@ -33472,7 +33520,7 @@
     <title lang="tr">Bisiklet: Tadej Pogacar: En İyinin Anatomisi</title>
   </programme>
   <programme start="20261111161500 +0000" stop="20261111173000 +0000" channel="turksatkablo-225">
-    <title lang="tr">Dünya Bilardo Turu</title>
+    <title lang="tr">Snooker: Şangay Masters</title>
   </programme>
   <programme start="20261111173000 +0000" stop="20261111181500 +0000" channel="turksatkablo-225">
     <title lang="tr">Alp Disiplini</title>
@@ -33481,7 +33529,7 @@
     <title lang="tr">Alp Disiplini</title>
   </programme>
   <programme start="20261111190000 +0000" stop="20261111210000 +0000" channel="turksatkablo-225">
-    <title lang="tr">Dünya Bilardo Turu</title>
+    <title lang="tr">Snooker: Şangay Masters</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="turksatkablo-226">
     <title lang="tr">Olimpiyat Oyunları</title>
@@ -33495,35 +33543,41 @@
   <programme start="20261111003000 +0000" stop="20261111030000 +0000" channel="turksatkablo-226">
     <title lang="tr">Spor Otomobil: Wec 6 Saat Spa-Francorchamps Yarışı</title>
   </programme>
-  <programme start="20261111030000 +0000" stop="20261111050000 +0000" channel="turksatkablo-226">
+  <programme start="20261111030000 +0000" stop="20261111040000 +0000" channel="turksatkablo-226">
     <title lang="tr">Bisiklet: Milan–San Remo</title>
   </programme>
-  <programme start="20261111050000 +0000" stop="20261111063000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Bisiklet: Turu Auvergne-Rhône-Alpes</title>
+  <programme start="20261111040000 +0000" stop="20261111050000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Olimpiyat Oyunları</title>
   </programme>
-  <programme start="20261111063000 +0000" stop="20261111073000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Dünya Rally-Raid Şampiyonası</title>
+  <programme start="20261111050000 +0000" stop="20261111073000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Snooker: Şangay Masters</title>
   </programme>
-  <programme start="20261111073000 +0000" stop="20261111090000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Snooker: Oyuncular Şampiyonası</title>
+  <programme start="20261111073000 +0000" stop="20261111100000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Spor Otomobil: Wec 6 Saat Spa-Francorchamps Yarışı</title>
   </programme>
-  <programme start="20261111090000 +0000" stop="20261111110000 +0000" channel="turksatkablo-226">
+  <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Bisiklet: Milan–San Remo</title>
+  </programme>
+  <programme start="20261111110000 +0000" stop="20261111133000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Snooker: Şangay Masters</title>
+  </programme>
+  <programme start="20261111133000 +0000" stop="20261111153000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Spor Otomobil: Wec 6 Saat Spa-Francorchamps Yarışı</title>
+  </programme>
+  <programme start="20261111153000 +0000" stop="20261111163000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Alp Disiplini: Dünya Kupası</title>
+  </programme>
+  <programme start="20261111163000 +0000" stop="20261111173000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Alp Disiplini: Dünya Kupası</title>
+  </programme>
+  <programme start="20261111173000 +0000" stop="20261111181500 +0000" channel="turksatkablo-226">
     <title lang="tr">Tırmanış Dünya Serisi</title>
   </programme>
-  <programme start="20261111110000 +0000" stop="20261111140000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Powerlifting Dünya Şampiyonası</title>
+  <programme start="20261111181500 +0000" stop="20261111193000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Yol Bisikletinde 2026 Sezonu Kadınlar</title>
   </programme>
-  <programme start="20261111140000 +0000" stop="20261111153000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Tırmanış Dünya Serisi</title>
-  </programme>
-  <programme start="20261111153000 +0000" stop="20261111173000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Eskrim Avrupa Şampiyonası</title>
-  </programme>
-  <programme start="20261111173000 +0000" stop="20261111200000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Eskrim Avrupa Şampiyonası</title>
-  </programme>
-  <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Tırmanış Dünya Serisi</title>
+  <programme start="20261111193000 +0000" stop="20261111210000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Yol Bisikletinde 2026 Sezonu Erkekler</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110215500 +0000" channel="turksatkablo-227">
     <title lang="tr">Gece Yarısı</title>
@@ -34216,31 +34270,28 @@
     <title lang="tr">EHF Euro</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Maçın Ardından</title>
+    <title lang="tr">Futbol Zirvesi</title>
   </programme>
   <programme start="20261110220000 +0000" stop="20261110233000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+    <title lang="tr">Türkiye Sigorta Basketbol Süper Ligi</title>
   </programme>
-  <programme start="20261110233000 +0000" stop="20261110234500 +0000" channel="turksatkablo-246">
+  <programme start="20261110233000 +0000" stop="20261111003000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Sonsuz Sadakat</title>
+  </programme>
+  <programme start="20261111003000 +0000" stop="20261111004500 +0000" channel="turksatkablo-246">
     <title lang="tr">Gece Haberi</title>
   </programme>
-  <programme start="20261110234500 +0000" stop="20261111003000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Euroleague'de Bu Hafta</title>
-  </programme>
-  <programme start="20261111003000 +0000" stop="20261111020000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Tarih Ve Fenerbahçe</title>
-  </programme>
-  <programme start="20261111020000 +0000" stop="20261111023000 +0000" channel="turksatkablo-246">
-    <title lang="tr">EuroLeague Analiz</title>
+  <programme start="20261111004500 +0000" stop="20261111023000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Kadın Futbol Süper Ligi</title>
   </programme>
   <programme start="20261111023000 +0000" stop="20261111033000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: EuroLeague Kadınlar</title>
+    <title lang="tr">Haftanın Karması</title>
   </programme>
-  <programme start="20261111033000 +0000" stop="20261111050000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+  <programme start="20261111033000 +0000" stop="20261111043000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Tarih Ve Fenerbahçe</title>
   </programme>
-  <programme start="20261111050000 +0000" stop="20261111063000 +0000" channel="turksatkablo-246">
-    <title lang="tr">Türkiye Sigorta Basketbol Süper Ligi</title>
+  <programme start="20261111043000 +0000" stop="20261111063000 +0000" channel="turksatkablo-246">
+    <title lang="tr">Euroleague Panorama</title>
   </programme>
   <programme start="20261111063000 +0000" stop="20261111064500 +0000" channel="turksatkablo-246">
     <title lang="tr">Tarihte Bugün</title>
@@ -34635,11 +34686,11 @@
   <programme start="20261111022500 +0000" stop="20261111025000 +0000" channel="turksatkablo-444">
     <title lang="tr">Kare</title>
   </programme>
-  <programme start="20261111025000 +0000" stop="20261111030500 +0000" channel="turksatkablo-444">
+  <programme start="20261111025000 +0000" stop="20261111032700 +0000" channel="turksatkablo-444">
     <title lang="tr">Kaptan Pengu Ve Arkadaşları</title>
   </programme>
-  <programme start="20261111030500 +0000" stop="20261111033000 +0000" channel="turksatkablo-444">
-    <title lang="tr">İbi</title>
+  <programme start="20261111032700 +0000" stop="20261111033000 +0000" channel="turksatkablo-444">
+    <title lang="tr">İstiklal Marşı</title>
   </programme>
   <programme start="20261111033000 +0000" stop="20261111035500 +0000" channel="turksatkablo-444">
     <title lang="tr">Eymen İle Çimen</title>
@@ -34714,7 +34765,7 @@
     <title lang="tr">Belle Ve Sebastian</title>
   </programme>
   <programme start="20261111105500 +0000" stop="20261111111000 +0000" channel="turksatkablo-444">
-    <title lang="tr">Dijital Tayfa</title>
+    <title lang="tr">Trafik Tayfa</title>
   </programme>
   <programme start="20261111111000 +0000" stop="20261111113500 +0000" channel="turksatkablo-444">
     <title lang="tr">Nils ve Uçan Kaz</title>
@@ -35142,191 +35193,197 @@
   <programme start="20261111022000 +0000" stop="20261111025000 +0000" channel="turksatkablo-447">
     <title lang="tr">7 Kıtadan İyilik Habercileri</title>
   </programme>
-  <programme start="20261111025000 +0000" stop="20261111040000 +0000" channel="turksatkablo-447">
+  <programme start="20261111025000 +0000" stop="20261111032700 +0000" channel="turksatkablo-447">
     <title lang="tr">Cümbür Cemaat (Kamptayız)</title>
+  </programme>
+  <programme start="20261111032700 +0000" stop="20261111033000 +0000" channel="turksatkablo-447">
+    <title lang="tr">İstiklal Marşı Çocuk</title>
+  </programme>
+  <programme start="20261111033000 +0000" stop="20261111034500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Meraklı Hafiye</title>
+  </programme>
+  <programme start="20261111034500 +0000" stop="20261111040000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Dikkat Balonu</title>
   </programme>
   <programme start="20261111040000 +0000" stop="20261111041500 +0000" channel="turksatkablo-447">
     <title lang="tr">Kara İle Keçe</title>
   </programme>
-  <programme start="20261111041500 +0000" stop="20261111043000 +0000" channel="turksatkablo-447">
+  <programme start="20261111041500 +0000" stop="20261111044000 +0000" channel="turksatkablo-447">
     <title lang="tr">Heybeli Tiyatro</title>
   </programme>
-  <programme start="20261111043000 +0000" stop="20261111045000 +0000" channel="turksatkablo-447">
+  <programme start="20261111044000 +0000" stop="20261111050000 +0000" channel="turksatkablo-447">
     <title lang="tr">Sevimli Sabahlar</title>
   </programme>
-  <programme start="20261111045000 +0000" stop="20261111050500 +0000" channel="turksatkablo-447">
+  <programme start="20261111050000 +0000" stop="20261111051500 +0000" channel="turksatkablo-447">
     <title lang="tr">Yumurcalı</title>
   </programme>
-  <programme start="20261111050500 +0000" stop="20261111053000 +0000" channel="turksatkablo-447">
+  <programme start="20261111051500 +0000" stop="20261111054000 +0000" channel="turksatkablo-447">
     <title lang="tr">Mercanya</title>
   </programme>
-  <programme start="20261111053000 +0000" stop="20261111055000 +0000" channel="turksatkablo-447">
+  <programme start="20261111054000 +0000" stop="20261111060000 +0000" channel="turksatkablo-447">
     <title lang="tr">Şeker Hoca</title>
   </programme>
-  <programme start="20261111055000 +0000" stop="20261111060000 +0000" channel="turksatkablo-447">
+  <programme start="20261111060000 +0000" stop="20261111061000 +0000" channel="turksatkablo-447">
     <title lang="tr">Temel'den Öğreniyorum</title>
   </programme>
-  <programme start="20261111060000 +0000" stop="20261111061500 +0000" channel="turksatkablo-447">
+  <programme start="20261111061000 +0000" stop="20261111062500 +0000" channel="turksatkablo-447">
     <title lang="tr">Fülfül Hac Yolunda</title>
   </programme>
-  <programme start="20261111061500 +0000" stop="20261111063000 +0000" channel="turksatkablo-447">
+  <programme start="20261111062500 +0000" stop="20261111064000 +0000" channel="turksatkablo-447">
     <title lang="tr">Küçük Hafız Emin</title>
   </programme>
-  <programme start="20261111063000 +0000" stop="20261111063500 +0000" channel="turksatkablo-447">
+  <programme start="20261111064000 +0000" stop="20261111064500 +0000" channel="turksatkablo-447">
     <title lang="tr">Ayrı Telden</title>
   </programme>
-  <programme start="20261111063500 +0000" stop="20261111070000 +0000" channel="turksatkablo-447">
+  <programme start="20261111064500 +0000" stop="20261111071000 +0000" channel="turksatkablo-447">
     <title lang="tr">Aylabera</title>
   </programme>
-  <programme start="20261111070000 +0000" stop="20261111071500 +0000" channel="turksatkablo-447">
+  <programme start="20261111071000 +0000" stop="20261111072500 +0000" channel="turksatkablo-447">
     <title lang="tr">Mimikolar</title>
   </programme>
-  <programme start="20261111071500 +0000" stop="20261111074000 +0000" channel="turksatkablo-447">
+  <programme start="20261111072500 +0000" stop="20261111075000 +0000" channel="turksatkablo-447">
     <title lang="tr">Gezgin Çelebi</title>
-  </programme>
-  <programme start="20261111074000 +0000" stop="20261111075000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Zekice İşler</title>
   </programme>
   <programme start="20261111075000 +0000" stop="20261111080000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Duyarlı Tilki</title>
-  </programme>
-  <programme start="20261111080000 +0000" stop="20261111082000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Miş Mış</title>
-  </programme>
-  <programme start="20261111082000 +0000" stop="20261111083500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Bilgili Naci</title>
-  </programme>
-  <programme start="20261111083500 +0000" stop="20261111085500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Benim Adım Mucize</title>
-  </programme>
-  <programme start="20261111085500 +0000" stop="20261111090500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Gugular</title>
-  </programme>
-  <programme start="20261111090500 +0000" stop="20261111092000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Geri Dön Çufi</title>
-  </programme>
-  <programme start="20261111092000 +0000" stop="20261111094000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Galip Mülayim</title>
-  </programme>
-  <programme start="20261111094000 +0000" stop="20261111095500 +0000" channel="turksatkablo-447">
-    <title lang="tr">7 Kıtadan İyilik Habercileri</title>
-  </programme>
-  <programme start="20261111095500 +0000" stop="20261111101000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Yıldızlar Gibi</title>
-  </programme>
-  <programme start="20261111101000 +0000" stop="20261111103500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Cümbür Cemaat (Kamptayız)</title>
-  </programme>
-  <programme start="20261111103500 +0000" stop="20261111105000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Oyun Dolu</title>
-  </programme>
-  <programme start="20261111105000 +0000" stop="20261111112000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Hay Hak</title>
-  </programme>
-  <programme start="20261111112000 +0000" stop="20261111113000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Düş Fırçası</title>
-  </programme>
-  <programme start="20261111113000 +0000" stop="20261111115500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Şef Lina</title>
-  </programme>
-  <programme start="20261111115500 +0000" stop="20261111121000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Meraklı Hafiye</title>
-  </programme>
-  <programme start="20261111121000 +0000" stop="20261111122500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Dikkat Balonu</title>
-  </programme>
-  <programme start="20261111122500 +0000" stop="20261111124000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Kara İle Keçe</title>
-  </programme>
-  <programme start="20261111124000 +0000" stop="20261111125500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Heybeli Tiyatro</title>
-  </programme>
-  <programme start="20261111125500 +0000" stop="20261111131500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Sevimli Sabahlar</title>
-  </programme>
-  <programme start="20261111131500 +0000" stop="20261111133000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Yumurcalı</title>
-  </programme>
-  <programme start="20261111133000 +0000" stop="20261111135500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Mercanya</title>
-  </programme>
-  <programme start="20261111135500 +0000" stop="20261111141500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Şeker Hoca</title>
-  </programme>
-  <programme start="20261111141500 +0000" stop="20261111142500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Temel'den Öğreniyorum</title>
-  </programme>
-  <programme start="20261111142500 +0000" stop="20261111144000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Fülfül Hac Yolunda</title>
-  </programme>
-  <programme start="20261111144000 +0000" stop="20261111145500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Küçük Hafız Emin</title>
-  </programme>
-  <programme start="20261111145500 +0000" stop="20261111150000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Ayrı Telden</title>
-  </programme>
-  <programme start="20261111150000 +0000" stop="20261111152500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Aylabera</title>
-  </programme>
-  <programme start="20261111152500 +0000" stop="20261111154000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Mimikolar</title>
-  </programme>
-  <programme start="20261111154000 +0000" stop="20261111160500 +0000" channel="turksatkablo-447">
-    <title lang="tr">Gezgin Çelebi</title>
-  </programme>
-  <programme start="20261111160500 +0000" stop="20261111161500 +0000" channel="turksatkablo-447">
     <title lang="tr">Zekice İşler</title>
   </programme>
-  <programme start="20261111161500 +0000" stop="20261111162500 +0000" channel="turksatkablo-447">
+  <programme start="20261111080000 +0000" stop="20261111081000 +0000" channel="turksatkablo-447">
     <title lang="tr">Duyarlı Tilki</title>
   </programme>
-  <programme start="20261111162500 +0000" stop="20261111164500 +0000" channel="turksatkablo-447">
+  <programme start="20261111081000 +0000" stop="20261111083000 +0000" channel="turksatkablo-447">
     <title lang="tr">Miş Mış</title>
   </programme>
-  <programme start="20261111164500 +0000" stop="20261111165500 +0000" channel="turksatkablo-447">
+  <programme start="20261111083000 +0000" stop="20261111084500 +0000" channel="turksatkablo-447">
     <title lang="tr">Bilgili Naci</title>
   </programme>
-  <programme start="20261111165500 +0000" stop="20261111171500 +0000" channel="turksatkablo-447">
+  <programme start="20261111084500 +0000" stop="20261111090500 +0000" channel="turksatkablo-447">
     <title lang="tr">Benim Adım Mucize</title>
   </programme>
-  <programme start="20261111171500 +0000" stop="20261111172500 +0000" channel="turksatkablo-447">
+  <programme start="20261111090500 +0000" stop="20261111091500 +0000" channel="turksatkablo-447">
     <title lang="tr">Gugular</title>
   </programme>
-  <programme start="20261111172500 +0000" stop="20261111174000 +0000" channel="turksatkablo-447">
+  <programme start="20261111091500 +0000" stop="20261111093000 +0000" channel="turksatkablo-447">
     <title lang="tr">Geri Dön Çufi</title>
   </programme>
-  <programme start="20261111174000 +0000" stop="20261111180000 +0000" channel="turksatkablo-447">
+  <programme start="20261111093000 +0000" stop="20261111095000 +0000" channel="turksatkablo-447">
     <title lang="tr">Galip Mülayim</title>
   </programme>
-  <programme start="20261111180000 +0000" stop="20261111181500 +0000" channel="turksatkablo-447">
+  <programme start="20261111095000 +0000" stop="20261111100500 +0000" channel="turksatkablo-447">
     <title lang="tr">7 Kıtadan İyilik Habercileri</title>
   </programme>
-  <programme start="20261111181500 +0000" stop="20261111183000 +0000" channel="turksatkablo-447">
+  <programme start="20261111100500 +0000" stop="20261111102000 +0000" channel="turksatkablo-447">
     <title lang="tr">Yıldızlar Gibi</title>
   </programme>
-  <programme start="20261111183000 +0000" stop="20261111184000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Düş Fırçası</title>
-  </programme>
-  <programme start="20261111184000 +0000" stop="20261111190500 +0000" channel="turksatkablo-447">
+  <programme start="20261111102000 +0000" stop="20261111104500 +0000" channel="turksatkablo-447">
     <title lang="tr">Cümbür Cemaat (Kamptayız)</title>
   </programme>
-  <programme start="20261111190500 +0000" stop="20261111192000 +0000" channel="turksatkablo-447">
+  <programme start="20261111104500 +0000" stop="20261111110000 +0000" channel="turksatkablo-447">
     <title lang="tr">Oyun Dolu</title>
   </programme>
-  <programme start="20261111192000 +0000" stop="20261111195000 +0000" channel="turksatkablo-447">
+  <programme start="20261111110000 +0000" stop="20261111113000 +0000" channel="turksatkablo-447">
     <title lang="tr">Hay Hak</title>
   </programme>
-  <programme start="20261111195000 +0000" stop="20261111201500 +0000" channel="turksatkablo-447">
+  <programme start="20261111113000 +0000" stop="20261111114000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Düş Fırçası</title>
+  </programme>
+  <programme start="20261111114000 +0000" stop="20261111120500 +0000" channel="turksatkablo-447">
     <title lang="tr">Şef Lina</title>
   </programme>
-  <programme start="20261111201500 +0000" stop="20261111203000 +0000" channel="turksatkablo-447">
+  <programme start="20261111120500 +0000" stop="20261111122000 +0000" channel="turksatkablo-447">
     <title lang="tr">Meraklı Hafiye</title>
   </programme>
-  <programme start="20261111203000 +0000" stop="20261111204500 +0000" channel="turksatkablo-447">
+  <programme start="20261111122000 +0000" stop="20261111123500 +0000" channel="turksatkablo-447">
     <title lang="tr">Dikkat Balonu</title>
   </programme>
-  <programme start="20261111204500 +0000" stop="20261111210000 +0000" channel="turksatkablo-447">
+  <programme start="20261111123500 +0000" stop="20261111125000 +0000" channel="turksatkablo-447">
     <title lang="tr">Kara İle Keçe</title>
+  </programme>
+  <programme start="20261111125000 +0000" stop="20261111131500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Heybeli Tiyatro</title>
+  </programme>
+  <programme start="20261111131500 +0000" stop="20261111133500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Sevimli Sabahlar</title>
+  </programme>
+  <programme start="20261111133500 +0000" stop="20261111135000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Yumurcalı</title>
+  </programme>
+  <programme start="20261111135000 +0000" stop="20261111141500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Mercanya</title>
+  </programme>
+  <programme start="20261111141500 +0000" stop="20261111143500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Şeker Hoca</title>
+  </programme>
+  <programme start="20261111143500 +0000" stop="20261111144500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Temel'den Öğreniyorum</title>
+  </programme>
+  <programme start="20261111144500 +0000" stop="20261111150000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Fülfül Hac Yolunda</title>
+  </programme>
+  <programme start="20261111150000 +0000" stop="20261111151500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Küçük Hafız Emin</title>
+  </programme>
+  <programme start="20261111151500 +0000" stop="20261111152000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Ayrı Telden</title>
+  </programme>
+  <programme start="20261111152000 +0000" stop="20261111154500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Aylabera</title>
+  </programme>
+  <programme start="20261111154500 +0000" stop="20261111160000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Mimikolar</title>
+  </programme>
+  <programme start="20261111160000 +0000" stop="20261111162500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Gezgin Çelebi</title>
+  </programme>
+  <programme start="20261111162500 +0000" stop="20261111163500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Zekice İşler</title>
+  </programme>
+  <programme start="20261111163500 +0000" stop="20261111164500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Duyarlı Tilki</title>
+  </programme>
+  <programme start="20261111164500 +0000" stop="20261111170500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Miş Mış</title>
+  </programme>
+  <programme start="20261111170500 +0000" stop="20261111171500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Bilgili Naci</title>
+  </programme>
+  <programme start="20261111171500 +0000" stop="20261111173500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Benim Adım Mucize</title>
+  </programme>
+  <programme start="20261111173500 +0000" stop="20261111174500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Gugular</title>
+  </programme>
+  <programme start="20261111174500 +0000" stop="20261111180000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Geri Dön Çufi</title>
+  </programme>
+  <programme start="20261111180000 +0000" stop="20261111182000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Galip Mülayim</title>
+  </programme>
+  <programme start="20261111182000 +0000" stop="20261111183500 +0000" channel="turksatkablo-447">
+    <title lang="tr">7 Kıtadan İyilik Habercileri</title>
+  </programme>
+  <programme start="20261111183500 +0000" stop="20261111185000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Yıldızlar Gibi</title>
+  </programme>
+  <programme start="20261111185000 +0000" stop="20261111190500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Düş Fırçası</title>
+  </programme>
+  <programme start="20261111190500 +0000" stop="20261111193000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Cümbür Cemaat (Kamptayız)</title>
+  </programme>
+  <programme start="20261111193000 +0000" stop="20261111194500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Oyun Dolu</title>
+  </programme>
+  <programme start="20261111194500 +0000" stop="20261111201500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Hay Hak</title>
+  </programme>
+  <programme start="20261111201500 +0000" stop="20261111204000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Şef Lina</title>
+  </programme>
+  <programme start="20261111204000 +0000" stop="20261111205500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Meraklı Hafiye</title>
+  </programme>
+  <programme start="20261111205500 +0000" stop="20261111211000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Dikkat Balonu</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110213000 +0000" channel="turksatkablo-448">
     <title lang="tr">Slugterra</title>
@@ -42351,10 +42408,10 @@
   <programme start="20261110210000 +0000" stop="20261110211500 +0000" channel="turksatkablo-900">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261110211500 +0000" stop="20261111000500 +0000" channel="turksatkablo-900">
+  <programme start="20261110211500 +0000" stop="20261110235500 +0000" channel="turksatkablo-900">
     <title lang="tr">Taşacak Bu Deniz</title>
   </programme>
-  <programme start="20261111000500 +0000" stop="20261111024300 +0000" channel="turksatkablo-900">
+  <programme start="20261110235500 +0000" stop="20261111024300 +0000" channel="turksatkablo-900">
     <title lang="tr">Alparslan: Büyük Selçuklu</title>
   </programme>
   <programme start="20261111024300 +0000" stop="20261111024500 +0000" channel="turksatkablo-900">
@@ -42390,7 +42447,7 @@
   <programme start="20261111170000 +0000" stop="20261111193500 +0000" channel="turksatkablo-900">
     <title lang="tr">Pamuk Prenses ve Avcı</title>
   </programme>
-  <programme start="20261111193500 +0000" stop="20261111221500 +0000" channel="turksatkablo-900">
+  <programme start="20261111193500 +0000" stop="20261111220000 +0000" channel="turksatkablo-900">
     <title lang="tr">Genç Kadın ve Deniz</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110233000 +0000" channel="turksatkablo-901">
@@ -42420,13 +42477,13 @@
   <programme start="20261111170000 +0000" stop="20261111211500 +0000" channel="turksatkablo-901">
     <title lang="tr">Sevdan Bir Ateş</title>
   </programme>
-  <programme start="20261110210000 +0000" stop="20261110234000 +0000" channel="turksatkablo-902">
+  <programme start="20261110210000 +0000" stop="20261110230000 +0000" channel="turksatkablo-902">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261110234000 +0000" stop="20261111020000 +0000" channel="turksatkablo-902">
+  <programme start="20261110230000 +0000" stop="20261111014500 +0000" channel="turksatkablo-902">
     <title lang="tr">Bir Gece Masalı</title>
   </programme>
-  <programme start="20261111020000 +0000" stop="20261111050000 +0000" channel="turksatkablo-902">
+  <programme start="20261111014500 +0000" stop="20261111050000 +0000" channel="turksatkablo-902">
     <title lang="tr">Hercai</title>
   </programme>
   <programme start="20261111050000 +0000" stop="20261111070000 +0000" channel="turksatkablo-902">
@@ -42447,10 +42504,10 @@
   <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="turksatkablo-902">
     <title lang="tr">ATV Ana Haber Bülteni</title>
   </programme>
-  <programme start="20261111170000 +0000" stop="20261111204000 +0000" channel="turksatkablo-902">
+  <programme start="20261111170000 +0000" stop="20261111202000 +0000" channel="turksatkablo-902">
     <title lang="tr">Var Mısın Yok Musun</title>
   </programme>
-  <programme start="20261111204000 +0000" stop="20261111234000 +0000" channel="turksatkablo-902">
+  <programme start="20261111202000 +0000" stop="20261111231500 +0000" channel="turksatkablo-902">
     <title lang="tr">Güneşin Doğduğu Yer</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110211500 +0000" channel="turksatkablo-905">
@@ -42567,16 +42624,22 @@
   <programme start="20261110210000 +0000" stop="20261110233000 +0000" channel="turksatkablo-909">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261110233000 +0000" stop="20261111014500 +0000" channel="turksatkablo-909">
+  <programme start="20261110233000 +0000" stop="20261111003000 +0000" channel="turksatkablo-909">
     <title lang="tr">Ali İhsan Varol İle Kumbara</title>
   </programme>
-  <programme start="20261111014500 +0000" stop="20261111030000 +0000" channel="turksatkablo-909">
+  <programme start="20261111003000 +0000" stop="20261111013000 +0000" channel="turksatkablo-909">
+    <title lang="tr">Şevkat Yerimdar</title>
+  </programme>
+  <programme start="20261111013000 +0000" stop="20261111030000 +0000" channel="turksatkablo-909">
     <title lang="tr">Yasak Elma</title>
   </programme>
   <programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="turksatkablo-909">
     <title lang="tr">Karagül</title>
   </programme>
-  <programme start="20261111033000 +0000" stop="20261111041500 +0000" channel="turksatkablo-909">
+  <programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="turksatkablo-909">
+    <title lang="tr">Ali İhsan Varol İle Kumbara</title>
+  </programme>
+  <programme start="20261111040000 +0000" stop="20261111041500 +0000" channel="turksatkablo-909">
     <title lang="tr">Ali İhsan Varol İle Kumbara</title>
   </programme>
   <programme start="20261111041500 +0000" stop="20261111050000 +0000" channel="turksatkablo-909">
@@ -42663,47 +42726,59 @@
   <programme start="20261111024500 +0000" stop="20261111030000 +0000" channel="turksatkablo-911">
     <title lang="tr">UEFA Şampiyonlar Ligi Goller</title>
   </programme>
-  <programme start="20261111030000 +0000" stop="20261111040000 +0000" channel="turksatkablo-911">
+  <programme start="20261111030000 +0000" stop="20261111043000 +0000" channel="turksatkablo-911">
     <title lang="tr">Futbol: UEFA Avrupa Ligi Özet</title>
   </programme>
-  <programme start="20261111040000 +0000" stop="20261111055500 +0000" channel="turksatkablo-911">
+  <programme start="20261111043000 +0000" stop="20261111050000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Hollanda Eredivisie Özetler</title>
+  </programme>
+  <programme start="20261111050000 +0000" stop="20261111070000 +0000" channel="turksatkablo-911">
     <title lang="tr">İlk Baskı</title>
   </programme>
-  <programme start="20261111055500 +0000" stop="20261111060000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Spor Takvimi</title>
-  </programme>
-  <programme start="20261111060000 +0000" stop="20261111070000 +0000" channel="turksatkablo-911">
+  <programme start="20261111070000 +0000" stop="20261111071500 +0000" channel="turksatkablo-911">
     <title lang="tr">İşitme Engelliler Spor Bülteni</title>
   </programme>
-  <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="turksatkablo-911">
+  <programme start="20261111071500 +0000" stop="20261111073000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Trendyol Süper Lig Goller</title>
+  </programme>
+  <programme start="20261111073000 +0000" stop="20261111080000 +0000" channel="turksatkablo-911">
     <title lang="tr">Spor Bülteni</title>
   </programme>
-  <programme start="20261111080000 +0000" stop="20261111100000 +0000" channel="turksatkablo-911">
+  <programme start="20261111080000 +0000" stop="20261111093000 +0000" channel="turksatkablo-911">
     <title lang="tr">Spor Manşet</title>
   </programme>
-  <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Muhabir Saati</title>
+  <programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Trendyol Süper Lig Özetler</title>
   </programme>
-  <programme start="20261111110000 +0000" stop="20261111130000 +0000" channel="turksatkablo-911">
+  <programme start="20261111100000 +0000" stop="20261111120000 +0000" channel="turksatkablo-911">
     <title lang="tr">Spor Stüdyosu</title>
+  </programme>
+  <programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Spor Merkezi</title>
+  </programme>
+  <programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Bundesliga Özetler</title>
   </programme>
   <programme start="20261111130000 +0000" stop="20261111143000 +0000" channel="turksatkablo-911">
     <title lang="tr">Gündem Futbol</title>
   </programme>
-  <programme start="20261111143000 +0000" stop="20261111145000 +0000" channel="turksatkablo-911">
+  <programme start="20261111143000 +0000" stop="20261111150000 +0000" channel="turksatkablo-911">
     <title lang="tr">Dünyadan Spor</title>
   </programme>
-  <programme start="20261111145000 +0000" stop="20261111150000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Bizim Ligler</title>
+  <programme start="20261111150000 +0000" stop="20261111163000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Ezgi Sütçü İle Ana Haber</title>
   </programme>
-  <programme start="20261111150000 +0000" stop="20261111190000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Aktüel Futbol</title>
+  <programme start="20261111163000 +0000" stop="20261111170000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Italya Serie A Özetler</title>
+  </programme>
+  <programme start="20261111170000 +0000" stop="20261111190000 +0000" channel="turksatkablo-911">
+    <title lang="tr">UEFA Kadınlar Avrupa Kupası</title>
   </programme>
   <programme start="20261111190000 +0000" stop="20261111203000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Stadyum</title>
+    <title lang="tr">Futbol Aklı</title>
   </programme>
   <programme start="20261111203000 +0000" stop="20261111220000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Teknik Analiz</title>
+    <title lang="tr">Aktüel Futbol</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110230000 +0000" channel="turksatkablo-912">
     <title lang="tr">-</title>
@@ -42882,11 +42957,11 @@
   <programme start="20261111022500 +0000" stop="20261111025000 +0000" channel="turksatkablo-914">
     <title lang="tr">Kare</title>
   </programme>
-  <programme start="20261111025000 +0000" stop="20261111030500 +0000" channel="turksatkablo-914">
+  <programme start="20261111025000 +0000" stop="20261111032700 +0000" channel="turksatkablo-914">
     <title lang="tr">Kaptan Pengu Ve Arkadaşları</title>
   </programme>
-  <programme start="20261111030500 +0000" stop="20261111033000 +0000" channel="turksatkablo-914">
-    <title lang="tr">İbi</title>
+  <programme start="20261111032700 +0000" stop="20261111033000 +0000" channel="turksatkablo-914">
+    <title lang="tr">İstiklal Marşı</title>
   </programme>
   <programme start="20261111033000 +0000" stop="20261111035500 +0000" channel="turksatkablo-914">
     <title lang="tr">Eymen İle Çimen</title>
@@ -42961,7 +43036,7 @@
     <title lang="tr">Belle Ve Sebastian</title>
   </programme>
   <programme start="20261111105500 +0000" stop="20261111111000 +0000" channel="turksatkablo-914">
-    <title lang="tr">Dijital Tayfa</title>
+    <title lang="tr">Trafik Tayfa</title>
   </programme>
   <programme start="20261111111000 +0000" stop="20261111113500 +0000" channel="turksatkablo-914">
     <title lang="tr">Nils ve Uçan Kaz</title>
@@ -44580,13 +44655,13 @@
   <programme start="20261112201500 +0000" stop="20261112221500 +0000" channel="turksatkablo-13">
     <title lang="tr">Şeytan Marka Giyer</title>
   </programme>
-  <programme start="20261111210000 +0000" stop="20261111221500 +0000" channel="turksatkablo-22">
+  <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="turksatkablo-22">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261111221500 +0000" stop="20261112002000 +0000" channel="turksatkablo-22">
+  <programme start="20261111220000 +0000" stop="20261112002500 +0000" channel="turksatkablo-22">
     <title lang="tr">Mehmed: Fetihler Sultanı</title>
   </programme>
-  <programme start="20261112002000 +0000" stop="20261112024300 +0000" channel="turksatkablo-22">
+  <programme start="20261112002500 +0000" stop="20261112024300 +0000" channel="turksatkablo-22">
     <title lang="tr">Alparslan: Büyük Selçuklu</title>
   </programme>
   <programme start="20261112024300 +0000" stop="20261112024500 +0000" channel="turksatkablo-22">
@@ -44625,10 +44700,10 @@
   <programme start="20261112204000 +0000" stop="20261112224000 +0000" channel="turksatkablo-22">
     <title lang="tr">Tehlikeli Miras</title>
   </programme>
-  <programme start="20261111210000 +0000" stop="20261111234000 +0000" channel="turksatkablo-23">
+  <programme start="20261111210000 +0000" stop="20261111231500 +0000" channel="turksatkablo-23">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261111234000 +0000" stop="20261112020000 +0000" channel="turksatkablo-23">
+  <programme start="20261111231500 +0000" stop="20261112020000 +0000" channel="turksatkablo-23">
     <title lang="tr">Var Mısın Yok Musun</title>
   </programme>
   <programme start="20261112020000 +0000" stop="20261112050000 +0000" channel="turksatkablo-23">
@@ -44701,15 +44776,15 @@
     <title lang="tr">Üç Kız Kardeş</title>
   </programme>
   <programme start="20261112040000 +0000" stop="20261112060000 +0000" channel="turksatkablo-25">
-    <title lang="tr">Öyle Bir Geçer Zaman Ki</title>
+    <title lang="tr">Küçük Ağa</title>
   </programme>
   <programme start="20261112060000 +0000" stop="20261112080000 +0000" channel="turksatkablo-25">
     <title lang="tr">Neler Oluyor Hayatta?</title>
   </programme>
-  <programme start="20261112080000 +0000" stop="20261112110000 +0000" channel="turksatkablo-25">
+  <programme start="20261112080000 +0000" stop="20261112104500 +0000" channel="turksatkablo-25">
     <title lang="tr">Yaprak Dökümü</title>
   </programme>
-  <programme start="20261112110000 +0000" stop="20261112134500 +0000" channel="turksatkablo-25">
+  <programme start="20261112104500 +0000" stop="20261112134500 +0000" channel="turksatkablo-25">
     <title lang="tr">Gelinim Mutfakta</title>
   </programme>
   <programme start="20261112134500 +0000" stop="20261112160000 +0000" channel="turksatkablo-25">
@@ -44719,10 +44794,10 @@
     <title lang="tr">Kanal D Ana Haber</title>
   </programme>
   <programme start="20261112170000 +0000" stop="20261112201500 +0000" channel="turksatkablo-25">
-    <title lang="tr">Uzak Şehir</title>
+    <title lang="tr">Güller Ve Günahlar</title>
   </programme>
-  <programme start="20261112201500 +0000" stop="20261112230000 +0000" channel="turksatkablo-25">
-    <title lang="tr">Eşref Rüya</title>
+  <programme start="20261112201500 +0000" stop="20261112224500 +0000" channel="turksatkablo-25">
+    <title lang="tr">Uzak Şehir</title>
   </programme>
   <programme start="20261111210000 +0000" stop="20261111213000 +0000" channel="turksatkablo-26">
     <title lang="tr">-</title>
@@ -44802,8 +44877,11 @@
   <programme start="20261111210000 +0000" stop="20261111234500 +0000" channel="turksatkablo-28">
     <title lang="tr">Halef</title>
   </programme>
-  <programme start="20261111234500 +0000" stop="20261112014500 +0000" channel="turksatkablo-28">
+  <programme start="20261111234500 +0000" stop="20261112004500 +0000" channel="turksatkablo-28">
     <title lang="tr">Ali İhsan Varol İle Kumbara</title>
+  </programme>
+  <programme start="20261112004500 +0000" stop="20261112014500 +0000" channel="turksatkablo-28">
+    <title lang="tr">Şevkat Yerimdar</title>
   </programme>
   <programme start="20261112014500 +0000" stop="20261112030000 +0000" channel="turksatkablo-28">
     <title lang="tr">Yasak Elma</title>
@@ -44811,7 +44889,10 @@
   <programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="turksatkablo-28">
     <title lang="tr">Karagül</title>
   </programme>
-  <programme start="20261112033000 +0000" stop="20261112041500 +0000" channel="turksatkablo-28">
+  <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="turksatkablo-28">
+    <title lang="tr">Ali İhsan Varol İle Kumbara</title>
+  </programme>
+  <programme start="20261112040000 +0000" stop="20261112041500 +0000" channel="turksatkablo-28">
     <title lang="tr">Ali İhsan Varol İle Kumbara</title>
   </programme>
   <programme start="20261112041500 +0000" stop="20261112050000 +0000" channel="turksatkablo-28">
@@ -47622,20 +47703,8 @@
   <programme start="20261112034000 +0000" stop="20261112035500 +0000" channel="turksatkablo-54">
     <title lang="tr">Yayınıma Hoş Geldiniz</title>
   </programme>
-  <programme start="20261112035500 +0000" stop="20261112040000 +0000" channel="turksatkablo-54">
+  <programme start="20261112035500 +0000" stop="20261112050000 +0000" channel="turksatkablo-54">
     <title lang="tr">Doğada 1 Dakika</title>
-  </programme>
-  <programme start="20261112040000 +0000" stop="20261112040300 +0000" channel="turksatkablo-54">
-    <title lang="tr">İstiklal Marşı</title>
-  </programme>
-  <programme start="20261112040300 +0000" stop="20261112043000 +0000" channel="turksatkablo-54">
-    <title lang="tr">Sanat Ninjası "Art Ninja"</title>
-  </programme>
-  <programme start="20261112043000 +0000" stop="20261112044500 +0000" channel="turksatkablo-54">
-    <title lang="tr">Hayaller Oteli</title>
-  </programme>
-  <programme start="20261112044500 +0000" stop="20261112050000 +0000" channel="turksatkablo-54">
-    <title lang="tr">Bilim Avcıları</title>
   </programme>
   <programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="turksatkablo-54">
     <title lang="tr">Olay Yeri İnsan Vücudu</title>
@@ -48558,14 +48627,17 @@
   <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="turksatkablo-64">
     <title lang="tr">Günün Ardından</title>
   </programme>
-  <programme start="20261111220000 +0000" stop="20261111233000 +0000" channel="turksatkablo-64">
-    <title lang="tr">Gündem Özel</title>
+  <programme start="20261111220000 +0000" stop="20261111234000 +0000" channel="turksatkablo-64">
+    <title lang="tr">Siyaseten</title>
   </programme>
-  <programme start="20261111233000 +0000" stop="20261112003000 +0000" channel="turksatkablo-64">
+  <programme start="20261111234000 +0000" stop="20261112000000 +0000" channel="turksatkablo-64">
     <title lang="tr">Belgesel Kuşağı</title>
   </programme>
-  <programme start="20261112003000 +0000" stop="20261112020000 +0000" channel="turksatkablo-64">
+  <programme start="20261112000000 +0000" stop="20261112013000 +0000" channel="turksatkablo-64">
     <title lang="tr">Serdar Tuncer'le Başka Şeyler</title>
+  </programme>
+  <programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="turksatkablo-64">
+    <title lang="tr">Belgesel Kuşağı</title>
   </programme>
   <programme start="20261112020000 +0000" stop="20261112040000 +0000" channel="turksatkablo-64">
     <title lang="tr">Kur'an'ın İzinde</title>
@@ -48820,7 +48892,7 @@
     <title lang="tr">En Güzel</title>
   </programme>
   <programme start="20261112041000 +0000" stop="20261112043500 +0000" channel="turksatkablo-67">
-    <title lang="tr">Fransa'da Türk Camileri</title>
+    <title lang="tr">Avusturya ve İsviçre'de Türk Camileri</title>
   </programme>
   <programme start="20261112043500 +0000" stop="20261112044500 +0000" channel="turksatkablo-67">
     <title lang="tr">Yeni Hayatım Hakkında</title>
@@ -48921,11 +48993,8 @@
   <programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="turksatkablo-68">
     <title lang="tr">Özbekler Tekkesi</title>
   </programme>
-  <programme start="20261112023000 +0000" stop="20261112025800 +0000" channel="turksatkablo-68">
+  <programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="turksatkablo-68">
     <title lang="tr">Gökyüzü Bilgeliği</title>
-  </programme>
-  <programme start="20261112025800 +0000" stop="20261112030000 +0000" channel="turksatkablo-68">
-    <title lang="tr">İstiklal Marşı</title>
   </programme>
   <programme start="20261112030000 +0000" stop="20261112030500 +0000" channel="turksatkablo-68">
     <title lang="tr">Kazakistan Haber</title>
@@ -49005,11 +49074,8 @@
   <programme start="20261112095900 +0000" stop="20261112100000 +0000" channel="turksatkablo-68">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="turksatkablo-68">
-    <title lang="tr">Ortak Alfabe</title>
-  </programme>
-  <programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="turksatkablo-68">
-    <title lang="tr">Bir Adım Bin Avaz</title>
+  <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="turksatkablo-68">
+    <title lang="tr">Karabağ</title>
   </programme>
   <programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="turksatkablo-68">
     <title lang="tr">Mirasın Rengi</title>
@@ -54948,50 +55014,74 @@
   <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="turksatkablo-222">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261111220000 +0000" stop="20261112023000 +0000" channel="turksatkablo-222">
+  <programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="turksatkablo-222">
     <title lang="tr">Spor Artı</title>
   </programme>
-  <programme start="20261112023000 +0000" stop="20261112040000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Stadyum</title>
+  <programme start="20261111230000 +0000" stop="20261112010000 +0000" channel="turksatkablo-222">
+    <title lang="tr">UEFA Şampiyonlar Ligi Özetler</title>
   </programme>
-  <programme start="20261112040000 +0000" stop="20261112055500 +0000" channel="turksatkablo-222">
+  <programme start="20261112010000 +0000" stop="20261112023000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Futbol Aklı</title>
+  </programme>
+  <programme start="20261112023000 +0000" stop="20261112040000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Aktüel Futbol</title>
+  </programme>
+  <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Bundesliga Özetler</title>
+  </programme>
+  <programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Trendyol 1. Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20261112050000 +0000" stop="20261112070000 +0000" channel="turksatkablo-222">
     <title lang="tr">İlk Baskı</title>
   </programme>
-  <programme start="20261112055500 +0000" stop="20261112060000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Spor Takvimi</title>
-  </programme>
-  <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="turksatkablo-222">
+  <programme start="20261112070000 +0000" stop="20261112071500 +0000" channel="turksatkablo-222">
     <title lang="tr">İşitme Engelliler Spor Bülteni</title>
   </programme>
-  <programme start="20261112070000 +0000" stop="20261112080000 +0000" channel="turksatkablo-222">
+  <programme start="20261112071500 +0000" stop="20261112073000 +0000" channel="turksatkablo-222">
+    <title lang="tr">UEFA Avrupa Konferans Ligi</title>
+  </programme>
+  <programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="turksatkablo-222">
     <title lang="tr">Spor Bülteni</title>
   </programme>
-  <programme start="20261112080000 +0000" stop="20261112100000 +0000" channel="turksatkablo-222">
+  <programme start="20261112080000 +0000" stop="20261112093000 +0000" channel="turksatkablo-222">
     <title lang="tr">Spor Manşet</title>
   </programme>
-  <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Muhabir Saati</title>
+  <programme start="20261112093000 +0000" stop="20261112102000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Gün Ortası</title>
   </programme>
-  <programme start="20261112110000 +0000" stop="20261112130000 +0000" channel="turksatkablo-222">
+  <programme start="20261112102000 +0000" stop="20261112110000 +0000" channel="turksatkablo-222">
+    <title lang="tr">UEFA Avrupa Ligi Maç Özeti</title>
+  </programme>
+  <programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="turksatkablo-222">
     <title lang="tr">Spor Stüdyosu</title>
+  </programme>
+  <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Spor Merkezi</title>
+  </programme>
+  <programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Futbol: İspanya La Liga Özetler</title>
   </programme>
   <programme start="20261112130000 +0000" stop="20261112143000 +0000" channel="turksatkablo-222">
     <title lang="tr">Gündem Futbol</title>
   </programme>
-  <programme start="20261112143000 +0000" stop="20261112145000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Dünyadan Spor</title>
+  <programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Spor Dijital</title>
   </programme>
-  <programme start="20261112145000 +0000" stop="20261112150000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Bizim Ligler</title>
+  <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Ezgi Sütçü İle Ana Haber</title>
   </programme>
-  <programme start="20261112150000 +0000" stop="20261112190000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Aktüel Futbol</title>
-  </programme>
-  <programme start="20261112190000 +0000" stop="20261112203000 +0000" channel="turksatkablo-222">
+  <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="turksatkablo-222">
     <title lang="tr">Stadyum</title>
   </programme>
-  <programme start="20261112203000 +0000" stop="20261112220000 +0000" channel="turksatkablo-222">
-    <title lang="tr">Teknik Analiz</title>
+  <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Spor Akşamı</title>
+  </programme>
+  <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="turksatkablo-222">
+    <title lang="tr">UEFA Şampiyonlar Ligi Özetler</title>
+  </programme>
+  <programme start="20261112190000 +0000" stop="20261112210000 +0000" channel="turksatkablo-222">
+    <title lang="tr">Stadyum</title>
   </programme>
   <programme start="20261111210000 +0000" stop="20261112040000 +0000" channel="turksatkablo-223">
     <title lang="tr">-</title>
@@ -55194,47 +55284,47 @@
   <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="turksatkablo-225">
     <title lang="tr">Binicilik Dünya Kupası: Washington</title>
   </programme>
-  <programme start="20261111210000 +0000" stop="20261111230000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Tırmanış Dünya Serisi</title>
+  <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Olimpiyat Oyunları</title>
   </programme>
-  <programme start="20261111230000 +0000" stop="20261112010000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Snooker: Galler Açık</title>
+  <programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Alp Disiplini: Dünya Kupası</title>
   </programme>
-  <programme start="20261112010000 +0000" stop="20261112023000 +0000" channel="turksatkablo-226">
-    <title lang="tr">İsviçre Bisiklet Turu</title>
+  <programme start="20261111230000 +0000" stop="20261112003000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Snooker: İngiliz Açık</title>
   </programme>
-  <programme start="20261112023000 +0000" stop="20261112043000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Snooker: Galler Açık</title>
+  <programme start="20261112003000 +0000" stop="20261112030000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Dayanıklılık Araba Yarışı: Le Mans 24 Saat Yarışları</title>
   </programme>
-  <programme start="20261112043000 +0000" stop="20261112053000 +0000" channel="turksatkablo-226">
-    <title lang="tr">İsviçre Bisiklet Turu Kadınlar</title>
+  <programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Bisiklet: Flandre Turu</title>
   </programme>
-  <programme start="20261112053000 +0000" stop="20261112063000 +0000" channel="turksatkablo-226">
-    <title lang="tr">İsviçre Bisiklet Turu</title>
+  <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Olimpiyat Oyunları</title>
   </programme>
-  <programme start="20261112063000 +0000" stop="20261112073000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Slovenya Bisiklet Turu</title>
+  <programme start="20261112050000 +0000" stop="20261112073000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Snooker: İngiliz Açık</title>
   </programme>
-  <programme start="20261112073000 +0000" stop="20261112090000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Snooker: Galler Açık</title>
+  <programme start="20261112073000 +0000" stop="20261112100000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Dayanıklılık Araba Yarışı: Le Mans 24 Saat Yarışları</title>
   </programme>
-  <programme start="20261112090000 +0000" stop="20261112110000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Tırmanış Dünya Serisi</title>
+  <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Bisiklet: Flandre Turu</title>
   </programme>
-  <programme start="20261112110000 +0000" stop="20261112140000 +0000" channel="turksatkablo-226">
-    <title lang="tr">FIM Dünya Dayanıklılık Şampiyonası: Spa 8 Saat Motosiklet</title>
+  <programme start="20261112110000 +0000" stop="20261112133000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Snooker: İngiliz Açık</title>
   </programme>
-  <programme start="20261112140000 +0000" stop="20261112153000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Tırmanış Dünya Serisi</title>
+  <programme start="20261112133000 +0000" stop="20261112153000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Dayanıklılık Araba Yarışı: Le Mans 24 Saat Yarışları</title>
   </programme>
-  <programme start="20261112153000 +0000" stop="20261112173000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Eskrim Avrupa Şampiyonası</title>
+  <programme start="20261112153000 +0000" stop="20261112163000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Alp Disiplini: Dünya Kupası</title>
   </programme>
-  <programme start="20261112173000 +0000" stop="20261112200000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Eskrim Avrupa Şampiyonası</title>
+  <programme start="20261112163000 +0000" stop="20261112173000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Alp Disiplini: Dünya Kupası</title>
   </programme>
-  <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="turksatkablo-226">
-    <title lang="tr">Snooker: Dünya Açık</title>
+  <programme start="20261112173000 +0000" stop="20261112220000 +0000" channel="turksatkablo-226">
+    <title lang="tr">Snooker: İngiliz Açık</title>
   </programme>
   <programme start="20261111210000 +0000" stop="20261111215500 +0000" channel="turksatkablo-227">
     <title lang="tr">Gece Yarısı</title>
@@ -56376,17 +56466,11 @@
   <programme start="20261112022500 +0000" stop="20261112025000 +0000" channel="turksatkablo-444">
     <title lang="tr">Kare</title>
   </programme>
-  <programme start="20261112025000 +0000" stop="20261112032700 +0000" channel="turksatkablo-444">
+  <programme start="20261112025000 +0000" stop="20261112030500 +0000" channel="turksatkablo-444">
     <title lang="tr">Kaptan Pengu Ve Arkadaşları</title>
   </programme>
-  <programme start="20261112032700 +0000" stop="20261112033000 +0000" channel="turksatkablo-444">
-    <title lang="tr">İstiklal Marşı</title>
-  </programme>
-  <programme start="20261112033000 +0000" stop="20261112035500 +0000" channel="turksatkablo-444">
-    <title lang="tr">Eymen İle Çimen</title>
-  </programme>
-  <programme start="20261112035500 +0000" stop="20261112042000 +0000" channel="turksatkablo-444">
-    <title lang="tr">Ege ile Gaga</title>
+  <programme start="20261112030500 +0000" stop="20261112042000 +0000" channel="turksatkablo-444">
+    <title lang="tr">İbi</title>
   </programme>
   <programme start="20261112042000 +0000" stop="20261112043000 +0000" channel="turksatkablo-444">
     <title lang="tr">El Feneri</title>
@@ -56401,10 +56485,10 @@
     <title lang="tr">Süper Tavşan Simon</title>
   </programme>
   <programme start="20261112052000 +0000" stop="20261112053000 +0000" channel="turksatkablo-444">
-    <title lang="tr">Eymen İle Çimen</title>
+    <title lang="tr">Nane İle Limon</title>
   </programme>
   <programme start="20261112053000 +0000" stop="20261112055500 +0000" channel="turksatkablo-444">
-    <title lang="tr">Kaptan Pengu Ve Arkadaşları</title>
+    <title lang="tr">Canım Kardeşim</title>
   </programme>
   <programme start="20261112055500 +0000" stop="20261112060500 +0000" channel="turksatkablo-444">
     <title lang="tr">Niloya</title>
@@ -56416,7 +56500,7 @@
     <title lang="tr">İbi</title>
   </programme>
   <programme start="20261112065500 +0000" stop="20261112070500 +0000" channel="turksatkablo-444">
-    <title lang="tr">Eymen İle Çimen</title>
+    <title lang="tr">Katuri</title>
   </programme>
   <programme start="20261112070500 +0000" stop="20261112072000 +0000" channel="turksatkablo-444">
     <title lang="tr">Bing</title>
@@ -56428,16 +56512,16 @@
     <title lang="tr">Süper Tavşan Simon</title>
   </programme>
   <programme start="20261112074500 +0000" stop="20261112080000 +0000" channel="turksatkablo-444">
-    <title lang="tr">Pırıl</title>
+    <title lang="tr">Elif ve Arkadaşları</title>
   </programme>
   <programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="turksatkablo-444">
     <title lang="tr">Rafadan Tayfa</title>
   </programme>
   <programme start="20261112083000 +0000" stop="20261112084500 +0000" channel="turksatkablo-444">
-    <title lang="tr">Dedektif Reptır</title>
+    <title lang="tr">Anadolu Rock</title>
   </programme>
   <programme start="20261112084500 +0000" stop="20261112085500 +0000" channel="turksatkablo-444">
-    <title lang="tr">Ekip: Siberay</title>
+    <title lang="tr">Baston Dedektiflik Bürosu</title>
   </programme>
   <programme start="20261112085500 +0000" stop="20261112092000 +0000" channel="turksatkablo-444">
     <title lang="tr">Maysa ve Bulut</title>
@@ -56461,10 +56545,10 @@
     <title lang="tr">Nils ve Uçan Kaz</title>
   </programme>
   <programme start="20261112113500 +0000" stop="20261112114500 +0000" channel="turksatkablo-444">
-    <title lang="tr">Kaptan Pengu Ve Arkadaşları</title>
+    <title lang="tr">Ser-A</title>
   </programme>
   <programme start="20261112114500 +0000" stop="20261112120000 +0000" channel="turksatkablo-444">
-    <title lang="tr">Anadolu Rock</title>
+    <title lang="tr">Ekip: Siberay</title>
   </programme>
   <programme start="20261112120000 +0000" stop="20261112121500 +0000" channel="turksatkablo-444">
     <title lang="tr">Bing</title>
@@ -56479,10 +56563,10 @@
     <title lang="tr">Nasreddin Hoca Zaman Yolcusu</title>
   </programme>
   <programme start="20261112132500 +0000" stop="20261112133500 +0000" channel="turksatkablo-444">
-    <title lang="tr">Dedektif Reptır</title>
+    <title lang="tr">Kehribar İle Boncuk</title>
   </programme>
   <programme start="20261112133500 +0000" stop="20261112135000 +0000" channel="turksatkablo-444">
-    <title lang="tr">Ekip: Siberay</title>
+    <title lang="tr">Z Takımı</title>
   </programme>
   <programme start="20261112135000 +0000" stop="20261112141500 +0000" channel="turksatkablo-444">
     <title lang="tr">İbi</title>
@@ -56820,77 +56904,86 @@
   <programme start="20261112203000 +0000" stop="20261112210000 +0000" channel="turksatkablo-446">
     <title lang="tr">Koyun Shaun</title>
   </programme>
-  <programme start="20261111210000 +0000" stop="20261111211500 +0000" channel="turksatkablo-447">
+  <programme start="20261111210000 +0000" stop="20261111211000 +0000" channel="turksatkablo-447">
+    <title lang="tr">-</title>
+  </programme>
+  <programme start="20261111211000 +0000" stop="20261111212500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Kara İle Keçe</title>
+  </programme>
+  <programme start="20261111212500 +0000" stop="20261111214000 +0000" channel="turksatkablo-447">
     <title lang="tr">Heybeli Tiyatro</title>
   </programme>
-  <programme start="20261111211500 +0000" stop="20261111213500 +0000" channel="turksatkablo-447">
+  <programme start="20261111214000 +0000" stop="20261111220000 +0000" channel="turksatkablo-447">
     <title lang="tr">Sevimli Sabahlar</title>
   </programme>
-  <programme start="20261111213500 +0000" stop="20261111215000 +0000" channel="turksatkablo-447">
+  <programme start="20261111220000 +0000" stop="20261111221500 +0000" channel="turksatkablo-447">
     <title lang="tr">Yumurcalı</title>
   </programme>
-  <programme start="20261111215000 +0000" stop="20261111221500 +0000" channel="turksatkablo-447">
+  <programme start="20261111221500 +0000" stop="20261111224000 +0000" channel="turksatkablo-447">
     <title lang="tr">Mercanya</title>
   </programme>
-  <programme start="20261111221500 +0000" stop="20261111223500 +0000" channel="turksatkablo-447">
+  <programme start="20261111224000 +0000" stop="20261111230000 +0000" channel="turksatkablo-447">
     <title lang="tr">Şeker Hoca</title>
   </programme>
-  <programme start="20261111223500 +0000" stop="20261111224500 +0000" channel="turksatkablo-447">
+  <programme start="20261111230000 +0000" stop="20261111231000 +0000" channel="turksatkablo-447">
     <title lang="tr">Temel'den Öğreniyorum</title>
   </programme>
-  <programme start="20261111224500 +0000" stop="20261111230000 +0000" channel="turksatkablo-447">
+  <programme start="20261111231000 +0000" stop="20261111232500 +0000" channel="turksatkablo-447">
     <title lang="tr">Fülfül Hac Yolunda</title>
   </programme>
-  <programme start="20261111230000 +0000" stop="20261111231500 +0000" channel="turksatkablo-447">
+  <programme start="20261111232500 +0000" stop="20261111234000 +0000" channel="turksatkablo-447">
     <title lang="tr">Küçük Hafız Emin</title>
   </programme>
-  <programme start="20261111231500 +0000" stop="20261111232000 +0000" channel="turksatkablo-447">
+  <programme start="20261111234000 +0000" stop="20261111234500 +0000" channel="turksatkablo-447">
     <title lang="tr">Ayrı Telden</title>
   </programme>
-  <programme start="20261111232000 +0000" stop="20261111234500 +0000" channel="turksatkablo-447">
+  <programme start="20261111234500 +0000" stop="20261112001000 +0000" channel="turksatkablo-447">
     <title lang="tr">Aylabera</title>
   </programme>
-  <programme start="20261111234500 +0000" stop="20261112000000 +0000" channel="turksatkablo-447">
+  <programme start="20261112001000 +0000" stop="20261112002500 +0000" channel="turksatkablo-447">
     <title lang="tr">Mimikolar</title>
   </programme>
-  <programme start="20261112000000 +0000" stop="20261112002500 +0000" channel="turksatkablo-447">
+  <programme start="20261112002500 +0000" stop="20261112005000 +0000" channel="turksatkablo-447">
     <title lang="tr">Gezgin Çelebi</title>
   </programme>
-  <programme start="20261112002500 +0000" stop="20261112003500 +0000" channel="turksatkablo-447">
+  <programme start="20261112005000 +0000" stop="20261112010000 +0000" channel="turksatkablo-447">
     <title lang="tr">Zekice İşler</title>
   </programme>
-  <programme start="20261112003500 +0000" stop="20261112004500 +0000" channel="turksatkablo-447">
+  <programme start="20261112010000 +0000" stop="20261112011000 +0000" channel="turksatkablo-447">
     <title lang="tr">Duyarlı Tilki</title>
   </programme>
-  <programme start="20261112004500 +0000" stop="20261112010500 +0000" channel="turksatkablo-447">
+  <programme start="20261112011000 +0000" stop="20261112013000 +0000" channel="turksatkablo-447">
     <title lang="tr">Miş Mış</title>
   </programme>
-  <programme start="20261112010500 +0000" stop="20261112012000 +0000" channel="turksatkablo-447">
+  <programme start="20261112013000 +0000" stop="20261112014500 +0000" channel="turksatkablo-447">
     <title lang="tr">Bilgili Naci</title>
   </programme>
-  <programme start="20261112012000 +0000" stop="20261112014000 +0000" channel="turksatkablo-447">
+  <programme start="20261112014500 +0000" stop="20261112020500 +0000" channel="turksatkablo-447">
     <title lang="tr">Benim Adım Mucize</title>
   </programme>
-  <programme start="20261112014000 +0000" stop="20261112015000 +0000" channel="turksatkablo-447">
+  <programme start="20261112020500 +0000" stop="20261112021500 +0000" channel="turksatkablo-447">
     <title lang="tr">Gugular</title>
   </programme>
-  <programme start="20261112015000 +0000" stop="20261112020500 +0000" channel="turksatkablo-447">
+  <programme start="20261112021500 +0000" stop="20261112023000 +0000" channel="turksatkablo-447">
     <title lang="tr">Geri Dön Çufi</title>
   </programme>
-  <programme start="20261112020500 +0000" stop="20261112022500 +0000" channel="turksatkablo-447">
+  <programme start="20261112023000 +0000" stop="20261112024500 +0000" channel="turksatkablo-447">
     <title lang="tr">Galip Mülayim</title>
   </programme>
-  <programme start="20261112022500 +0000" stop="20261112024000 +0000" channel="turksatkablo-447">
+  <programme start="20261112024500 +0000" stop="20261112030000 +0000" channel="turksatkablo-447">
     <title lang="tr">7 Kıtadan İyilik Habercileri</title>
   </programme>
-  <programme start="20261112024000 +0000" stop="20261112025500 +0000" channel="turksatkablo-447">
+  <programme start="20261112030000 +0000" stop="20261112032700 +0000" channel="turksatkablo-447">
     <title lang="tr">Yıldızlar Gibi</title>
   </programme>
-  <programme start="20261112025500 +0000" stop="20261112031000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Oyun Dolu</title>
+  <programme start="20261112032700 +0000" stop="20261112033000 +0000" channel="turksatkablo-447">
+    <title lang="tr">İstiklal Marşı Çocuk</title>
   </programme>
-  <programme start="20261112031000 +0000" stop="20261112040000 +0000" channel="turksatkablo-447">
-    <title lang="tr">Mimikolar</title>
+  <programme start="20261112033000 +0000" stop="20261112034500 +0000" channel="turksatkablo-447">
+    <title lang="tr">Meraklı Hafiye</title>
+  </programme>
+  <programme start="20261112034500 +0000" stop="20261112040000 +0000" channel="turksatkablo-447">
+    <title lang="tr">Dikkat Balonu</title>
   </programme>
   <programme start="20261112040000 +0000" stop="20261112041500 +0000" channel="turksatkablo-447">
     <title lang="tr">Kara İle Keçe</title>
@@ -64113,13 +64206,13 @@
   <programme start="20261112190000 +0000" stop="20261113030000 +0000" channel="turksatkablo-892">
     <title lang="tr">OlayTürk</title>
   </programme>
-  <programme start="20261111210000 +0000" stop="20261111221500 +0000" channel="turksatkablo-900">
+  <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="turksatkablo-900">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261111221500 +0000" stop="20261112002000 +0000" channel="turksatkablo-900">
+  <programme start="20261111220000 +0000" stop="20261112002500 +0000" channel="turksatkablo-900">
     <title lang="tr">Mehmed: Fetihler Sultanı</title>
   </programme>
-  <programme start="20261112002000 +0000" stop="20261112024300 +0000" channel="turksatkablo-900">
+  <programme start="20261112002500 +0000" stop="20261112024300 +0000" channel="turksatkablo-900">
     <title lang="tr">Alparslan: Büyük Selçuklu</title>
   </programme>
   <programme start="20261112024300 +0000" stop="20261112024500 +0000" channel="turksatkablo-900">
@@ -64188,10 +64281,10 @@
   <programme start="20261112170000 +0000" stop="20261112211500 +0000" channel="turksatkablo-901">
     <title lang="tr">Muhtemel Aşk</title>
   </programme>
-  <programme start="20261111210000 +0000" stop="20261111234000 +0000" channel="turksatkablo-902">
+  <programme start="20261111210000 +0000" stop="20261111231500 +0000" channel="turksatkablo-902">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261111234000 +0000" stop="20261112020000 +0000" channel="turksatkablo-902">
+  <programme start="20261111231500 +0000" stop="20261112020000 +0000" channel="turksatkablo-902">
     <title lang="tr">Var Mısın Yok Musun</title>
   </programme>
   <programme start="20261112020000 +0000" stop="20261112050000 +0000" channel="turksatkablo-902">
@@ -64306,15 +64399,15 @@
     <title lang="tr">Üç Kız Kardeş</title>
   </programme>
   <programme start="20261112040000 +0000" stop="20261112060000 +0000" channel="turksatkablo-908">
-    <title lang="tr">Öyle Bir Geçer Zaman Ki</title>
+    <title lang="tr">Küçük Ağa</title>
   </programme>
   <programme start="20261112060000 +0000" stop="20261112080000 +0000" channel="turksatkablo-908">
     <title lang="tr">Neler Oluyor Hayatta?</title>
   </programme>
-  <programme start="20261112080000 +0000" stop="20261112110000 +0000" channel="turksatkablo-908">
+  <programme start="20261112080000 +0000" stop="20261112104500 +0000" channel="turksatkablo-908">
     <title lang="tr">Yaprak Dökümü</title>
   </programme>
-  <programme start="20261112110000 +0000" stop="20261112134500 +0000" channel="turksatkablo-908">
+  <programme start="20261112104500 +0000" stop="20261112134500 +0000" channel="turksatkablo-908">
     <title lang="tr">Gelinim Mutfakta</title>
   </programme>
   <programme start="20261112134500 +0000" stop="20261112160000 +0000" channel="turksatkablo-908">
@@ -64324,16 +64417,19 @@
     <title lang="tr">Kanal D Ana Haber</title>
   </programme>
   <programme start="20261112170000 +0000" stop="20261112201500 +0000" channel="turksatkablo-908">
-    <title lang="tr">Uzak Şehir</title>
+    <title lang="tr">Güller Ve Günahlar</title>
   </programme>
-  <programme start="20261112201500 +0000" stop="20261112230000 +0000" channel="turksatkablo-908">
-    <title lang="tr">Eşref Rüya</title>
+  <programme start="20261112201500 +0000" stop="20261112224500 +0000" channel="turksatkablo-908">
+    <title lang="tr">Uzak Şehir</title>
   </programme>
   <programme start="20261111210000 +0000" stop="20261111234500 +0000" channel="turksatkablo-909">
     <title lang="tr">Halef</title>
   </programme>
-  <programme start="20261111234500 +0000" stop="20261112014500 +0000" channel="turksatkablo-909">
+  <programme start="20261111234500 +0000" stop="20261112004500 +0000" channel="turksatkablo-909">
     <title lang="tr">Ali İhsan Varol İle Kumbara</title>
+  </programme>
+  <programme start="20261112004500 +0000" stop="20261112014500 +0000" channel="turksatkablo-909">
+    <title lang="tr">Şevkat Yerimdar</title>
   </programme>
   <programme start="20261112014500 +0000" stop="20261112030000 +0000" channel="turksatkablo-909">
     <title lang="tr">Yasak Elma</title>
@@ -64341,7 +64437,10 @@
   <programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="turksatkablo-909">
     <title lang="tr">Karagül</title>
   </programme>
-  <programme start="20261112033000 +0000" stop="20261112041500 +0000" channel="turksatkablo-909">
+  <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="turksatkablo-909">
+    <title lang="tr">Ali İhsan Varol İle Kumbara</title>
+  </programme>
+  <programme start="20261112040000 +0000" stop="20261112041500 +0000" channel="turksatkablo-909">
     <title lang="tr">Ali İhsan Varol İle Kumbara</title>
   </programme>
   <programme start="20261112041500 +0000" stop="20261112050000 +0000" channel="turksatkablo-909">
@@ -64413,50 +64512,74 @@
   <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="turksatkablo-911">
     <title lang="tr">-</title>
   </programme>
-  <programme start="20261111220000 +0000" stop="20261112023000 +0000" channel="turksatkablo-911">
+  <programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="turksatkablo-911">
     <title lang="tr">Spor Artı</title>
   </programme>
-  <programme start="20261112023000 +0000" stop="20261112040000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Stadyum</title>
+  <programme start="20261111230000 +0000" stop="20261112010000 +0000" channel="turksatkablo-911">
+    <title lang="tr">UEFA Şampiyonlar Ligi Özetler</title>
   </programme>
-  <programme start="20261112040000 +0000" stop="20261112055500 +0000" channel="turksatkablo-911">
+  <programme start="20261112010000 +0000" stop="20261112023000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Futbol Aklı</title>
+  </programme>
+  <programme start="20261112023000 +0000" stop="20261112040000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Aktüel Futbol</title>
+  </programme>
+  <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Bundesliga Özetler</title>
+  </programme>
+  <programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Trendyol 1. Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20261112050000 +0000" stop="20261112070000 +0000" channel="turksatkablo-911">
     <title lang="tr">İlk Baskı</title>
   </programme>
-  <programme start="20261112055500 +0000" stop="20261112060000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Spor Takvimi</title>
-  </programme>
-  <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="turksatkablo-911">
+  <programme start="20261112070000 +0000" stop="20261112071500 +0000" channel="turksatkablo-911">
     <title lang="tr">İşitme Engelliler Spor Bülteni</title>
   </programme>
-  <programme start="20261112070000 +0000" stop="20261112080000 +0000" channel="turksatkablo-911">
+  <programme start="20261112071500 +0000" stop="20261112073000 +0000" channel="turksatkablo-911">
+    <title lang="tr">UEFA Avrupa Konferans Ligi</title>
+  </programme>
+  <programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="turksatkablo-911">
     <title lang="tr">Spor Bülteni</title>
   </programme>
-  <programme start="20261112080000 +0000" stop="20261112100000 +0000" channel="turksatkablo-911">
+  <programme start="20261112080000 +0000" stop="20261112093000 +0000" channel="turksatkablo-911">
     <title lang="tr">Spor Manşet</title>
   </programme>
-  <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Muhabir Saati</title>
+  <programme start="20261112093000 +0000" stop="20261112102000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Gün Ortası</title>
   </programme>
-  <programme start="20261112110000 +0000" stop="20261112130000 +0000" channel="turksatkablo-911">
+  <programme start="20261112102000 +0000" stop="20261112110000 +0000" channel="turksatkablo-911">
+    <title lang="tr">UEFA Avrupa Ligi Maç Özeti</title>
+  </programme>
+  <programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="turksatkablo-911">
     <title lang="tr">Spor Stüdyosu</title>
+  </programme>
+  <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Spor Merkezi</title>
+  </programme>
+  <programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Futbol: İspanya La Liga Özetler</title>
   </programme>
   <programme start="20261112130000 +0000" stop="20261112143000 +0000" channel="turksatkablo-911">
     <title lang="tr">Gündem Futbol</title>
   </programme>
-  <programme start="20261112143000 +0000" stop="20261112145000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Dünyadan Spor</title>
+  <programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Spor Dijital</title>
   </programme>
-  <programme start="20261112145000 +0000" stop="20261112150000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Bizim Ligler</title>
+  <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Ezgi Sütçü İle Ana Haber</title>
   </programme>
-  <programme start="20261112150000 +0000" stop="20261112190000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Aktüel Futbol</title>
-  </programme>
-  <programme start="20261112190000 +0000" stop="20261112203000 +0000" channel="turksatkablo-911">
+  <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="turksatkablo-911">
     <title lang="tr">Stadyum</title>
   </programme>
-  <programme start="20261112203000 +0000" stop="20261112220000 +0000" channel="turksatkablo-911">
-    <title lang="tr">Teknik Analiz</title>
+  <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Spor Akşamı</title>
+  </programme>
+  <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="turksatkablo-911">
+    <title lang="tr">UEFA Şampiyonlar Ligi Özetler</title>
+  </programme>
+  <programme start="20261112190000 +0000" stop="20261112210000 +0000" channel="turksatkablo-911">
+    <title lang="tr">Stadyum</title>
   </programme>
   <programme start="20261111210000 +0000" stop="20261111230000 +0000" channel="turksatkablo-912">
     <title lang="tr">-</title>
@@ -64641,17 +64764,11 @@
   <programme start="20261112022500 +0000" stop="20261112025000 +0000" channel="turksatkablo-914">
     <title lang="tr">Kare</title>
   </programme>
-  <programme start="20261112025000 +0000" stop="20261112032700 +0000" channel="turksatkablo-914">
+  <programme start="20261112025000 +0000" stop="20261112030500 +0000" channel="turksatkablo-914">
     <title lang="tr">Kaptan Pengu Ve Arkadaşları</title>
   </programme>
-  <programme start="20261112032700 +0000" stop="20261112033000 +0000" channel="turksatkablo-914">
-    <title lang="tr">İstiklal Marşı</title>
-  </programme>
-  <programme start="20261112033000 +0000" stop="20261112035500 +0000" channel="turksatkablo-914">
-    <title lang="tr">Eymen İle Çimen</title>
-  </programme>
-  <programme start="20261112035500 +0000" stop="20261112042000 +0000" channel="turksatkablo-914">
-    <title lang="tr">Ege ile Gaga</title>
+  <programme start="20261112030500 +0000" stop="20261112042000 +0000" channel="turksatkablo-914">
+    <title lang="tr">İbi</title>
   </programme>
   <programme start="20261112042000 +0000" stop="20261112043000 +0000" channel="turksatkablo-914">
     <title lang="tr">El Feneri</title>
@@ -64666,10 +64783,10 @@
     <title lang="tr">Süper Tavşan Simon</title>
   </programme>
   <programme start="20261112052000 +0000" stop="20261112053000 +0000" channel="turksatkablo-914">
-    <title lang="tr">Eymen İle Çimen</title>
+    <title lang="tr">Nane İle Limon</title>
   </programme>
   <programme start="20261112053000 +0000" stop="20261112055500 +0000" channel="turksatkablo-914">
-    <title lang="tr">Kaptan Pengu Ve Arkadaşları</title>
+    <title lang="tr">Canım Kardeşim</title>
   </programme>
   <programme start="20261112055500 +0000" stop="20261112060500 +0000" channel="turksatkablo-914">
     <title lang="tr">Niloya</title>
@@ -64681,7 +64798,7 @@
     <title lang="tr">İbi</title>
   </programme>
   <programme start="20261112065500 +0000" stop="20261112070500 +0000" channel="turksatkablo-914">
-    <title lang="tr">Eymen İle Çimen</title>
+    <title lang="tr">Katuri</title>
   </programme>
   <programme start="20261112070500 +0000" stop="20261112072000 +0000" channel="turksatkablo-914">
     <title lang="tr">Bing</title>
@@ -64693,16 +64810,16 @@
     <title lang="tr">Süper Tavşan Simon</title>
   </programme>
   <programme start="20261112074500 +0000" stop="20261112080000 +0000" channel="turksatkablo-914">
-    <title lang="tr">Pırıl</title>
+    <title lang="tr">Elif ve Arkadaşları</title>
   </programme>
   <programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="turksatkablo-914">
     <title lang="tr">Rafadan Tayfa</title>
   </programme>
   <programme start="20261112083000 +0000" stop="20261112084500 +0000" channel="turksatkablo-914">
-    <title lang="tr">Dedektif Reptır</title>
+    <title lang="tr">Anadolu Rock</title>
   </programme>
   <programme start="20261112084500 +0000" stop="20261112085500 +0000" channel="turksatkablo-914">
-    <title lang="tr">Ekip: Siberay</title>
+    <title lang="tr">Baston Dedektiflik Bürosu</title>
   </programme>
   <programme start="20261112085500 +0000" stop="20261112092000 +0000" channel="turksatkablo-914">
     <title lang="tr">Maysa ve Bulut</title>
@@ -64726,10 +64843,10 @@
     <title lang="tr">Nils ve Uçan Kaz</title>
   </programme>
   <programme start="20261112113500 +0000" stop="20261112114500 +0000" channel="turksatkablo-914">
-    <title lang="tr">Kaptan Pengu Ve Arkadaşları</title>
+    <title lang="tr">Ser-A</title>
   </programme>
   <programme start="20261112114500 +0000" stop="20261112120000 +0000" channel="turksatkablo-914">
-    <title lang="tr">Anadolu Rock</title>
+    <title lang="tr">Ekip: Siberay</title>
   </programme>
   <programme start="20261112120000 +0000" stop="20261112121500 +0000" channel="turksatkablo-914">
     <title lang="tr">Bing</title>
@@ -64744,10 +64861,10 @@
     <title lang="tr">Nasreddin Hoca Zaman Yolcusu</title>
   </programme>
   <programme start="20261112132500 +0000" stop="20261112133500 +0000" channel="turksatkablo-914">
-    <title lang="tr">Dedektif Reptır</title>
+    <title lang="tr">Kehribar İle Boncuk</title>
   </programme>
   <programme start="20261112133500 +0000" stop="20261112135000 +0000" channel="turksatkablo-914">
-    <title lang="tr">Ekip: Siberay</title>
+    <title lang="tr">Z Takımı</title>
   </programme>
   <programme start="20261112135000 +0000" stop="20261112141500 +0000" channel="turksatkablo-914">
     <title lang="tr">İbi</title>
