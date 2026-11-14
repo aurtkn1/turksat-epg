@@ -15822,47 +15822,8 @@
   <programme start="20261113234000 +0000" stop="20261113235000 +0000" channel="turksatkablo-457">
     <title lang="tr">Ben 10</title>
   </programme>
-  <programme start="20261113235000 +0000" stop="20261114000500 +0000" channel="turksatkablo-457">
+  <programme start="20261113235000 +0000" stop="20261114030000 +0000" channel="turksatkablo-457">
     <title lang="tr">Ben 10</title>
-  </programme>
-  <programme start="20261114000500 +0000" stop="20261114001500 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114001500 +0000" stop="20261114003000 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114003000 +0000" stop="20261114004000 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114004000 +0000" stop="20261114005500 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114005500 +0000" stop="20261114010500 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114010500 +0000" stop="20261114012000 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114012000 +0000" stop="20261114013000 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114013000 +0000" stop="20261114014500 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114014500 +0000" stop="20261114021000 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114021000 +0000" stop="20261114022000 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114022000 +0000" stop="20261114023500 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114023500 +0000" stop="20261114024500 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
-  </programme>
-  <programme start="20261114024500 +0000" stop="20261114030000 +0000" channel="turksatkablo-457">
-    <title lang="tr">Kral Şakir</title>
   </programme>
   <programme start="20261114030000 +0000" stop="20261114030500 +0000" channel="turksatkablo-457">
     <title lang="tr">Tom ve Jerry Şov</title>
@@ -45051,8 +45012,11 @@
   <programme start="20261116152500 +0000" stop="20261116170000 +0000" channel="turksatkablo-24">
     <title lang="tr">Show Ana Haber</title>
   </programme>
-  <programme start="20261116170000 +0000" stop="20261116211500 +0000" channel="turksatkablo-24">
+  <programme start="20261116170000 +0000" stop="20261116204500 +0000" channel="turksatkablo-24">
     <title lang="tr">Güldür Güldür Show</title>
+  </programme>
+  <programme start="20261116204500 +0000" stop="20261116213000 +0000" channel="turksatkablo-24">
+    <title lang="tr">Gece Hattı</title>
   </programme>
   <programme start="20261115210000 +0000" stop="20261115211500 +0000" channel="turksatkablo-25">
     <title lang="tr">-</title>
@@ -45379,7 +45343,7 @@
     <title lang="tr">Bitirimler Sosyetede</title>
   </programme>
   <programme start="20261116040000 +0000" stop="20261116054500 +0000" channel="turksatkablo-33">
-    <title lang="tr">Film</title>
+    <title lang="tr">Yumurcağın Tatlı Rüyaları</title>
   </programme>
   <programme start="20261116054500 +0000" stop="20261116074500 +0000" channel="turksatkablo-33">
     <title lang="tr">Zamanı Geldi</title>
@@ -45391,10 +45355,10 @@
     <title lang="tr">Seren'le Buluşalım</title>
   </programme>
   <programme start="20261116110000 +0000" stop="20261116124500 +0000" channel="turksatkablo-33">
-    <title lang="tr">Film</title>
+    <title lang="tr">Bebek Yüzlü</title>
   </programme>
   <programme start="20261116124500 +0000" stop="20261116143000 +0000" channel="turksatkablo-33">
-    <title lang="tr">Film</title>
+    <title lang="tr">Bitirimler Sosyetede</title>
   </programme>
   <programme start="20261116143000 +0000" stop="20261116160000 +0000" channel="turksatkablo-33">
     <title lang="tr">Seksenler</title>
@@ -45403,10 +45367,10 @@
     <title lang="tr">Ben Bilirim</title>
   </programme>
   <programme start="20261116180000 +0000" stop="20261116200000 +0000" channel="turksatkablo-33">
-    <title lang="tr">Film</title>
+    <title lang="tr">Bir Teselli Ver</title>
   </programme>
   <programme start="20261116200000 +0000" stop="20261116214500 +0000" channel="turksatkablo-33">
-    <title lang="tr">Film</title>
+    <title lang="tr">Bebek Yüzlü</title>
   </programme>
   <programme start="20261115210000 +0000" stop="20261115220000 +0000" channel="turksatkablo-34">
     <title lang="tr">En Kötü Kabusun</title>
@@ -48384,11 +48348,11 @@
   <programme start="20261116170000 +0000" stop="20261116175000 +0000" channel="turksatkablo-56">
     <title lang="tr">Akşam Ajansı</title>
   </programme>
-  <programme start="20261116175000 +0000" stop="20261116205000 +0000" channel="turksatkablo-56">
+  <programme start="20261116175000 +0000" stop="20261116194500 +0000" channel="turksatkablo-56">
     <title lang="tr">Melih Altınok İle Sebep Sonuç</title>
   </programme>
-  <programme start="20261116205000 +0000" stop="20261116230000 +0000" channel="turksatkablo-56">
-    <title lang="tr">Gece Ajansı</title>
+  <programme start="20261116194500 +0000" stop="20261116220000 +0000" channel="turksatkablo-56">
+    <title lang="tr">ULUSLAR LİGİ</title>
   </programme>
   <programme start="20261115210000 +0000" stop="20261115215500 +0000" channel="turksatkablo-57">
     <title lang="tr">Haber Bülteni</title>
@@ -64452,8 +64416,11 @@
   <programme start="20261116152500 +0000" stop="20261116170000 +0000" channel="turksatkablo-901">
     <title lang="tr">Show Ana Haber</title>
   </programme>
-  <programme start="20261116170000 +0000" stop="20261116211500 +0000" channel="turksatkablo-901">
+  <programme start="20261116170000 +0000" stop="20261116204500 +0000" channel="turksatkablo-901">
     <title lang="tr">Güldür Güldür Show</title>
+  </programme>
+  <programme start="20261116204500 +0000" stop="20261116213000 +0000" channel="turksatkablo-901">
+    <title lang="tr">Gece Hattı</title>
   </programme>
   <programme start="20261115210000 +0000" stop="20261115214000 +0000" channel="turksatkablo-902">
     <title lang="tr">-</title>
@@ -65352,11 +65319,11 @@
   <programme start="20261116170000 +0000" stop="20261116175000 +0000" channel="turksatkablo-919">
     <title lang="tr">Akşam Ajansı</title>
   </programme>
-  <programme start="20261116175000 +0000" stop="20261116205000 +0000" channel="turksatkablo-919">
+  <programme start="20261116175000 +0000" stop="20261116194500 +0000" channel="turksatkablo-919">
     <title lang="tr">Melih Altınok İle Sebep Sonuç</title>
   </programme>
-  <programme start="20261116205000 +0000" stop="20261116230000 +0000" channel="turksatkablo-919">
-    <title lang="tr">Gece Ajansı</title>
+  <programme start="20261116194500 +0000" stop="20261116220000 +0000" channel="turksatkablo-919">
+    <title lang="tr">ULUSLAR LİGİ</title>
   </programme>
   <programme start="20261115210000 +0000" stop="20261115215500 +0000" channel="turksatkablo-920">
     <title lang="tr">Haber Bülteni</title>
